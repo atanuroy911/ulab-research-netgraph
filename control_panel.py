@@ -697,9 +697,12 @@ class ControlPanel(QMainWindow):
         # QScrollArea's viewport doesn't inherit the app stylesheet's light background by
         # default (Fusion paints it dark) — transparent lets QMainWindow's own background
         # show through instead of a mismatched dark panel behind the group boxes.
-        scroll.setStyleSheet("QScrollArea { background: transparent; border: none; }")
+        # IMPORTANT: only style the viewport (an internal widget with no button/combo
+        # descendants), never `scroll` or `tab` themselves — calling setStyleSheet() on a
+        # container that has descendants relying on the app-wide QPushButton/QComboBox
+        # rules breaks their color inheritance (this is what made every button render
+        # plain/unstyled last time).
         scroll.viewport().setStyleSheet("background: transparent;")
-        tab.setStyleSheet("background: transparent;")
         scroll.setWidget(tab)
         return scroll
 
