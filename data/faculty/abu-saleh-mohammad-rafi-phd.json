@@ -31,88 +31,46 @@
   ],
   "extracted_keywords": [
     {
-      "term": "Applied Linguistics",
-      "canonical": "Applied Linguistics",
-      "weight": 0.95,
-      "source": "bio+pubs",
-      "verified": true
-    },
-    {
       "term": "multilingualism",
       "canonical": "Multilingualism",
-      "weight": 0.9,
-      "source": "bio",
-      "verified": true
+      "weight": 0.7,
+      "source": "bio+pubs",
+      "verified": false
     },
     {
       "term": "translanguaging pedagogies",
       "canonical": "Translanguaging Pedagogies",
-      "weight": 0.9,
-      "source": "bio",
-      "verified": true
+      "weight": 0.6,
+      "source": "bio+pubs",
+      "verified": false
     },
     {
       "term": "language policy",
       "canonical": "Language Policy",
-      "weight": 0.85,
-      "source": "bio",
-      "verified": true
+      "weight": 0.5,
+      "source": "bio+pubs",
+      "verified": false
     },
     {
       "term": "critical AI studies",
       "canonical": "Critical AI Studies",
-      "weight": 0.9,
-      "source": "bio",
-      "verified": true
-    },
-    {
-      "term": "Linguistic Ecology of Bangladeshi Higher Education",
-      "canonical": "Linguistic Ecology",
-      "weight": 0.9,
+      "weight": 0.4,
       "source": "bio+pubs",
-      "verified": true
+      "verified": false
     },
     {
-      "term": "early years language learning",
-      "canonical": "Early Years Language Learning",
-      "weight": 0.8,
-      "source": "bio",
-      "verified": true
+      "term": "multicultural education",
+      "canonical": "Multicultural Education",
+      "weight": 0.3,
+      "source": "bio+pubs",
+      "verified": false
     },
     {
-      "term": "ELT teachers and the July revolution",
-      "canonical": "ELT/Language Education",
-      "weight": 0.75,
-      "source": "pubs",
-      "verified": true
-    },
-    {
-      "term": "translanguaging-informed conversation analysis",
-      "canonical": "Translanguaging/CA",
-      "weight": 0.8,
-      "source": "pubs",
-      "verified": true
-    },
-    {
-      "term": "academic writing discourse",
-      "canonical": "Academic Writing",
-      "weight": 0.75,
-      "source": "pubs",
-      "verified": true
-    },
-    {
-      "term": "Language Metamorphosis: Implications for Language Education in Decolonial Contexts",
-      "canonical": "Decolonial Language Education",
-      "weight": 0.8,
-      "source": "bio",
-      "verified": true
-    },
-    {
-      "term": "AI ethics, education, and legal frameworks",
-      "canonical": "AI Ethics and Education",
-      "weight": 0.7,
-      "source": "bio",
-      "verified": true
+      "term": "educational linguistics",
+      "canonical": "Educational Linguistics",
+      "weight": 0.2,
+      "source": "bio+pubs",
+      "verified": false
     }
   ],
   "embedding": [
@@ -502,5 +460,165 @@
     -0.06133030354976654
   ],
   "locked_fields": [],
-  "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\abu-saleh-mohammad-rafi-phd.png"
+  "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\abu-saleh-mohammad-rafi-phd.png",
+  "keyword_extractions": {
+    "legacy": {
+      "keywords": [
+        {
+          "term": "Applied Linguistics",
+          "canonical": "Applied Linguistics",
+          "weight": 1,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "translanguaging pedagogies",
+          "canonical": "Translanguaging Pedagogies",
+          "weight": 0.95,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "critical AI studies",
+          "canonical": "Critical AI Studies",
+          "weight": 0.9,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "multilingualism",
+          "canonical": "Multilingualism",
+          "weight": 0.9,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "language policy",
+          "canonical": "Language Policy",
+          "weight": 0.8,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "Educational Linguistics",
+          "canonical": "Educational Linguistics",
+          "weight": 0.85,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "Sociolinguistics",
+          "canonical": "Sociolinguistics",
+          "weight": 0.8,
+          "source": "interests",
+          "verified": true
+        },
+        {
+          "term": "Early Years Language Learning in Australia",
+          "canonical": "Early Years Language Learning",
+          "weight": 0.8,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "Linguistic Ecology of Bangladeshi Higher Education: A Translanguaging Perspective",
+          "canonical": "Linguistic Ecology",
+          "weight": 0.75,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "AI ethics, education, and legal frameworks",
+          "canonical": "AI Ethics and Education",
+          "weight": 0.7,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "Second Language Writing",
+          "canonical": "Second Language Writing",
+          "weight": 0.65,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "Critical Inquiry in Language Studies",
+          "canonical": "Critical Inquiry in Language Studies",
+          "weight": 0.6,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "Trans-Phenomenon in Language, Literature, and Culture",
+          "canonical": "Language, Literature, and Culture",
+          "weight": 0.6,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "pedagogic design",
+          "canonical": "Pedagogic Design",
+          "weight": 0.7,
+          "source": "publications",
+          "verified": true
+        },
+        {
+          "term": "Classroom Discourse",
+          "canonical": "Classroom Discourse",
+          "weight": 0.6,
+          "source": "bio",
+          "verified": true
+        }
+      ],
+      "extracted_at": null
+    },
+    "llama3:8b": {
+      "keywords": [
+        {
+          "term": "multilingualism",
+          "canonical": "Multilingualism",
+          "weight": 0.7,
+          "source": "bio+pubs",
+          "verified": false
+        },
+        {
+          "term": "translanguaging pedagogies",
+          "canonical": "Translanguaging Pedagogies",
+          "weight": 0.6,
+          "source": "bio+pubs",
+          "verified": false
+        },
+        {
+          "term": "language policy",
+          "canonical": "Language Policy",
+          "weight": 0.5,
+          "source": "bio+pubs",
+          "verified": false
+        },
+        {
+          "term": "critical AI studies",
+          "canonical": "Critical AI Studies",
+          "weight": 0.4,
+          "source": "bio+pubs",
+          "verified": false
+        },
+        {
+          "term": "multicultural education",
+          "canonical": "Multicultural Education",
+          "weight": 0.3,
+          "source": "bio+pubs",
+          "verified": false
+        },
+        {
+          "term": "educational linguistics",
+          "canonical": "Educational Linguistics",
+          "weight": 0.2,
+          "source": "bio+pubs",
+          "verified": false
+        }
+      ],
+      "extracted_at": "2026-07-14T03:53:39.531371+00:00"
+    }
+  },
+  "active_extraction_model": "llama3:8b"
 }

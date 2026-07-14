@@ -204,7 +204,7 @@
     "top_keywords": [
       "Gender Studies",
       "Emotional Studies",
-      "Cultural Studies"
+      "Cultural studies"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Anika-Shah-300.jpg?itok=2G2NtpTl",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\anika-shah.jpg"
@@ -270,7 +270,7 @@
     "top_keywords": [
       "Pedagogy",
       "Learning Outcomes",
-      "Higher Education Administration"
+      "Higher Education"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Arzoo%20Ismail.jpg?itok=vb0zqfZl",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\arzoo-ismail.jpg"
@@ -283,7 +283,7 @@
     "title": "Lecturer",
     "top_keywords": [
       "Solar Cell Optimization",
-      "Solar Cell Technology",
+      "Solar Cell Optimization",
       "Nano-Electronics"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/ashfaquealam__1_-removebg-preview.png?itok=yD268xCD",
@@ -311,7 +311,7 @@
     "title": "Lecturer",
     "top_keywords": [
       "History of Bengal",
-      "Bengal Renaissance",
+      "History of Bengal",
       "Liberation War of Bangladesh"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Asma-Royhana-Sarkar-300.jpg?itok=2AT7mD_O",
@@ -324,8 +324,8 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Deep Learning",
-      "Computer Vision",
+      "deep learning",
+      "computer vision",
       "IoT-enabled"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Atanu-Shuvam-Roy.jpg?itok=rdON0aFw",
@@ -414,7 +414,7 @@
     "school": "",
     "title": "Senior Lecturer",
     "top_keywords": [
-      "Machine Learning",
+      "machine learning",
       "VANET",
       "HCI"
     ],
@@ -443,7 +443,7 @@
     "title": "Lecturer",
     "top_keywords": [
       "Artificial Intelligence",
-      "Machine Learning",
+      "machine learning",
       "High Performance Computing"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/faculty-default-pic_1.jpg?itok=SmBZAFBe",
@@ -456,7 +456,7 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "AI",
+      "Artificial Intelligence",
       "ML",
       "CV"
     ],
@@ -470,7 +470,7 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "artificial-intelligence",
+      "Artificial Intelligence",
       "generative-ai",
       "digital-journalism"
     ],
@@ -500,7 +500,7 @@
     "top_keywords": [
       "Misinformation Studies",
       "Health Communication",
-      "Media and Cultural Studies"
+      "Media Studies"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Portrait-Shirt.jpg?itok=-0b9Lqfx",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\din-m-sumon-rahman-phd.jpg"
@@ -569,7 +569,7 @@
     "title": "Assistant Professor",
     "top_keywords": [
       "Intercultural Communication",
-      "Migration and Refugee Studies",
+      "Refugees and Labour Trafficking",
       "Qualitative Research"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Farhana-Zamil.jpg?itok=QxPxUI87",
@@ -582,7 +582,7 @@
     "school": "",
     "title": "Assistant Professor",
     "top_keywords": [
-      "20th Century British Lit",
+      "English Lit",
       "Env Hum",
       "Sci Fi Surveil"
     ],
@@ -596,8 +596,8 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Machine Learning",
-      "Natural Language Processing",
+      "machine learning",
+      "natural language processing",
       "Query Oriented Topical Clusters"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Fatema-Khan.jpg?itok=5ahx7Kg9",
@@ -612,7 +612,7 @@
     "top_keywords": [
       "Low-resource NLP",
       "Bangla NLP",
-      "Machine Learning"
+      "machine learning"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Foysal-Ahmed.jpg?itok=v0TjzsrB",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\foysal-ahmed.jpg"
@@ -625,7 +625,7 @@
     "title": "Senior Lecturer",
     "top_keywords": [
       "Curriculum and Syllabus Design",
-      "Language Education",
+      "Educational Linguistics",
       "Materials Development for Language Teaching and..."
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/golam-kader-zilany-300.jpg?itok=CYQc5ZiG",
@@ -653,8 +653,8 @@
     "title": "Adjunct Faculty",
     "top_keywords": [
       "English Language Teacher Education",
-      "English Language Teaching Methodology",
-      "Language Teacher Education"
+      "English Language Teacher Education",
+      "English Language Teacher Education"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/harunur-rashid-khan-300.jpg?itok=ymMWtWg_",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\harunur-rashid-khan.jpg"
@@ -680,9 +680,9 @@
     "school": "",
     "title": "Associate Professor",
     "top_keywords": [
-      "Computational Image Processing",
+      "Image Processing",
       "Signal Processing",
-      "Image Optimization"
+      "Image Processing"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Ifat-Al-Baqee.jpg?itok=ryNM9vxz",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\ifat-al%C2%A0baqee-phd%C2%A0.jpg"
@@ -695,7 +695,7 @@
     "title": "Senior Lecturer",
     "top_keywords": [
       "Sustainable Development",
-      "Language Teaching",
+      "English Language Teacher Education",
       "AI and Higher Education"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/05-CLS-Iram-Mehrin-300.jpg?itok=ebESz1zo",
@@ -724,7 +724,7 @@
     "top_keywords": [
       "NLP",
       "ML",
-      "DL"
+      "DLM"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Untitled%20design%20%288%29_0.png?itok=A0g7xN21",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\jannatul-ferdous-ruma.png"
@@ -737,7 +737,7 @@
     "title": "Lecturer & Research Associate",
     "top_keywords": [
       "Disaster Risk Reduction",
-      "Climate Change Adaptation",
+      "Climate change adaptation",
       "Vulnerability Assessment"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/5.%20Joy%20Bhowmik.jpg?itok=3U5eqlRl",
@@ -750,7 +750,7 @@
     "school": "",
     "title": "Associate Professor",
     "top_keywords": [
-      "international finance",
+      "Trade Finance",
       "islamic banking and finance",
       "multi-criteria decision making"
     ],
@@ -764,8 +764,8 @@
     "school": "",
     "title": "Senior Lecturer",
     "top_keywords": [
-      "Machine Learning",
-      "Computer Vision",
+      "machine learning",
+      "computer vision",
       "Pattern Recognition"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Khan%20Raqib%20Mahmud.jpg?itok=Ld_TnyeQ",
@@ -778,7 +778,7 @@
     "school": "",
     "title": "Adjunct Professor",
     "top_keywords": [
-      "business communication",
+      "Business Communication",
       "english pronunciation editing",
       "career planning"
     ],
@@ -792,9 +792,9 @@
     "school": "",
     "title": "Senior Lecturer",
     "top_keywords": [
-      "Cinema Studies",
+      "Cinema Studies & Training",
       "Feminist Film Theory",
-      "Indigenous Studies"
+      "Study of Indigenous Cultures and Their..."
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Laboni-Akter-300.jpg?itok=EW8MmuhJ",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\laboni-akter.jpg"
@@ -834,9 +834,9 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Sustainable Growth",
-      "Energy Economics",
-      "Environmental Economics"
+      "Sustainable Development",
+      "Energy Policy",
+      "Economics"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Lubaba-Nawar-300.jpg?itok=imPrQed4",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\lubaba-nawar.jpg"
@@ -849,8 +849,8 @@
     "title": "Senior Lecturer",
     "top_keywords": [
       "Communalism in Pakistan (East Bengal, 1947-1955)",
-      "South Asian History",
-      "Indigenous history and society"
+      "SouthAsianHistory",
+      "Indigenous and marginalized communities"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/M%20M%20Azizul%20Islam.jpg?itok=r53_Q6vp",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\m-m-azizul-islam-rasel.jpg"
@@ -862,7 +862,7 @@
     "school": "",
     "title": "Senior Lecturer",
     "top_keywords": [
-      "Postcolonial State Formation",
+      "Postcolonial Studies",
       "South Asian Political Ideologies",
       "Decolonization"
     ],
@@ -876,8 +876,8 @@
     "school": "",
     "title": "Professor",
     "top_keywords": [
-      "critical discourse analysis (CDA)",
-      "sociolinguistics",
+      "Critical Discourse Analysis",
+      "Sociolinguistics",
       "medium of instruction policy"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Mahmud-Hasan-Khan.jpg?itok=JdTzCHcR",
@@ -891,8 +891,8 @@
     "title": "Assistant Professor",
     "top_keywords": [
       "Media Studies",
-      "Journalism",
-      "Misinformation"
+      "digital-journalism",
+      "Misinformation Studies"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Mahmudunnabi.jpg?itok=uzChvVkb",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\mahmudun-nabi-phd.jpg"
@@ -905,8 +905,8 @@
     "title": "Senior Lecturer",
     "top_keywords": [
       "Artificial Intelligence",
-      "Machine Learning",
-      "VLSI"
+      "machine learning",
+      "VLSI design"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Mainul-Haque-300.jpg?itok=TtEu-Nxp",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\mainul-haque.jpg"
@@ -932,8 +932,8 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Machine Learning",
-      "Deep Learning",
+      "machine learning",
+      "deep learning",
       "Mathematics Modeling"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Untitled%20design%20%283%29.png?itok=_gxKwqWN",
@@ -961,7 +961,7 @@
     "title": "Senior Lecturer",
     "top_keywords": [
       "Public Health",
-      "Communication in Healthcare",
+      "Health Communication",
       "Social Neuroscience"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Aminul-Islam.jpg?itok=46Z_UXAx",
@@ -988,8 +988,8 @@
     "school": "",
     "title": "Associate Professor",
     "top_keywords": [
-      "Machine Learning",
-      "Machine Learning",
+      "machine learning",
+      "machine learning",
       "Antenna Performance Prediction"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Ashraful-Haque-300.jpg?itok=1_XXaZ83",
@@ -1003,7 +1003,7 @@
     "title": "Lecturer",
     "top_keywords": [
       "Education through Theatre",
-      "Research",
+      "Research impact",
       "Theatricality in Theatre"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/didarul-islam.jpg?itok=nnoRIaRL",
@@ -1041,8 +1041,8 @@
     "title": "Assistant Professor",
     "top_keywords": [
       "Energy Policy",
-      "Sustainability",
-      "Energy Economics"
+      "Organisational Sustainability",
+      "Energy Policy"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Md-Kamal-Uddin-300.jpg?itok=8HLbM4jT",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-kamal-uddin-phd.jpg"
@@ -1055,7 +1055,7 @@
     "title": "Lecturer",
     "top_keywords": [
       "Cloud Computing",
-      "Machine Learning",
+      "machine learning",
       "Internet of Things"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/ULAB%20website%20Profile%20MDKH.jpg?itok=uKCtW7hd",
@@ -1098,7 +1098,7 @@
     "top_keywords": [
       "land use dynamics",
       "geospatial techniques",
-      "climate change"
+      "Climate change adaptation"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Md-Naimur-Rahman-300.jpg?itok=GSNnmnda",
     "local_image_path": null
@@ -1110,9 +1110,9 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Machine Learning",
-      "Deep Learning",
-      "Natural Language Processing"
+      "machine learning",
+      "deep learning",
+      "natural language processing"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Untitled%20design%20%282%29.png?itok=O4446qb_",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-nazmul-abdal.png"
@@ -1126,7 +1126,7 @@
     "top_keywords": [
       "GIS",
       "Remote Sensing",
-      "Machine Learning"
+      "machine learning"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Md-Sharafat-Chowdhury.jpg?itok=AIuylKw6",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-sharafat-chowdhury.jpg"
@@ -1152,9 +1152,9 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Machine Learning",
-      "Nanoelectronics",
-      "VLSI"
+      "machine learning",
+      "Nano-Electronics",
+      "VLSI design"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/1615697430_Md.-Zesun-Ahmed-Mia-500x500-removebg-preview_0.png?itok=EIEcQngY",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-zesun-ahmed-mia.png"
@@ -1181,8 +1181,8 @@
     "title": "Associate Professor",
     "top_keywords": [
       "Just Transition",
-      "Sustainability",
-      "Corporate Finance"
+      "Organisational Sustainability",
+      "corporate financing"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Dr.Minhaz.png?itok=DJRAlkkW",
     "local_image_path": null
@@ -1196,7 +1196,7 @@
     "top_keywords": [
       "MIS",
       "DA",
-      "AI"
+      "AI Ed"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Mohaimenul-Islam.jpg?itok=FiOz68Jl",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\mohaimenul-islam-jowarder.jpg"
@@ -1252,7 +1252,7 @@
     "top_keywords": [
       "Rohingya crisis",
       "Human rights violations",
-      "Gender studies"
+      "Gender Studies"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/002.jpg?itok=dRNjO46Z",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\mrittika-kamal.jpg"
@@ -1264,8 +1264,8 @@
     "school": "",
     "title": "Senior Lecturer",
     "top_keywords": [
-      "Computer Vision",
-      "Machine Learning",
+      "computer vision",
+      "machine learning",
       "Image Processing"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Untitled%20design%20%284%29%20%281%29.png?itok=L28Ukv3V",
@@ -1278,9 +1278,9 @@
     "school": "",
     "title": "Lecturer-Cum-Research Associate",
     "top_keywords": [
-      "Sustainability",
+      "Organisational Sustainability",
       "Loss and Damage",
-      "Climate Justice"
+      "Environmental justice"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Tahura-Farbin.jpg?itok=QywKaQm3",
     "local_image_path": null
@@ -1293,7 +1293,7 @@
     "title": "Assistant Professor",
     "top_keywords": [
       "Software Project Management",
-      "Data Science",
+      "Data Science & Analytics",
       "Simulation Modeling"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Untitled%20design%20%284%29.png?itok=cumsogo4",
@@ -1306,7 +1306,7 @@
     "school": "",
     "title": "Senior Lecturer",
     "top_keywords": [
-      "Multimedia Journalism",
+      "digital-journalism",
       "Communication Technology",
       "Metric Topology"
     ],
@@ -1334,7 +1334,7 @@
     "school": "",
     "title": "Senior Lecturer",
     "top_keywords": [
-      "corporate finance",
+      "corporate financing",
       "financial statement analysis",
       "security analysis"
     ],
@@ -1350,7 +1350,7 @@
     "top_keywords": [
       "South Asian Women Writers",
       "Victorian Literature",
-      "Theater And Adaptation"
+      "Film Adaptation"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Nadia%20Rahman.jpg?itok=566XmZMM",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\nadia-rahman.jpg"
@@ -1362,7 +1362,7 @@
     "school": "",
     "title": "Professor",
     "top_keywords": [
-      "Wireless Communications",
+      "Radio Communication",
       "Ad-Hoc Networks",
       "Blockchain"
     ],
@@ -1404,9 +1404,9 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Data Science",
-      "Machine Learning",
-      "Artificial Intelligence (AI)"
+      "Data Science & Analytics",
+      "machine learning",
+      "Artificial Intelligence"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Nasir-Uddin-Ahmed.png.png?itok=rw3tS9yD",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\nasir-uddin-ahmed.png"
@@ -1419,7 +1419,7 @@
     "title": "Lecturer-Cum-Research Associate",
     "top_keywords": [
       "Climate Change Mitigation",
-      "Renewable Energy",
+      "Renewable Energy Integration",
       "Environmental Impact Assessment"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/nayma-akhter-jahan-25-300.jpg?itok=ifpymI9G",
@@ -1433,7 +1433,7 @@
     "title": "Senior Lecturer",
     "top_keywords": [
       "Strategic Management Analysis For Sustainability",
-      "Hrm Issues",
+      "HRM",
       "Entrepreneurship"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Nazmun-Nur-Eva.jpg?itok=qaRtzJc5",
@@ -1447,7 +1447,7 @@
     "title": "Lecturer",
     "top_keywords": [
       "literary media representation",
-      "popular culture",
+      "Popular Culture",
       "intersectionality"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Neha-Ghose-300.jpg?itok=qXOLG159",
@@ -1488,7 +1488,7 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Comparative Literature",
+      "Comparative literature",
       "Translation Studies",
       "Comparative Translation"
     ],
@@ -1516,9 +1516,9 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Decoloniality",
-      "Intersectionality",
-      "Queerness"
+      "Decolonization",
+      "intersectionality",
+      "Queer Theory"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/IMG_3680.jpg?itok=TQXIcIwd",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\oliur-rahman-sun.jpg"
@@ -1546,7 +1546,7 @@
     "top_keywords": [
       "US Government Fellowship",
       "Graduate Studies",
-      "Short Course on International Business"
+      "International Business"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Abdul%20Mannan.jpg?itok=roqeLJj-",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\prof-abdul-mannan.jpg"
@@ -1558,9 +1558,9 @@
     "school": "",
     "title": "Visiting Professor",
     "top_keywords": [
-      "Environmental Sustainability",
       "Sustainable Development",
-      "Environmental Science"
+      "Sustainable Development",
+      "Environmental Studies and Sustainability Science"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/1522729203_1469431230_Carolynroberts3-removebg-preview.png?itok=yV1Nt286",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\prof-carolyn-roberts.png"
@@ -1587,7 +1587,7 @@
     "title": "Treasurer & Professor",
     "top_keywords": [
       "Academic Tenure",
-      "Leadership Roles",
+      "leadership skills",
       "Financial Expertise"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Prof.%20Milan.jpg?itok=Tk_ZvKbT",
@@ -1600,7 +1600,7 @@
     "school": "",
     "title": "Professor & Head",
     "top_keywords": [
-      "Internet of Things (IoT)",
+      "Internet of Things",
       "Semantic web",
       "Web-of-Objects (WoO)"
     ],
@@ -1653,8 +1653,8 @@
     "title": "Professor & Dean, School of Arts and Humanities",
     "top_keywords": [
       "modern and contemporary literature",
-      "postcolonial literature",
-      "literary translation"
+      "Postcolonial Studies",
+      "Translated Literature"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/KHH_site%20profile.jpg?itok=eNyTCpUy",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\professor-kaiser-hamidul-haq-phd.jpg"
@@ -1723,8 +1723,8 @@
     "title": "Senior Lecturer",
     "top_keywords": [
       "Cognitive Development",
-      "Language Education",
-      "Literary Studies"
+      "Educational Linguistics",
+      "literary studies"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/03-CLS-Rajia-Sultana-300.jpg?itok=_0T82z5V",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\rajia-sultana.jpg"
@@ -1750,8 +1750,8 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "International English Language Testing System",
-      "Teaching English as a Second Language",
+      "Language Testing and Evaluation",
+      "English Language Teacher Education",
       "Developing learner autonomy"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Rezwana.jpg?itok=tKwtFOJ3",
@@ -1766,7 +1766,7 @@
     "top_keywords": [
       "protein prediction",
       "machine learning",
-      "bioinformatics"
+      "Bioinformatics"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/1542106512_Rianon-Zaman-removebg-preview.png?itok=YCBO5sR5",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\rianon-zaman.png"
@@ -1779,8 +1779,8 @@
     "title": "Senior Lecturer",
     "top_keywords": [
       "Refugee Migratory Movements Research Unit (RMMRU)",
-      "Institute of Governance Studies (IGS), BRAC...",
-      "Indigenous issues"
+      "Governance and Development Studies",
+      "Indigenous and marginalized communities"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Rigan%20Chakma.jpg?itok=mJcKjtsC",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\rigan-chakma.jpg"
@@ -1792,7 +1792,7 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Supply Chain Management",
+      "Supply Chain Optimization",
       "Circular Economy Practices",
       "Green Supply Chain Management"
     ],
@@ -1820,9 +1820,9 @@
     "school": "",
     "title": "Associate Professor",
     "top_keywords": [
-      "Innovation Sciences",
+      "Innovation Management",
       "Work-Integrated Learning",
-      "Circular Economy"
+      "Circular Economy Practices"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/sabrina-luthfa-300.jpg?itok=8VaxTljd",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sabrina-luthfa-phd.jpg"
@@ -1834,9 +1834,9 @@
     "school": "",
     "title": "Senior Lecturer",
     "top_keywords": [
-      "Comparative Literature",
+      "Comparative literature",
       "Ecofeminism",
-      "Socio Linguistics"
+      "Sociolinguistics"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/SADIA-AFRIN.jpg?itok=TE3ynnIn",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sadia-afrin.jpg"
@@ -1873,7 +1873,7 @@
     "title": "Associate Professor",
     "top_keywords": [
       "Social Enterprises",
-      "Capital Markets",
+      "Capital Market Development",
       "Multidisciplinary Education"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Sajid%20sir%20web.jpg?itok=_8ZU1Xkt",
@@ -1901,7 +1901,7 @@
     "title": "Lecturer",
     "top_keywords": [
       "Microeconomics",
-      "International Trade",
+      "International Business",
       "Econometrics"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Sakib-Hossain-300.jpg?itok=IHJF-2TT",
@@ -1914,9 +1914,9 @@
     "school": "",
     "title": "Senior Lecturer & Research Associate",
     "top_keywords": [
-      "Sustainability Development",
-      "Environmental Research",
-      "Climate Change"
+      "Sustainable Development",
+      "Environmental Studies and Sustainability Science",
+      "Climate change adaptation"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/sameera-zaman-25-300.jpg?itok=0rc5jyjJ",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sameera-zaman.jpg"
@@ -1943,8 +1943,8 @@
     "title": "Professor & Dean",
     "top_keywords": [
       "ESG risk management",
-      "Climate finance",
-      "Corporate social responsibility"
+      "carbon finance",
+      "Corporate Social Responsibility"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/sarwar-uddin-300-brick.png?itok=NzKwA4oX",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sarwar-uddin-ahmed-phd.png"
@@ -1966,7 +1966,7 @@
     "school": "",
     "title": "Assistant Professor",
     "top_keywords": [
-      "Postcolonial",
+      "Postcolonial Studies",
       "Afrocentricity",
       "African American Lit"
     ],
@@ -1995,8 +1995,8 @@
     "title": "Lecturer",
     "top_keywords": [
       "Information Retrieval",
-      "Natural Language Processing",
-      "Machine Learning Models"
+      "natural language processing",
+      "machine learning"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Shah-Jafor-Sadeek-Quaderi-300.jpg?itok=8h0G7DvH",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shah-jafor-sadeek-quaderi.jpg"
@@ -2008,9 +2008,9 @@
     "school": "",
     "title": "Associate Professor",
     "top_keywords": [
-      "Renewable Energy",
+      "Renewable Energy Integration",
       "Sustainable Development",
-      "Climate Change"
+      "Climate change adaptation"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Dr-Shahana-Chowdhury-300.jpg?itok=Iqv6y4rU",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shahana-afrose-chowdhury-phd.jpg"
@@ -2024,7 +2024,7 @@
     "top_keywords": [
       "English for Academic Purposes",
       "Teaching English Through Literature",
-      "Teaching English to Young Learners"
+      "English Language Teacher Education"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/02-CLS-Shaheen-Ara-300.jpg?itok=tSVm-iYV",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shaheen-ara.jpg"
@@ -2037,8 +2037,8 @@
     "title": "Senior Lecturer",
     "top_keywords": [
       "accounting",
-      "financial accounting",
-      "management accounting"
+      "accounting",
+      "accounting"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Shajedul.jpg?itok=2sClUqXe",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shajedul-alam.jpg"
@@ -2050,9 +2050,9 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Computer Vision",
+      "computer vision",
       "Artificial Intelligence",
-      "Medical Image Processing"
+      "Medical Image Analysis"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Shakib-Mahmud-Dipto.jpg?itok=ltW795yi",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shakib-mahmud-dipto.jpg"
@@ -2064,7 +2064,7 @@
     "school": "",
     "title": "Associate Professor & Director, MBA & EMBA Program",
     "top_keywords": [
-      "Development and Financial Economics",
+      "Development Economics",
       "Institutional Efficiency",
       "Intellectual Capital"
     ],
@@ -2079,8 +2079,8 @@
     "title": "Lecturer",
     "top_keywords": [
       "Predictive Modeling",
-      "Machine Learning",
-      "Data Analysis"
+      "machine learning",
+      "Data Driven Analysis"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/shatabdi-das-300.jpg?itok=P8nADAmD",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shatabdi-das.jpg"
@@ -2107,8 +2107,8 @@
     "title": "Senior Lecturer",
     "top_keywords": [
       "Green Supply Chain Management",
-      "Supply Chain Performance Optimization",
-      "Sustainability"
+      "Supply Chain Optimization",
+      "Organisational Sustainability"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/shawkat-tanvir-rahman-500x500.jpg?itok=rAIcZ9yA",
     "local_image_path": null
@@ -2144,8 +2144,8 @@
     "school": "",
     "title": "Senior Lecturer",
     "top_keywords": [
-      "Bangla Language and Literature",
-      "Folklore and Cultural Studies",
+      "Bangla literature",
+      "Folklore",
       "Ecocriticism"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Shirin-Akter_0.jpg?itok=6aChdAWd",
@@ -2158,7 +2158,7 @@
     "school": "",
     "title": "Assistant Professor",
     "top_keywords": [
-      "Accounting Information Systems",
+      "accounting",
       "Financial Management",
       "Village Phone: Expectation vs. Execution"
     ],
@@ -2210,9 +2210,9 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Machine Learning",
-      "Data Science",
-      "Natural Language Processing"
+      "machine learning",
+      "Data Science & Analytics",
+      "natural language processing"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/image_suravi.png?itok=xjuuutMn",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\suravi-akhter.png"
@@ -2224,9 +2224,9 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "comparative literature",
-      "postcolonialism",
-      "psychoanalytic criticism"
+      "Comparative literature",
+      "Postcolonial Studies",
+      "psychoanalysis"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/ssmridha.jpg?itok=l4wJzJCN",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\susmita-sangeeta-mridha.jpg"
@@ -2267,7 +2267,7 @@
     "title": "Lecturer",
     "top_keywords": [
       "creative industry history",
-      "marketing in creative field",
+      "Marketing",
       "marketing strategy development"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Tabassum-Islam-USB.png?itok=BO-93imC",
@@ -2280,8 +2280,8 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Creative Communication",
-      "Communication for Development",
+      "Creative Writing",
+      "development communication",
       "Inclusivity and Disability Rights"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/003_0.jpg?itok=ESx2XhVW",
@@ -2294,9 +2294,9 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "computer networks",
+      "Computer Networks",
       "cross-platform development",
-      "cloud computing"
+      "Cloud Computing"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/tangila-removebg-preview.png?itok=IkNd7gZc",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\tangila-islam-tanni.png"
@@ -2309,7 +2309,7 @@
     "title": "Senior Lecturer",
     "top_keywords": [
       "TEAL",
-      "ESL",
+      "ESG",
       "Sociolinguistics"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/04-CLS-Tazin-Ahmed-300.jpg?itok=PMAF2PT1",
@@ -2322,7 +2322,7 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "digital journalism",
+      "digital-journalism",
       "media practices",
       "media framing"
     ],
@@ -2336,7 +2336,7 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Linguistics Research",
+      "Applied Linguistics",
       "Phonetics & Phonology",
       "Morphology & Syntax"
     ],
@@ -2350,9 +2350,9 @@
     "school": "",
     "title": "Lecturer",
     "top_keywords": [
-      "Machine Learning",
-      "Deep Learning",
-      "Feature Selection Techniques"
+      "machine learning",
+      "deep learning",
+      "Feature Subset Selection"
     ],
     "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/5552.png?itok=gjYxVjbO",
     "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\wahida-ferdose-urmi.png"

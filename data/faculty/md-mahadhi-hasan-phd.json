@@ -29,143 +29,45 @@
   "extracted_keywords": [
     {
       "term": "Artificial Intelligence in Education",
-      "canonical": "AI EdTech",
+      "canonical": "AI Ed",
       "weight": 0.8,
-      "source": "bio+pubs",
-      "verified": true
-    },
-    {
-      "term": "Critical AI",
-      "canonical": "Critique of AI",
-      "weight": 0.7,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "EdTech",
-      "canonical": "Education Technology",
-      "weight": 0.9,
+      "canonical": "EdTech",
+      "weight": 0.7,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Teacher Education",
-      "canonical": "Teach Ed",
-      "weight": 0.8,
+      "canonical": "TE",
+      "weight": 0.6,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Technology and Ethics in Education",
-      "canonical": "Tech Ethics Ed",
-      "weight": 0.7,
-      "source": "bio+pubs",
-      "verified": true
-    },
-    {
-      "term": "Applied Linguistics and TESOL",
-      "canonical": "Ling Ed",
-      "weight": 0.9,
-      "source": "bio+pubs",
-      "verified": true
-    },
-    {
-      "term": "Personalized Language Learning",
-      "canonical": "PLL",
-      "weight": 0.8,
-      "source": "pubs",
-      "verified": true
-    },
-    {
-      "term": "Academic Integrity",
-      "canonical": "AI in Ed",
-      "weight": 0.7,
-      "source": "pubs",
-      "verified": true
-    },
-    {
-      "term": "E-Assessments",
-      "canonical": "EA",
-      "weight": 0.6,
-      "source": "pubs",
-      "verified": true
-    },
-    {
-      "term": "Student Learning Experiences",
-      "canonical": "SLE",
-      "weight": 0.8,
-      "source": "pubs",
-      "verified": true
-    },
-    {
-      "term": "English Medium Instruction",
-      "canonical": "EMI",
-      "weight": 0.7,
-      "source": "pubs",
-      "verified": true
-    },
-    {
-      "term": "Diasporic Identity",
-      "canonical": "DI",
-      "weight": 0.6,
-      "source": "pubs",
-      "verified": true
-    },
-    {
-      "term": "Literary Ecocriticism",
-      "canonical": "LEC",
+      "canonical": "TEE Ed",
       "weight": 0.5,
-      "source": "pubs",
-      "verified": true
-    },
-    {
-      "term": "New Media Use in Education",
-      "canonical": "NMUE",
-      "weight": 0.7,
       "source": "bio+pubs",
       "verified": true
     },
     {
-      "term": "Language Learning Across Diverse Linguistic and Sociocultural Transitions",
-      "canonical": "LLADLS",
-      "weight": 0.6,
-      "source": "pubs",
-      "verified": true
-    },
-    {
-      "term": "Adaptive Strategies in Language Learning",
-      "canonical": "ASLL",
-      "weight": 0.5,
-      "source": "pubs",
-      "verified": true
-    },
-    {
-      "term": "Teacher Self-Access Support Competence",
-      "canonical": "TSASC",
+      "term": "Critical AI",
+      "canonical": "Crit AI",
       "weight": 0.4,
-      "source": "pubs",
+      "source": "bio+pubs",
       "verified": true
     },
     {
-      "term": "Crisis to Confidence in Teaching Experiences",
-      "canonical": "CTCE",
+      "term": "Personalized Learning",
+      "canonical": "PL",
       "weight": 0.3,
       "source": "pubs",
-      "verified": true
-    },
-    {
-      "term": "Romanticism and Primitivism in Literary Roots of Modern Ecocriticism",
-      "canonical": "RPLEMOC",
-      "weight": 0.2,
-      "source": "pubs",
-      "verified": true
-    },
-    {
-      "term": "Plagiarism in Higher Education",
-      "canonical": "PHE",
-      "weight": 0.1,
-      "source": "pubs",
-      "verified": true
+      "verified": false
     }
   ],
   "embedding": [
@@ -555,5 +457,200 @@
     0.004415789619088173
   ],
   "locked_fields": [],
-  "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-mahadhi-hasan-phd.jpg"
+  "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-mahadhi-hasan-phd.jpg",
+  "keyword_extractions": {
+    "legacy": {
+      "keywords": [
+        {
+          "term": "Artificial Intelligence in Education",
+          "canonical": "AI EdTech",
+          "weight": 0.8,
+          "source": "bio+pubs",
+          "verified": true
+        },
+        {
+          "term": "Critical AI",
+          "canonical": "Critique of AI",
+          "weight": 0.7,
+          "source": "bio+pubs",
+          "verified": true
+        },
+        {
+          "term": "EdTech",
+          "canonical": "Education Technology",
+          "weight": 0.9,
+          "source": "bio+pubs",
+          "verified": true
+        },
+        {
+          "term": "Teacher Education",
+          "canonical": "Teach Ed",
+          "weight": 0.8,
+          "source": "bio+pubs",
+          "verified": true
+        },
+        {
+          "term": "Technology and Ethics in Education",
+          "canonical": "Tech Ethics Ed",
+          "weight": 0.7,
+          "source": "bio+pubs",
+          "verified": true
+        },
+        {
+          "term": "Applied Linguistics and TESOL",
+          "canonical": "Ling Ed",
+          "weight": 0.9,
+          "source": "bio+pubs",
+          "verified": true
+        },
+        {
+          "term": "Personalized Language Learning",
+          "canonical": "PLL",
+          "weight": 0.8,
+          "source": "pubs",
+          "verified": true
+        },
+        {
+          "term": "Academic Integrity",
+          "canonical": "AI in Ed",
+          "weight": 0.7,
+          "source": "pubs",
+          "verified": true
+        },
+        {
+          "term": "E-Assessments",
+          "canonical": "EA",
+          "weight": 0.6,
+          "source": "pubs",
+          "verified": true
+        },
+        {
+          "term": "Student Learning Experiences",
+          "canonical": "SLE",
+          "weight": 0.8,
+          "source": "pubs",
+          "verified": true
+        },
+        {
+          "term": "English Medium Instruction",
+          "canonical": "EMI",
+          "weight": 0.7,
+          "source": "pubs",
+          "verified": true
+        },
+        {
+          "term": "Diasporic Identity",
+          "canonical": "DI",
+          "weight": 0.6,
+          "source": "pubs",
+          "verified": true
+        },
+        {
+          "term": "Literary Ecocriticism",
+          "canonical": "LEC",
+          "weight": 0.5,
+          "source": "pubs",
+          "verified": true
+        },
+        {
+          "term": "New Media Use in Education",
+          "canonical": "NMUE",
+          "weight": 0.7,
+          "source": "bio+pubs",
+          "verified": true
+        },
+        {
+          "term": "Language Learning Across Diverse Linguistic and Sociocultural Transitions",
+          "canonical": "LLADLS",
+          "weight": 0.6,
+          "source": "pubs",
+          "verified": true
+        },
+        {
+          "term": "Adaptive Strategies in Language Learning",
+          "canonical": "ASLL",
+          "weight": 0.5,
+          "source": "pubs",
+          "verified": true
+        },
+        {
+          "term": "Teacher Self-Access Support Competence",
+          "canonical": "TSASC",
+          "weight": 0.4,
+          "source": "pubs",
+          "verified": true
+        },
+        {
+          "term": "Crisis to Confidence in Teaching Experiences",
+          "canonical": "CTCE",
+          "weight": 0.3,
+          "source": "pubs",
+          "verified": true
+        },
+        {
+          "term": "Romanticism and Primitivism in Literary Roots of Modern Ecocriticism",
+          "canonical": "RPLEMOC",
+          "weight": 0.2,
+          "source": "pubs",
+          "verified": true
+        },
+        {
+          "term": "Plagiarism in Higher Education",
+          "canonical": "PHE",
+          "weight": 0.1,
+          "source": "pubs",
+          "verified": true
+        }
+      ],
+      "extracted_at": null
+    },
+    "llama3:8b": {
+      "keywords": [
+        {
+          "term": "Artificial Intelligence in Education",
+          "canonical": "AI Ed",
+          "weight": 0.8,
+          "source": "bio+pubs",
+          "verified": true
+        },
+        {
+          "term": "EdTech",
+          "canonical": "EdTech",
+          "weight": 0.7,
+          "source": "bio+pubs",
+          "verified": true
+        },
+        {
+          "term": "Teacher Education",
+          "canonical": "TE",
+          "weight": 0.6,
+          "source": "bio+pubs",
+          "verified": true
+        },
+        {
+          "term": "Technology and Ethics in Education",
+          "canonical": "TEE Ed",
+          "weight": 0.5,
+          "source": "bio+pubs",
+          "verified": true
+        },
+        {
+          "term": "Critical AI",
+          "canonical": "Crit AI",
+          "weight": 0.4,
+          "source": "bio+pubs",
+          "verified": true
+        },
+        {
+          "term": "Personalized Learning",
+          "canonical": "PL",
+          "weight": 0.3,
+          "source": "pubs",
+          "verified": false
+        }
+      ],
+      "extracted_at": "2026-07-14T03:58:46.158709+00:00"
+    }
+  },
+  "active_extraction_model": "llama3:8b"
 }

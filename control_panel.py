@@ -20,7 +20,7 @@ from PyQt6.QtWidgets import (
     QSplitter, QTabWidget, QLabel, QPushButton, QLineEdit, QTextEdit,
     QPlainTextEdit, QCheckBox, QComboBox, QFrame, QTreeWidget,
     QTreeWidgetItem, QHeaderView, QGroupBox, QScrollArea, QSizePolicy,
-    QStatusBar, QProgressBar, QMessageBox, QSpinBox
+    QStatusBar, QProgressBar, QMessageBox, QSpinBox, QDoubleSpinBox
 )
 from PyQt6.QtCore import (
     Qt, QThread, pyqtSignal, QObject, QTimer, QSize
@@ -163,7 +163,7 @@ QComboBox QAbstractItemView {{
     selection-background-color: #dbeafe; selection-color: {ULAB_BLUE};
     border: 1px solid {SLATE_200}; outline: none;
 }}
-QSpinBox {{
+QSpinBox, QDoubleSpinBox {{
     background: white; color: {SLATE_900}; border: 1px solid {SLATE_200};
     border-radius: 5px; padding: 3px 6px;
 }}
@@ -525,6 +525,54 @@ class ControlPanel(QMainWindow):
         gv2.addWidget(btn)
         v.addWidget(grp2)
 
+        # Canonicalize keywords — deterministic embedding-nearest-neighbor matching against
+        # a controlled vocabulary, instead of trusting the LLM's free-form canonical guess.
+        # This is what actually fixes low keyword overlap: the old taxonomy.json was a
+        # near-1:1 dump of raw terms (build_taxonomy.py never really clustered anything),
+        # so almost nobody's keywords matched anyone else's even when they meant the same
+        # thing ("machine learning" vs "Machine Learning" vs "ML").
+        grp_canon = QGroupBox("Canonicalize Keywords (Controlled Vocabulary)")
+        gv_canon = QVBoxLayout(grp_canon)
+        gv_canon.addWidget(QLabel(
+            "Merges near-duplicate keywords (case/plural/phrasing variants) into a shared\n"
+            "canonical label by embedding similarity, so genuinely-related faculty actually\n"
+            "show up as connected. Locked/verified faculty are never touched."
+        ))
+        canon_row = QHBoxLayout()
+        canon_row.addWidget(QLabel("Similarity threshold:"))
+        self.canon_threshold_spin = QDoubleSpinBox()
+        self.canon_threshold_spin.setRange(0.50, 0.95)
+        self.canon_threshold_spin.setSingleStep(0.01)
+        self.canon_threshold_spin.setValue(0.72)
+        self.canon_threshold_spin.setToolTip(
+            "Higher = fewer, safer merges. 0.72 was empirically checked against this dataset:\n"
+            "catches case/plural/synonym variants without conflating distinct fields\n"
+            "(e.g. Machine Learning stays separate from Computer Vision). Below ~0.70, merges\n"
+            "start getting questionable (e.g. 'Financial Management' -> 'financial technology')."
+        )
+        canon_row.addWidget(self.canon_threshold_spin)
+
+        self.canon_reset_chk = QCheckBox("Rebuild from scratch (ignore existing taxonomy.json)")
+        self.canon_reset_chk.setToolTip(
+            "The existing taxonomy.json may itself be an unclustered dump from before this\n"
+            "feature existed. Checking this ignores it and reclusters from the current\n"
+            "extracted_keywords instead of seeding from (and trivially matching) it."
+        )
+        canon_row.addWidget(self.canon_reset_chk)
+        canon_row.addStretch()
+        gv_canon.addLayout(canon_row)
+
+        canon_btn_row = QHBoxLayout()
+        canonicalize_btn = QPushButton("🏷 Canonicalize + Rebuild Graph")
+        canonicalize_btn.setObjectName("green")
+        canonicalize_btn.clicked.connect(self._run_canonicalize)
+        self.canonicalize_btn = canonicalize_btn
+        canon_btn_row.addWidget(canonicalize_btn)
+        canon_btn_row.addStretch()
+        gv_canon.addLayout(canon_btn_row)
+
+        v.addWidget(grp_canon)
+
         # Graph builder — the actually-working embeddings/edges pipeline (Node, not the
         # legacy pipeline/build_edges.py which falls back to mock vectors without
         # sentence-transformers installed). Lets you pick which keyword sources feed the
@@ -594,6 +642,57 @@ class ControlPanel(QMainWindow):
         if self.src_interests_chk.isChecked():
             sources.append("interests")
         return sources
+
+    def _run_canonicalize(self):
+        threshold = self.canon_threshold_spin.value()
+        reset = self.canon_reset_chk.isChecked()
+
+        msg = f"This rewrites extracted_keywords[].canonical across the dataset at threshold {threshold:.2f}"
+        msg += " and rebuilds the taxonomy from scratch (--reset)." if reset else " (merging into the existing taxonomy.json)."
+        msg += " Locked/verified faculty are skipped. Embeddings and edges are rebuilt afterward. Continue?"
+        if QMessageBox.question(self, "Canonicalize keywords", msg) != QMessageBox.StandardButton.Yes:
+            return
+
+        web_dir = os.path.join(BASE_DIR, "web")
+        npm = "npm.cmd" if os.name == "nt" else "npm"
+
+        cmd = [npm, "run", "canonicalize-keywords", "--", "--threshold", str(threshold)]
+        if reset:
+            cmd.append("--reset")
+
+        self.canonicalize_btn.setEnabled(False)
+        self._log(f"--- Canonicalizing keywords (threshold={threshold:.2f}{', reset' if reset else ''}) ---")
+
+        def run_embeddings(rc):
+            if rc != 0:
+                self._log("[Error] canonicalize-keywords.mjs failed — skipping embeddings/edges rebuild.")
+                self.canonicalize_btn.setEnabled(True)
+                return
+            w2 = ProcessWorker([npm, "run", "build-embeddings"], web_dir)
+            w2.log.connect(self._log)
+            w2.finished.connect(run_edges)
+            w2.start()
+            self._canon_embeddings_worker = w2
+
+        def run_edges(rc):
+            if rc != 0:
+                self._log("[Error] build-embeddings.mjs failed — skipping edges step.")
+                self.canonicalize_btn.setEnabled(True)
+                return
+            w3 = ProcessWorker([npm, "run", "build-edges"], web_dir)
+            w3.log.connect(self._log)
+            w3.finished.connect(lambda rc3: (
+                self._log("--- Canonicalize + rebuild complete ---" if rc3 == 0 else "--- Rebuild failed ---"),
+                self.canonicalize_btn.setEnabled(True)
+            ))
+            w3.start()
+            self._canon_edges_worker = w3
+
+        w1 = ProcessWorker(cmd, web_dir)
+        w1.log.connect(self._log)
+        w1.finished.connect(run_embeddings)
+        w1.start()
+        self._canon_worker = w1
 
     def _run_graph_builder(self):
         sources = self._selected_keyword_sources()

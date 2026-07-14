@@ -22,14 +22,14 @@
   "extracted_keywords": [
     {
       "term": "Deep Learning",
-      "canonical": "Deep Learning",
+      "canonical": "deep learning",
       "weight": 0.6,
       "source": "bio",
       "verified": false
     },
     {
       "term": "Computer Vision",
-      "canonical": "Computer Vision",
+      "canonical": "computer vision",
       "weight": 0.5,
       "source": "bio",
       "verified": false

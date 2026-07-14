@@ -1,350 +1,219 @@
 {
-  "Artificial Intelligence": [
-    "Artificial Intelligence",
-    "Artificial intelligence",
-    "Life with Artificial Intelligence today and tomorrow",
-    "artificial intelligence",
-    "machine learning"
-  ],
   "Media Studies": [
+    "Media Research",
     "Media Studies",
-    "media studies"
+    "Media and Cultural Studies"
   ],
   "Animation": [
     "Animation"
   ],
-  "Animation Film": [
-    "Short Animation Film"
-  ],
-  "Fine Art": [
-    "fine art shows"
-  ],
-  "Graffiti Art": [
-    "Graffiti Art Competition",
-    "Interactive Graffiti"
-  ],
-  "Painting Exhibition": [
-    "Solo painting & printmaking exhibition"
-  ],
-  "Performance Art": [
-    "Performance Art"
-  ],
-  "Printmaking": [
-    "Printmaking"
+  "Cinema Studies & Training": [
+    "Cinema Studies",
+    "Cinema Studies & Training"
   ],
   "Painting": [
     "Painting"
   ],
-  "Cinema Studies": [
-    "Cinema",
-    "Cinema Studies & Training"
+  "Printmaking": [
+    "Printmaking"
   ],
-  "Animation & New Media": [
-    "Department of Animation & New Media"
+  "Interactive Graffiti": [
+    "Interactive Graffiti"
   ],
-  "Painting Symposium": [
-    "International Painting Symposium"
-  ],
-  "Quality of Earnings and Financial Disclosures": [
-    "quality of earnings and financial disclosures"
+  "Quality Assurance": [
+    "Quality Assurance"
   ],
   "Capital Market Development": [
-    "capital market development"
+    "Capital Market Development",
+    "Capital Markets"
   ],
   "Customer Knowledge Management": [
-    "customer knowledge management"
-  ],
-  "Consumer Rights": [
-    "consumer rights"
+    "Customer Knowledge Management"
   ],
   "Corporate Social Responsibility": [
-    "corporate social responsibility"
+    "Corporate Social Responsibility",
+    "Corporate social responsibility"
   ],
-  "Governance and Reporting": [
-    "transparent reporting and strong governance practices"
+  "Outcome-Based Education": [
+    "Outcome-Based Education"
   ],
-  "Sustainable Economic Growth": [
-    "sustainable economic growth",
-    "sustainable growth"
+  "Transparent Reporting": [
+    "Transparent Reporting"
   ],
-  "Green Marketing Strategy": [
-    "Green Marketing Strategy"
+  "VLSI design": [
+    "VLSI",
+    "VLSI design",
+    "vlsi electronics"
   ],
-  "Corporate Governance and Firm Performance": [
-    "Corporate Governance and Firm Performance"
+  "semiconductor characterization": [
+    "Semiconductor",
+    "semiconductor characterization"
   ],
-  "Insider Trading Policies": [
-    "Insider Trading: Policy responses and compliance"
+  "transistor architecture": [
+    "transistor architecture"
   ],
-  "Financial Accounting": [
-    "Financial Accounting"
+  "AES technology": [
+    "AES technology"
   ],
-  "Accountability and Trust": [
-    "Accountability and trust"
+  "mimo frequency": [
+    "mimo frequency"
   ],
-  "Blended Learning": [
-    "blended learning"
+  "Comparative Linguistics": [
+    "Comparative Language",
+    "Comparative Linguistics"
   ],
-  "Assessment Design": [
-    "curriculum and assessment design"
+  "ELT/TESOL": [
+    "ELT/TESOL",
+    "TESOL",
+    "english tesol",
+    "tesol"
   ],
-  "Academic Excellence": [
-    "academic excellence"
+  "Social Justice Approach in Education": [
+    "Social Justice Approach in Education"
   ],
-  "Low Power VLSI Circuit Design": [
-    "Low Power VLSI Circuit Design"
-  ],
-  "Semiconductor Characterization": [
-    "Semiconductor Characterization"
-  ],
-  "Novel Transistor Architecture": [
-    "Novel Transistor Architecture"
-  ],
-  "VLSI/Electronics": [
-    "VLSI/Electronics"
-  ],
-  "AES Technology": [
-    "Auger Electron Spectroscopy (AES) Technology"
-  ],
-  "SRAM Circuit Design": [
-    "SRAM Circuit Using Adiabatic Logic with FinFET"
-  ],
-  "MIMO Performance Evaluation": [
-    "MIMO at 28 GHz and 60 GHz"
-  ],
-  "Electrical Engineering": [
-    "Electrical and Electronic Engineering"
-  ],
-  "Quantum Systems Engineering": [
-    "Quantum Systems Engineering"
-  ],
-  "Video Surveillance Systems": [
-    "Video Surveillance and Public Safety"
-  ],
-  "Automated Video Surveillance": [
-    "Multi-Model Approach Towards Automated Video Surveillance"
+  "Postcolonial Studies": [
+    "Creative Methodology and Postcolonial Studies",
+    "Postcolonial",
+    "Postcolonial State Formation",
+    "Postcolonial Studies",
+    "postcolonial literature",
+    "postcolonialism"
   ],
   "Applied Linguistics": [
     "Applied Linguistics",
-    "Language teaching",
-    "applied linguistics"
+    "Applied Linguistics & English Language Teaching",
+    "Linguistics Research"
   ],
-  "ELT/TESOL": [
-    "ELT/TESOL"
+  "Higher Education": [
+    "Higher Education",
+    "Higher Education Administration",
+    "higher education"
   ],
-  "Comparative Linguistics": [
-    "Comparative Linguistics"
+  "Bangla literature": [
+    "Bangla Language and Literature",
+    "Bangla literature",
+    "Bengali Literature"
   ],
-  "English Literature": [
-    "English Literature",
-    "English Literature and Language"
-  ],
-  "World Englishes": [
-    "World Englishes"
-  ],
-  "Postcolonial Studies": [
-    "Postcolonial Studies",
-    "postcolonial studies"
-  ],
-  "Comparative Literature": [
+  "Comparative literature": [
     "Comparative Literature",
-    "Comparative Literature and Culture"
+    "Comparative literature",
+    "comparative literature"
   ],
-  "Bangla Literature": [
-    "Bangla literature"
-  ],
-  "Cultural Studies": [
+  "Cultural studies": [
     "Cultural Studies",
-    "Cultural studies"
+    "Cultural studies",
+    "cultural studies"
   ],
-  "Interdisciplinary Humanities": [
-    "interdisciplinary humanities research"
+  "Interdisciplinary humanities research": [
+    "Interdisciplinary humanities research"
   ],
-  "South Asian Literary Traditions": [
-    "Bangla Literature Comparative Literature Cultural Studies South Asian Literary and Cultural Traditions"
+  "South Asian literary and cultural traditions": [
+    "South Asian literary and cultural traditions",
+    "south asian writing in english"
   ],
-  "Indigenous Communities": [
-    "Indigenous and Marginalized Communities"
+  "Indigenous and marginalized communities": [
+    "Indigenous and marginalized communities",
+    "Indigenous history and society",
+    "Indigenous issues"
   ],
-  "Interdisciplinary Approaches": [
-    "critical and interdisciplinary approaches"
-  ],
-  "Socio-cultural Realities": [
-    "socio-cultural realities"
-  ],
-  "South Asia Studies": [
-    "South Asian Literary and Cultural Traditions"
-  ],
-  "Cultural Documentation": [
-    "literary writing, editing, and cultural documentation"
-  ],
-  "Documentary Ethnography": [
-    "documentary projects focusing on marginalized and indigenous communities"
-  ],
-  "Machine Learning": [
+  "machine learning": [
     "Machine Learning",
-    "Machine learning",
+    "Machine Learning Models",
     "machine learning"
   ],
-  "Deep Learning": [
+  "deep learning": [
     "Deep Learning",
+    "Deep Learning Approach",
+    "Neural Networks",
+    "Neural networks",
     "deep learning"
   ],
-  "Computer Vision": [
+  "computer vision": [
+    "Computer Vision",
     "computer vision"
   ],
-  "Assistive Systems": [
-    "intelligent and assistive systems"
-  ],
-  "Food Detection System": [
-    "food detection and calorie estimation system"
-  ],
-  "CNN": [
+  "convolutional neural networks": [
     "Convolutional Neural Network",
-    "Convolutional Neural Networks",
-    "Convolutional Neural Networks (CNN)"
+    "convolutional neural networks"
   ],
-  "Inception-V3": [
-    "Inception-V3 architecture"
-  ],
-  "Sign Language Recognition": [
-    "Bengali Sign Language Recognition"
-  ],
-  "CNN-Transformer Models": [
-    "hybrid deep learning architecture combining CNNs and Transformer models"
-  ],
-  "NLP": [
-    "NLP",
+  "natural language processing": [
     "Natural Language Processing",
-    "Natural Language Processing (NLP)"
+    "Natural Language Processing (NLP)",
+    "natural language processing"
+  ],
+  "transformer models": [
+    "transformer models"
   ],
   "Multilingualism": [
-    "multilingualism"
+    "Multilingualism"
   ],
   "Translanguaging Pedagogies": [
-    "Translanguaging Pedagogies in an Applied Linguistics Classroom",
-    "translanguaging pedagogies"
+    "Translanguaging Pedagogies"
   ],
   "Language Policy": [
-    "Language policy",
-    "language policy"
+    "Language Policies in Multilingual Asian Communities",
+    "Language Policy",
+    "language planning policy"
   ],
   "Critical AI Studies": [
-    "critical AI studies"
+    "Critical AI Studies"
   ],
-  "Linguistic Ecology": [
-    "Linguistic Ecology of Bangladeshi Higher Education"
+  "Multicultural Education": [
+    "Multicultural Education"
   ],
-  "Early Years Language Learning": [
-    "early years language learning"
+  "Educational Linguistics": [
+    "Educational Linguistics",
+    "Language Education",
+    "Linguistics"
   ],
-  "ELT/Language Education": [
-    "ELT teachers and the July revolution"
+  "HistoryOfBangladesh": [
+    "HistoryOfBangladesh"
   ],
-  "Translanguaging/CA": [
-    "translanguaging-informed conversation analysis"
+  "SouthAsianHistory": [
+    "South Asian History",
+    "SouthAsianHistory"
   ],
-  "Academic Writing": [
-    "Academic writing",
-    "academic writing discourse"
+  "ContemporaryWorldHistory": [
+    "ContemporaryWorldHistory"
   ],
-  "Decolonial Language Education": [
-    "Language Metamorphosis: Implications for Language Education in Decolonial Contexts"
+  "PhD": [
+    "PhD"
   ],
-  "AI Ethics and Education": [
-    "AI ethics, education, and legal frameworks"
+  "ULAB": [
+    "ULAB"
   ],
-  "History of Bangladesh": [
-    "History of Bangladesh"
-  ],
-  "World History": [
-    "World History"
-  ],
-  "South Asian History": [
-    "South Asian History"
-  ],
-  "Contemporary World History": [
-    "Contemporary World History"
-  ],
-  "Development sector": [
-    "Development sector"
-  ],
-  "General Education Department": [
-    "General Education Department"
-  ],
-  "Ph.D.": [
-    "Ph.D."
-  ],
-  "Bengal Sufism history": [
-    "Universalism and Polyglossia in Bengal Sufis: c. 1550-1700"
-  ],
-  "Academic theory": [
-    "Theory 1"
-  ],
-  "University affiliation": [
-    "University of Liberal Arts Bangladesh"
+  "JournalOfTheory": [
+    "JournalOfTheory"
   ],
   "Human Rights Education": [
-    "Human Rights Education (HRE)"
-  ],
-  "Migration, Refugees, and Labour Trafficking": [
-    "irregular migration, refugees and labour trafficking"
+    "Human Rights Education"
   ],
   "Digital Humanities": [
-    "digital humanities"
+    "Digital Humanities"
+  ],
+  "Irregular Migration": [
+    "Irregular Migration"
+  ],
+  "Refugees and Labour Trafficking": [
+    "Migration and Refugee Studies",
+    "Refugees and Labour Trafficking"
   ],
   "Social Movements and Social Justice": [
-    "social movements and social justice"
+    "Social Justice",
+    "Social Movements and Social Justice"
   ],
-  "Creative Methodology and Postcolonial Studies": [
-    "creative methodology and postcolonial studies"
-  ],
-  "Development Studies": [
-    "Development Studies",
-    "development studies"
-  ],
-  "Human Rights and Governance": [
-    "Human Rights, Society, and Multi-level Governance"
-  ],
-  "Labour Trafficking": [
-    "labour trafficking"
-  ],
-  "Subaltern Narrative": [
-    "subaltern narrative"
-  ],
-  "Borderlands Studies": [
-    "borderlands"
-  ],
-  "Social Protest Dynamics": [
-    "Protest Publics"
-  ],
-  "Cultural Politics": [
-    "Cultural Politics"
-  ],
-  "Psychosocial Support": [
-    "Psychosocial support"
-  ],
-  "Statelessness": [
-    "statelessness"
-  ],
-  "Rohingya Refugee Crisis": [
-    "Rohingya refugee crisis"
-  ],
-  "Numerical Simulation of SDE": [
-    "Numerical Simulation of Stochastic Differential Equation"
-  ],
-  "Financial Model Implementation": [
-    "Implementation in Financial Models"
-  ],
-  "Operations Research": [
-    "Operations Research",
-    "operations research"
-  ],
-  "MHD Natural Convection": [
-    "MHD Conjugate Natural Convection"
+  "Numerical Simulation": [
+    "Numerical Simulation"
   ],
   "Stochastic Differential Equation": [
     "Stochastic Differential Equation"
+  ],
+  "Operations Research": [
+    "Operations Management",
+    "Operations Research"
+  ],
+  "MHD Conjugate Natural Convection": [
+    "MHD Conjugate Natural Convection"
   ],
   "Financial Mathematics": [
     "Financial Mathematics"
@@ -352,481 +221,287 @@
   "Option Pricing": [
     "Option Pricing"
   ],
-  "Computer Science and Engineering": [
-    "Computer Science and Engineering"
+  "Archaeological Fieldwork": [
+    "Archaeological Analysis of Artifacts and Objects",
+    "Archaeological Fieldwork"
   ],
-  "Field Archaeology": [
-    "field archaeology"
+  "Geoarchaeology of Riverine Environments": [
+    "Geoarchaeology of Riverine Environments"
   ],
-  "Survey Archaeology": [
-    "Survey Archaeology in the Margin",
-    "archaeological survey programs"
+  "Public Participation in Archaeological Research": [
+    "Public Participation in Archaeological Research"
   ],
-  "Archaeological Excavation": [
-    "archaeological excavation programs"
+  "Study of Indigenous Cultures and Their...": [
+    "Indigenous Studies",
+    "Study of Indigenous Cultures and Their..."
   ],
-  "Alluvial Geoarchaeology": [
-    "Alluvial Geoarchaeology"
-  ],
-  "Material Culture": [
-    "Material Culture"
-  ],
-  "Early Medieval Bengal Archaeology": [
-    "Archaeology of Early Medieval Bengal"
-  ],
-  "Dhaka Archaeology": [
-    "Archaeology of Dhaka"
-  ],
-  "Community Archaeology": [
-    "Community Archaeology"
-  ],
-  "Public Archaeology": [
-    "Public Archaeology"
-  ],
-  "Ethnoarchaeology": [
-    "Ethnoarchaeology"
-  ],
-  "Mughal Capital Geoarchaeology": [
-    "geo-archaeological context of a Mughal capital"
-  ],
-  "Sociolinguistics": [
-    "Education and identity",
-    "Socio-linguisics",
-    "sociolinguistics"
-  ],
-  "Pragmatics": [
-    "pragmatics"
+  "Research on Ancient and Medieval Periods...": [
+    "Research on Ancient and Medieval Periods..."
   ],
   "Critical Discourse Analysis": [
-    "critical discourse analysis"
+    "Critical Discourse Analysis",
+    "critical discourse analysis (CDA)",
+    "discourse analysis"
+  ],
+  "Pragmatics": [
+    "Pragmatics",
+    "Semantics & Pragmatics"
   ],
   "Digital Media Discourse": [
-    "digital media discourse"
+    "Digital Media Discourse"
   ],
-  "SLA": [
-    "Second Language Acquisition",
-    "second language acquisition"
+  "Second Language Acquisition": [
+    "Second Language Acquisition"
   ],
-  "Language and Social Movements": [
-    "language, social media, public discourse, and social movements"
+  "Sociolinguistics": [
+    "Socio Linguistics",
+    "Sociolinguistics",
+    "sociolinguistics"
   ],
-  "Pragmatic Analysis of Social Media": [
-    "pragmatic analysis of social media visuals"
+  "Language and Social Media": [
+    "Language and Social Media"
   ],
-  "ELT through Media (YouTube)": [
-    "English Language Teaching Through YouTube"
+  "English Lit": [
+    "20th Century British Lit",
+    "English Lit"
   ],
-  "L1 Attrition in EMI Contexts": [
-    "L1 Attrition: A Study on Bilingual Students of EMI-Based Private Universities"
+  "Lit Theory": [
+    "Lit Theory"
   ],
-  "Linguistic Landscape and Resistance": [
-    "Graffiti, Resistance, and Linguistic Landscape: A Pragmatic Analysis"
+  "Cult Stud": [
+    "Cult Stud"
   ],
-  "Poetry Translation and Machine Translation": [
-    "Comparative Study on Bengali to English Poetry Translation through Machine Translators"
+  "CGN": [
+    "CGN"
   ],
-  "Fossilized L1 Skills": [
-    "Fossilized L1 Skills among Bangladeshi English Medium Students"
+  "Psycho": [
+    "Psycho"
   ],
-  "Emoticons and CMC": [
-    "Emoticons as Facebook Language"
-  ],
-  "Curriculum Change Impact": [
-    "Critical Analysis of NCTB Curriculum Change"
-  ],
-  "Creative Writing": [
-    "fiction writer"
-  ],
-  "Essay Writing": [
-    "essayist"
-  ],
-  "Literary Studies": [
-    "Literature & Language",
-    "literary studies"
-  ],
-  "Graphic Narrative Studies": [
-    "Comics & Graphic Novels"
-  ],
-  "Psychology": [
-    "Psychology"
-  ],
-  "Literary Theory": [
-    "Literary Theory"
-  ],
-  "Language Studies": [
-    "Center for Language Studies (CLS)"
-  ],
-  "Department of English": [
-    "Department of English",
-    "Department of English (DEH)"
-  ],
-  "Graphic Novel Education": [
-    "Comics and Graphic Novels in Education"
-  ],
-  "Media Studies and Journalism": [
-    "Media Studies and Journalism",
-    "Media Studies and Journalism Department"
-  ],
-  "Comparative Literature and Culture": [
-    "Comparative Literature and Culture"
-  ],
-  "Film Academy Studies": [
-    "New York Film Academy"
-  ],
-  "Media Production": [
-    "media productions"
+  "Ling Lit": [
+    "Ling Lit"
   ],
   "Film Studies": [
-    "Film Studies",
-    "film studies"
+    "Feminist Film Studies",
+    "Film Production",
+    "Film Studies"
   ],
   "Film Adaptation": [
-    "Film Adaptation"
+    "Film Adaptation",
+    "Theater And Adaptation"
   ],
   "Auteurism and Authorship": [
     "Auteurism and Authorship"
   ],
-  "Convolutional Neural Network (CNN) for Species Detection": [
-    "Convolutional Neural Network for Automatic Detection of Bangladeshi Bird Species"
+  "Automatic Detection of Bangladeshi Bird Species": [
+    "Automatic Detection of Bangladeshi Bird Species"
   ],
-  "Computational Intelligence": [
-    "Advances in Computational Intelligence"
+  "International Joint Conference on Advances in...": [
+    "International Joint Conference on Advances in..."
   ],
-  "Director of Photography": [
-    "director of photography"
+  "Gender Studies": [
+    "Gender Studies",
+    "Gender studies",
+    "gender and sexuality studies"
   ],
-  "Intersections of popular culture, gender, sexuality, and affect": [
-    "intersections of popular culture, literature, gender and sexuality, and affect, emotion, and embodiment"
+  "Emotional Studies": [
+    "Emotional Studies"
   ],
-  "Feminist cultural studies": [
-    "feminist cultural studies"
+  "LGBTQ+ Research": [
+    "LGBTQ+ Research"
   ],
-  "Affect, emotion, and embodiment": [
-    "affect, emotion, and embodiment"
+  "Queer Theory": [
+    "Queer Theory",
+    "Queerness"
   ],
-  "Gender and sexuality": [
-    "gender and sexuality"
+  "psychoanalysis": [
+    "psychoanalysis",
+    "psychoanalytic criticism"
   ],
-  "Popular culture and literature studies": [
-    "studies of popular culture and literature"
+  "existential nihilism": [
+    "existential nihilism"
   ],
-  "Queer Bangladeshi women": [
-    "queer Bangladeshi women"
+  "18th century american literature": [
+    "18th century american literature",
+    "American Literature",
+    "Multiethnic American Literature"
   ],
-  "Queer discourses": [
-    "queer discourses"
+  "war and trauma literature": [
+    "war and trauma literature"
   ],
-  "Postcolonial reading": [
-    "postcolonial reading"
+  "westminster london": [
+    "westminster london"
   ],
-  "Third gender (Hijras)": [
-    "third gender, the Hijras"
+  "virtual research volunteer": [
+    "virtual research volunteer"
   ],
-  "Mobility and kinship": [
-    "mobility and kinship"
+  "Academic integrity and generative AI": [
+    "Academic integrity and generative AI"
   ],
-  "Feminism": [
-    "feminism"
+  "Online Learning": [
+    "Online Learning"
   ],
-  "Sexual representation in Hollywood horror": [
-    "sexual representation in Hollywood horrors"
+  "Fiction and Nonfiction": [
+    "Fiction and Nonfiction"
   ],
-  "Psychoanalysis": [
-    "Psychoanalysis"
+  "Bangladeshi Women's Writing": [
+    "Bangladeshi Women's Writing"
   ],
-  "Existential Nihilism": [
-    "Existential Nihilism"
+  "Research and Writing": [
+    "Academic Writing",
+    "Academic writing",
+    "Research and Writing"
   ],
-  "American Literature (18th Century)": [
-    "18 th Century American Literature"
-  ],
-  "Trauma Literature": [
-    "War and Trauma literature"
-  ],
-  "English and Humanities": [
-    "English and humanities"
-  ],
-  "Virtual Research Volunteer": [
-    "Virtual Research Volunteer"
-  ],
-  "Academic Editing": [
-    "Academic writing and editing"
-  ],
-  "Mass Communication and Journalism": [
-    "Mass Communication and Journalism"
+  "Long Canonical Form": [
+    "Long Canonical Form"
   ],
   "Constructive Journalism": [
     "Constructive Journalism"
   ],
-  "Academic/Teaching Experience": [
-    "lecturer at the University of Liberal Arts Bangladesh"
-  ],
-  "Gender Analysis": [
-    "assistant Gender Analyst"
+  "Mass Communication": [
+    "Mass Communication"
   ],
   "Interpersonal Communication": [
     "Interpersonal Communication"
   ],
-  "Gender Studies": [
-    "Gender",
-    "Gender Study",
-    "Gender studies"
+  "Gender": [
+    "Gender"
   ],
-  "Curriculum Design": [
+  "Curriculum": [
     "Curriculum"
   ],
   "Educational Management": [
-    "Education Management",
     "Educational Management"
   ],
-  "Media Effects": [
-    "media in shaping society"
+  "Pedagogy": [
+    "Critical Pedagogy",
+    "Pedagogy"
   ],
-  "Constructive Journalism Research": [
-    "researcher, focusing on Constructive Journalism"
+  "Learning Outcomes": [
+    "Learning Outcomes"
   ],
-  "AI in Education": [
-    "AI for Teaching and Learning"
+  "EdTech": [
+    "EdTech"
   ],
-  "Pedagogy and Learning": [
-    "Teaching and Learning"
+  "Labor Economics": [
+    "Labor Economics"
   ],
-  "Higher Education": [
-    "Higher Education",
-    "Higher education",
-    "Tertiary Level Education"
+  "Economic Externalities": [
+    "Economic Externalities",
+    "Environmental Externalities"
   ],
-  "Education Quality": [
-    "Quality of Education"
+  "Solar Cell Optimization": [
+    "Solar Cell Optimization",
+    "Solar Cell Technology"
   ],
-  "HR Management": [
-    "Human Resource Management"
-  ],
-  "Microeconomics": [
-    "Microeconomics"
-  ],
-  "Finance Education": [
-    "Introduction to Finance"
-  ],
-  "Employment and Gender": [
-    "Employment and Gender Studies"
-  ],
-  "Online Learning Platforms": [
-    "Online Teaching-learning Platform"
-  ],
-  "Narrative Media in Education": [
-    "Graphic Novels in Teaching at Tertiary Level"
-  ],
-  "Ethics Education": [
-    "Teaching Business Ethics with Comics"
-  ],
-  "Workplace Communication": [
-    "Workplace Communications"
-  ],
-  "Thin-film solar cells": [
-    "Thin-film solar cell technology"
-  ],
-  "Solar cell optimization": [
-    "Solar cell performance optimization"
-  ],
-  "Affordable instrumentation": [
-    "affordable instrumentation development"
-  ],
-  "Nanoelectronics": [
+  "Nano-Electronics": [
+    "Nano-Electronics",
     "Nanoelectronics",
-    "nano-electronics research"
+    "Nanotechnology"
   ],
-  "Energy policy and sustainability": [
-    "multidisciplinary research related to energy policy and sustainability"
+  "Instrumentation Development": [
+    "Instrumentation Development"
   ],
-  "Semiconductor Physics": [
-    "Semiconductor Physics"
+  "Energy Policy": [
+    "Energy Economics",
+    "Energy Policy"
   ],
-  "Thin-film Photovoltaics": [
-    "Thin-film Photovoltaic"
+  "Artificial Intelligence": [
+    "AI",
+    "Artificial Intelligence",
+    "Artificial Intelligence (AI)",
+    "artificial-intelligence"
   ],
-  "CdS thin-film electrodeposition": [
-    "Electrodeposition of CdS thin-films"
+  "Digital Transformation": [
+    "Digital Transformation"
   ],
-  "Perovskite solar cells": [
-    "Perovskite solar cells"
-  ],
-  "Next-gen electrodeposited solar cells": [
-    "development of next-generation electrodeposited solar cells"
-  ],
-  "Low-cost spectrophotometer development": [
-    "Development of Data Acquisition System for Low Cost Spectrophotometer"
-  ],
-  "Interdisciplinary Technology Strategy": [
-    "interdisciplinary technology strategist, researcher, educator, and innovation leader"
-  ],
-  "Applied Computational Mathematics": [
-    "applied and computational mathematics"
+  "Computational Mathematics": [
+    "Computational Mathematics"
   ],
   "Scientific Computing": [
-    "scientific computing"
+    "Scientific Computing"
   ],
-  "Enterprise Systems Engineering": [
-    "enterprise systems"
+  "Numerical Analysis": [
+    "Numerical Analysis"
   ],
-  "AI & Digital Transformation": [
-    "AI-driven platforms, digital transformation, and human-centered technological innovation"
-  ],
-  "Core Computer Science Disciplines": [
-    "data structures, algorithms, operating systems, database systems"
-  ],
-  "AI Systems Architecture & Data Systems": [
-    "computational mathematics, scientific computing, software engineering, enterprise-scale data systems, AI systems architecture"
-  ],
-  "Numerical Analysis and Computational Modeling": [
-    "numerical analysis and computational modeling"
-  ],
-  "AI and Data Infrastructure Consulting": [
-    "AI and data infrastructure consulting"
-  ],
-  "Distributed and Agentic AI Systems": [
-    "Distributed and Agentic AI Systems"
-  ],
-  "Intelligent Digital Infrastructure": [
-    "Intelligent Digital Infrastructure and Knowledge Systems"
-  ],
-  "Human-Centered Technology Design": [
-    "human-centered technology design"
-  ],
-  "Sustainability and Systems Thinking": [
-    "Sustainability, Systems Thinking, and Technology Futures"
-  ],
-  "History Lecturer": [
-    "Lecturer of History"
-  ],
-  "History of Independent Bangladesh": [
-    "History of the Emergence of Independent Bangladesh"
-  ],
-  "Bangladesh Studies": [
-    "Bangladesh Studies"
+  "Human-Centered Technology Innovation": [
+    "Human-Centered Technology Innovation"
   ],
   "History of Bengal": [
+    "Bengal Renaissance",
     "History of Bengal"
-  ],
-  "Bengal Renaissance": [
-    "Bengal Renaissance"
-  ],
-  "Society of Bangladesh": [
-    "Society of Bangladesh"
-  ],
-  "Cultural Crisis": [
-    "Cultural Crisis"
-  ],
-  "Women's Role in Liberation War": [
-    "Role of Women in the Liberation War of Bangladesh in 1971"
   ],
   "Liberation War of Bangladesh": [
     "Liberation War of Bangladesh"
   ],
-  "Bengal Renaissance Impact Study": [
-    "Bengal Renaissance: Exploring its Impact on Cultural Heritage, National Identity, and Socio-Political Landscape in Modern Bangladesh"
+  "Cultural Crisis": [
+    "Cultural Crisis"
   ],
-  "National Identity": [
-    "National Identity"
+  "Journal of Law and Human Right": [
+    "Journal of Law and Human Right"
   ],
-  "Socio-Political Landscape": [
-    "Socio-Political Landscape in Modern Bangladesh"
+  "IoT-enabled": [
+    "IoT",
+    "IoT-enabled"
   ],
-  "Deep Learning, Computer Vision, IoT, Robotics": [
-    "Deep Learning, Computer Vision, IoT, and Robotics"
+  "Automated Guided Vehicles": [
+    "Automated Guided Vehicles"
   ],
-  "YOLOv7 defect detection": [
-    "optimizing YOLOv7 by integrating the Efficient Channel Attention (ECA) mechanism to detect water pipeline defects"
+  "Robotics and Automation Research Lab (RARL)": [
+    "Robotics and Automation Research Lab (RARL)"
   ],
-  "FMCW RADAR, LoRaWAN": [
-    "FMCW RADAR and LoRaWAN"
+  "YOLOv7": [
+    "YOLOv7"
   ],
-  "AGV path planning": [
-    "energy-aware AGV path planning"
+  "Power System Dynamics": [
+    "Power System Dynamics"
   ],
-  "Embedded Systems, Robotics, CV, IoT": [
-    "Embedded Systems, Robotics & Automation, Computer Vision, Internet of Things (IoT)"
+  "Renewable Energy Integration": [
+    "Renewable Energy",
+    "Renewable Energy Integration",
+    "Renewable Energy Research"
   ],
-  "AGV navigation": [
-    "AGVMobile robots in Unknown Environments"
-  ],
-  "IoT attendance system": [
-    "IoT-enabled portable, secure automatic self-lecture attendance system"
-  ],
-  "Path tracking, Traffic management": [
-    "Advanced path tracking and traffic management using IR sensors and timed automata"
-  ],
-  "Robot design and development": [
-    "FOODIEBOT robot: From simulation to design"
-  ],
-  "UAV deep learning detection": [
-    "deep learning-based low-altitude vehicle speed detector through UAVs in smart cities"
-  ],
-  "Service robot modeling": [
-    "service robot mathematical model"
-  ],
-  "AGV PID tuning": [
-    "PID tuning method on AGV (automated guided vehicle) industrial robot"
-  ],
-  "LoRaWAN smart parking": [
-    "LoRaWAN enabled smart parking modules"
-  ],
-  "Pipeline inspection YOLOv7": [
-    "water pipeline inspection using efficient channel attention and reduced ELAN-based YOLOv7"
-  ],
-  "Power System Dynamics and Control": [
-    "power system dynamics and control"
+  "Artificial Intelligence in Power Systems": [
+    "Artificial Intelligence in Power Systems"
   ],
   "Frequency Stability": [
-    "frequency stability"
+    "Frequency Stability"
   ],
-  "Renewable Energy Integration (PV)": [
-    "renewable energy integration with a focus on photovoltaic systems"
-  ],
-  "AI in Power Systems": [
-    "artificial intelligence in power systems"
-  ],
-  "Sustainable Energy Management": [
-    "sustainable energy generation and management"
-  ],
-  "Photovoltaic Systems (PV)": [
+  "Photovoltaic Systems": [
     "Photovoltaic Systems"
   ],
-  "Energy Storage Systems (ESS)": [
-    "Energy Storage Systems"
+  "Sustainable Energy Generation and Management": [
+    "Sustainable Energy Generation and Management"
   ],
-  "Floating PV Systems": [
-    "Small-Scale Floating Photovoltaic Systems"
+  "Wireless Sensor Networks": [
+    "Wireless Sensor Networks"
   ],
-  "Perovskite/CIGS PV Cells": [
-    "Perovskite/CIGS tandem PV cell"
+  "Opportunistic Routing": [
+    "Opportunistic Routing"
   ],
-  "BESS for Frequency Control": [
-    "battery energy storage system for frequency control"
+  "Reinforcement Learning-Based Routing": [
+    "Reinforcement Learning-Based Routing"
   ],
-  "Underfrequency Load Shedding (RoCoF)": [
-    "RoCoF-constrained underfrequency load shedding scheme"
+  "Computer Networks": [
+    "Computer Networks",
+    "computer networking",
+    "computer networks"
   ],
-  "PV Deloading for Frequency Control": [
-    "Optimal deloading of PV power plants for frequency control"
+  "Image Processing": [
+    "Computational Image Processing",
+    "Image Optimization",
+    "Image Processing"
   ],
-  "PV Frequency Support": [
-    "frequency support from large-scale PV plants"
+  "Medical Image Analysis": [
+    "Medical Image Analysis",
+    "Medical Image Processing"
   ],
-  "Low-Inertia Power Systems Frequency Control": [
-    "Frequency control challenges and potential countermeasures in future low-inertia power systems"
+  "Digital Services Tax": [
+    "Digital Services Tax"
   ],
-  "Supercapacitor Sizing for Frequency Control": [
-    "Supercapacitor Energy Storage System Sizing for Frequency Control"
-  ],
-  "ML Frequency Response Prediction": [
-    "Machine Learning Based Frequency Response Prediction"
-  ],
-  "System Strength Dispatch Model": [
-    "System Strength Constrained Economic Dispatch Model"
-  ],
-  "Load Shedding in Renewable Grids": [
-    "Load Shedding Methodology in a Renewable Integrated Grid"
+  "International Business": [
+    "International Business",
+    "International Trade",
+    "Short Course on International Business"
   ],
   "Contract Law": [
     "Contract Law"
@@ -835,1853 +510,864 @@
     "Company Law"
   ],
   "Trade Finance": [
-    "Trade Finance"
+    "Trade Finance",
+    "international finance"
   ],
-  "International Business": [
-    "International Business"
+  "Introduction to Business": [
+    "Introduction to Business"
   ],
-  "Digital Services Tax": [
-    "Digital Services Tax"
-  ],
-  "Inclusive Framework": [
-    "Inclusive Framework"
-  ],
-  "Business Law": [
-    "law within the scope of businesses"
-  ],
-  "Law Curriculum": [
-    "Bachelor of Laws (International Programmes) curriculum"
-  ],
-  "Business Introduction": [
-    "Introductory Business courses"
-  ],
-  "Legal Education": [
-    "teaching experience under the University of London"
-  ],
-  "ASIC design": [
-    "ASIC design",
-    "ASIC design area"
-  ],
-  "Iris Recognition": [
-    "Iris Recognition"
-  ],
-  "Biometric Analysis": [
-    "Biometric Analysis"
-  ],
-  "non-cooperative iriscode recognition": [
-    "non-cooperative iriscode recognition"
-  ],
-  "Protein Similarity Analysis": [
-    "Protein Similarity Analysis"
-  ],
-  "Wavelet Decomposition": [
-    "Wavelet Decomposition"
-  ],
-  "Cellular Automata Images": [
-    "Cellular Automata Images"
+  "Iris Recognition Biometric Analysis": [
+    "Iris Recognition Biometric Analysis"
   ],
   "Discriminative masking": [
     "Discriminative masking"
   ],
   "Electrical and Computer Engineering": [
-    "Electrical and Computer Engineering"
+    "Electrical and Computer Engineering",
+    "Electrical and Electronic Engineering"
+  ],
+  "Protein Similarity Analysis": [
+    "Protein Similarity Analysis"
+  ],
+  "Wavelet Decomposition of Cellular Automata Images": [
+    "Wavelet Decomposition of Cellular Automata Images"
   ],
   "VANET": [
-    "Vehicular Adhoc Network"
+    "VANET"
   ],
   "HCI": [
-    "Human Computer Interaction",
-    "Human-computer Interaction"
+    "HCI"
   ],
-  "IoT": [
-    "Internet of Things",
-    "IoT",
-    "iot"
+  "Routing Protocols": [
+    "Routing Protocols"
   ],
-  "Assistive Screen Reading Software": [
-    "Bi-Lingual Audio Assistance Supported Screen Reading Software"
+  "NNM": [
+    "NN",
+    "NNM"
   ],
-  "Assistive Technology/Blindness": [
-    "People with Visual Impairments"
+  "Women in Film": [
+    "Women in Film"
   ],
-  "Assistive Humanoid Robots": [
-    "Tiny Blind Assistive Humanoid Robot"
+  "Scriptwriting Research": [
+    "Scriptwriting Research",
+    "Scriptwriting Studies"
   ],
-  "Image Description Neural Network": [
-    "Bangla language textual image description by hybrid neural network model"
+  "Audience Studies": [
+    "Audience Studies",
+    "audience studies"
   ],
-  "VANET Routing Protocols": [
-    "VANET Routing Protocols"
+  "Celebrity Research": [
+    "Celebrity Research"
   ],
-  "VANET Protocol Performance": [
-    "AODV & DSR over TCP & CBR Connections"
-  ],
-  "VANET Routing Survey": [
-    "Survey over VANET Routing Protocols for Vehicle to Vehicle Communication"
-  ],
-  "WSN": [
-    "Wireless Sensor Network",
-    "Wireless Sensor Networks"
-  ],
-  "Film and Media Studies": [
-    "Film and Media"
-  ],
-  "Women's Representation in Cinema": [
-    "Women on Screen: Representing Women by Women in Bangladesh Cinema"
-  ],
-  "Screenplay Analysis": [
-    "Screenplay Writing and Analysis"
-  ],
-  "Audience and Fan Studies": [
-    "Reception, Audience and Fan Studies"
-  ],
-  "Star Studies": [
-    "Star Studies"
-  ],
-  "Community Radio Studies": [
-    "Community Radio"
-  ],
-  "Bangladeshi Cinema": [
-    "Bangladesh Cinema"
-  ],
-  "Film Storytelling": [
-    "Film Storytelling"
-  ],
-  "Media Communication": [
-    "Media & Communication in Sustainable Development"
-  ],
-  "Genre Studies": [
-    "Genre",
-    "Genre Studies"
+  "Radio Communication": [
+    "Radio Communication",
+    "Wireless Communications"
   ],
   "High Performance Computing": [
     "High Performance Computing"
   ],
-  "CSE": [
-    "CSE department",
-    "Computer Science and Engineering"
+  "ML": [
+    "ML"
   ],
-  "Neural Networks": [
-    "Neural Networks",
-    "neural networks"
+  "CV": [
+    "CV"
   ],
   "GANs": [
-    "generative adversarial networks (GANs)"
+    "GANs"
   ],
-  "Facial Inpainting": [
-    "facial inpainting"
+  "DLM": [
+    "DL",
+    "DLM"
   ],
-  "Facial Liveness Detection": [
-    "facial liveness detection system"
+  "generative-ai": [
+    "generative-ai"
   ],
-  "Image Processing": [
-    "Image Processing",
-    "image processing"
+  "digital-journalism": [
+    "Journalism",
+    "Multimedia Journalism",
+    "digital journalism",
+    "digital-journalism"
   ],
-  "Data Science": [
-    "Data Science",
-    "data science"
+  "data-visualization": [
+    "big data visualization",
+    "data-visualization"
   ],
-  "DSMEC": [
-    "Dense Stack Meta Ensemble Classifier (DSMEC)"
+  "interactive-storytelling": [
+    "interactive-storytelling"
   ],
-  "CNN/VGG-16": [
-    "CNN Built on the VGG-16 Architecture"
+  "multimedia-production": [
+    "multimedia-production"
   ],
-  "Deep Learning for Osteoporosis Diagnosis": [
-    "Hyperparameter-Tuned Deep Learning Model for Osteoporosis Diagnosis"
+  "Governance and Development Studies": [
+    "Governance and Development Studies",
+    "Institute of Governance Studies (IGS), BRAC..."
   ],
-  "Image Analysis Techniques": [
-    "Connected Components Labeling and Moments of Image"
-  ],
-  "Wound Segmentation": [
-    "Automated Wound Segmentation using Attention Mechanism"
-  ],
-  "Ensemble Methods": [
-    "Advanced Stacking Ensemble Approach"
-  ],
-  "Journalism and Broadcasting": [
-    "journalism, broadcasting, and communications"
-  ],
-  "Artificial Intelligence (AI)": [
-    "Artificial Intelligence"
-  ],
-  "Generative AI": [
-    "generative AI"
-  ],
-  "Digital Storytelling": [
-    "digital storytelling"
-  ],
-  "Multimedia Production": [
-    "news features, multimedia production"
-  ],
-  "Data-Driven Analysis": [
-    "data-driven analysis"
-  ],
-  "Data Visualization": [
-    "data visualization"
-  ],
-  "Sonification": [
-    "sonification"
-  ],
-  "Interactive Storytelling": [
-    "interactive storytelling"
-  ],
-  "Digital Journalism": [
-    "Digital Journalism"
-  ],
-  "Social Media Content Creation": [
-    "social media content creation"
-  ],
-  "Broadcast Journalism": [
-    "Broadcast and Digital Journalism International"
-  ],
-  "Media and Cultural Studies": [
-    "media and cultural studies"
-  ],
-  "Popular Culture": [
-    "popular culture"
-  ],
-  "Misinformation Studies": [
-    "misinformation studies"
-  ],
-  "Health Communication": [
-    "health communication"
-  ],
-  "Media Literacy": [
-    "media litaracy"
-  ],
-  "Urban Popular Culture": [
-    "urban popular culture"
-  ],
-  "Fact-Checking/IFCN": [
-    "International Fact-Checking Network"
-  ],
-  "Misinformation Detection (Deep Learning)": [
-    "Deep Learning Approach for Misinformation Detection of Social Media In Bangladesh"
-  ],
-  "Misinformation Spread (South Asia)": [
-    "Cross-border spread of misinformation in South Asia"
-  ],
-  "TB/Health System Delay": [
-    "health system delay of extra pulmonary tuberculosis patients in Bangladesh"
-  ],
-  "Music/Culture (Urban Poor, Dhaka)": [
-    "Cultural Communication between the Urban Poor and Popular Music in Dhaka"
-  ],
-  "Cultural Politics (Islam/Popular Culture)": [
-    "Islamic culture and popular culture"
-  ],
-  "Blue-Collar Workers/Media": [
-    "Digital Media Proliferation and Recreation Pattern of the Blue-Collars: A Study on the RMG Workers in Bangladesh"
-  ],
-  "Music Video/Ideology": [
-    "Ideological Warfare and Culture-clash in Music Videos"
-  ],
-  "Bilingualism and National Identity": [
-    "Bilingualism in Bangladeshi Education and the Question of National Identity"
-  ],
-  "Bilingualism Challenges in Education": [
-    "Bilingualism in Bangladeshi education: The underlying problems and confusions"
-  ],
-  "Teacher Empathy in EFL Learning": [
-    "Impact of Teachers’ Empathy towards Adult Learners’ Struggles in Acquiring EFL"
-  ],
-  "EFL Teachers' Beliefs and Practices": [
-    "Understanding EFL Teachers’ Beliefs and Practices in EFL Classrooms"
-  ],
-  "English Teacher Training Challenges": [
-    "Challenges Affecting the Implementation of In-Service Training Program for English Teachers in Bangladesh"
-  ],
-  "English Curriculum Reform Implementation": [
-    "Teachers’ Beliefs and Practices of Implementing Secondary English Curriculum Reform in Bangladesh"
-  ],
-  "Online ELT Innovations Evaluation": [
-    "revising innovations in ELT through online classes: An evaluation of the approaches"
-  ],
-  "EFL Teacher Education Evaluation": [
-    "Evaluation of the Teacher Education Programs in EFL Context"
-  ],
-  "EFL Writing Error Analysis": [
-    "Error Analysis in EFL Writing Classroom"
-  ],
-  "Age and Second Language Acquisition": [
-    "Effect of Age in Second Language Acquisition: A Critical Review from the Perspective of Critical Period Hypothesis"
-  ],
-  "Bilingualism Dysfunction in Society": [
-    "The Dysfunctional Bilingualism in Bangladeshi Education and Society"
-  ],
-  "Culture as a Skill in EFL": [
-    "‘Culture’ as a Skill in Undergraduate EFL Classrooms: The Bangladeshi Realities"
-  ],
-  "Language Politics in Education": [
-    "The ‘Politics’ of Language in the Bangladeshi Educational System"
-  ],
-  "Cross-Cultural Business Communication": [
-    "Cross-Cultural Facets in Business Communication"
-  ],
-  "Second Language Acquisition": [
-    "Second Language Acquisition"
-  ],
-  "Sociolinguistics and Culture": [
-    "Sociolinguistics, Culture and Language"
-  ],
-  "Business Communication": [
-    "Business Communication"
-  ],
-  "TESOL Program Coordination": [
-    "TESOL Program"
-  ],
-  "Critical Pedagogy": [
-    "Critical Pedagogy",
-    "Promoting learner autonomy through critical-thinking"
-  ],
-  "Language Teaching": [
-    "Language Teaching"
-  ],
-  "Culture and Education": [
-    "Culture and Education"
-  ],
-  "Literature and Culture": [
-    "Literature and Culture"
-  ],
-  "{'type': 'book', 'authors': ['Shakespeare, William'], 'title': 'The Tempest', 'details': 'Published by various publishers.'}": [
-    "{'type': 'book', 'authors': ['Shakespeare, William'], 'title': 'The Tempest', 'details': 'Published by various publishers.'}"
-  ],
-  "Opportunistic Routing": [
-    "Opportunistic Routing"
-  ],
-  "RL-based Routing": [
-    "Reinforcement Learning-based routing"
-  ],
-  "Energy-Efficient Networking": [
-    "Energy-efficient routing protocols"
-  ],
-  "MAC Protocols": [
-    "MAC protocols"
-  ],
-  "Density-Aware Routing": [
-    "Density-aware routing mechanisms"
-  ],
-  "Medical Image Analysis": [
-    "Medical Image Analysis"
-  ],
-  "MRI Analysis": [
-    "Brain MRI analysis"
-  ],
-  "Image Encryption": [
-    "Image Encryption"
-  ],
-  "3D Image Processing": [
-    "3D Image Processing"
-  ],
-  "Digital Media Computing": [
-    "Digital media computing"
-  ],
-  "Duty-Cycled Protocols": [
-    "Duty-Cycled MAC Protocols"
-  ],
-  "Computer Networks": [
-    "Computer Networks"
-  ],
-  "Non-uniform WSN": [
-    "Non-uniform density wireless sensor networks"
+  "History and Culture": [
+    "History and Culture"
   ],
   "Sustainable Development": [
+    "Environmental Sustainability",
+    "Sustainability Development",
     "Sustainable Development",
-    "sustainable development"
+    "Sustainable Growth"
   ],
-  "Governance and Development": [
-    "Governance and Development Studies"
+  "Research and Development Collectives": [
+    "Research and Development Collectives"
   ],
-  "History": [
-    "Academic History",
-    "History"
+  "University of Dhaka": [
+    "Bangladesh University of Engineering and Technology",
+    "University of Dhaka"
   ],
-  "Communication Studies": [
-    "Communication"
+  "Misinformation Studies": [
+    "Misinformation",
+    "Misinformation Studies"
   ],
-  "Development Research": [
-    "Research and Development Collectives (RDC)"
+  "Health Communication": [
+    "Communication in Healthcare",
+    "Health Communication"
   ],
-  "International Development": [
-    "International NGOs/Aid work"
+  "Popular Culture": [
+    "Popular Culture",
+    "Urban Popular Culture",
+    "popular culture"
   ],
-  "Media Reporting": [
-    "Journalism and Reporting"
+  "Media Literacy": [
+    "Media Literacy"
   ],
-  "South Asian Studies": [
-    "Area Studies (Bangladesh)"
+  "public policy": [
+    "public policy"
   ],
-  "Sustainable Finance": [
-    "Sustainable Finance"
+  "financial technology": [
+    "financial technology"
   ],
-  "FinTech": [
-    "Financial Technology"
+  "sustainable finance": [
+    "sustainable finance"
   ],
-  "Behavioral Finance": [
-    "Behavioral Finance"
+  "carbon finance": [
+    "Climate finance",
+    "carbon finance"
   ],
-  "Carbon Finance": [
-    "Carbon Finance"
+  "behavioral finance": [
+    "behavioral finance"
   ],
-  "Public Policy": [
-    "Public Policy"
+  "digital currencies": [
+    "digital currencies"
   ],
-  "Digital Currencies": [
-    "Digital Currencies"
+  "Bilingualism in Bangladesh": [
+    "Bilingualism in Bangladesh"
   ],
-  "Capital Market": [
-    "Capital Market"
+  "Culture and Language": [
+    "Culture and Language"
   ],
-  "Regulatory Compliance": [
-    "Regulatory Compliance"
+  "Business Communication": [
+    "Business Communication",
+    "Strategic Communication",
+    "business communication"
   ],
-  "Structured Finance": [
-    "Structured Finance"
+  "Global Perspectives on Nationalism: Political and...": [
+    "Global Perspectives on Nationalism: Political and..."
   ],
-  "Microfinance": [
-    "Microfinance"
+  "Understanding EFL Teachers’ Beliefs and Practices...": [
+    "Understanding EFL Teachers’ Beliefs and Practices..."
   ],
-  "Financial Performance Analysis": [
-    "Financial Performance Analysis"
+  "Marketing": [
+    "Marketing",
+    "brand marketing",
+    "marketing in creative field"
   ],
-  "Interest Rate Dynamics": [
-    "Interest Rate Flux"
+  "Quantitative Analysis": [
+    "Quantitative Analysis",
+    "Quantitative Research Methods",
+    "Statistical Analysis"
   ],
-  "Quality Assurance": [
-    "Institutional Quality Assurance"
-  ],
-  "Sustainable Entrepreneurship": [
-    "Sustainable entrepreneurship"
-  ],
-  "Employee Retention": [
-    "Job Stress and Turnover Intention"
+  "Data Science & Analytics": [
+    "Data Science",
+    "Data Science & Analytics"
   ],
   "Consumer Behavior": [
     "Consumer Behavior"
   ],
-  "Data Science and Analytics": [
-    "Data Science & Analytics"
+  "Economics": [
+    "Economics",
+    "Environmental Economics"
   ],
-  "Social Media Marketing": [
-    "Social media"
+  "ICT facilities": [
+    "ICT facilities"
   ],
-  "Tourism Development": [
-    "Tourism industry development"
+  "EV Analysis": [
+    "EV Analysis"
   ],
-  "Tourism Economics": [
-    "Economic impact of tourism"
+  "GPD": [
+    "GPD"
   ],
-  "ICT in Higher Education": [
-    "ICT facilities at the tertiary level education"
+  "TS Methods": [
+    "TS Methods"
   ],
-  "Buzz Marketing": [
-    "Buzz marketing"
+  "POT methods": [
+    "POT methods"
   ],
-  "MIS and Competitive Advantage": [
-    "Strategic information system"
+  "ATS Procedure": [
+    "ATS Procedure"
   ],
-  "Customer Relationship Management": [
-    "CRM"
-  ],
-  "Academic Leadership": [
-    "Academic Leadership"
-  ],
-  "Quantitative Analysis": [
-    "Quantitative Analysis"
-  ],
-  "Business Management": [
-    "Management"
-  ],
-  "Marketing": [
-    "Marketing"
-  ],
-  "Digital Innovation Adoption": [
-    "Online social media innovation"
-  ],
-  "Business Education Quality": [
-    "Business Education"
-  ],
-  "Extreme Value Theory (EVT)": [
-    "Extreme Value Theory"
-  ],
-  "Generalized Pareto Distribution (GPD)": [
-    "Generalized Pareto Distribution"
-  ],
-  "Automated Threshold Selection": [
-    "Automated threshold selection"
-  ],
-  "Extreme Value Analysis (EVA)": [
-    "Extreme Value Analysis"
-  ],
-  "Environmental Statistics": [
-    "Environmental Statistics"
-  ],
-  "Biostatistics": [
-    "Biostatistics"
-  ],
-  "Peaks-over-threshold (POT)": [
-    "Peaks-over-threshold methods"
-  ],
-  "Geo-financial-health datasets": [
-    "Hydrological, financial, and public health datasets"
-  ],
-  "Epidemiological modeling": [
-    "Epidemiology: Modeling Dengue Prevalence Extreme"
-  ],
-  "GEV Distribution": [
-    "Generalized Extreme Value"
-  ],
-  "Threshold Selection": [
-    "Threshold selection methods"
-  ],
-  "Rainfall Modeling": [
-    "Rainfall data modeling"
-  ],
-  "Computational Statistics": [
-    "Computational statistics"
-  ],
-  "Risk Estimation": [
-    "Public health risk estimation"
-  ],
-  "Business Statistics": [
-    "Business Statistics"
+  "GEV": [
+    "GEV"
   ],
   "Intercultural Communication": [
     "Intercultural Communication"
   ],
-  "Rohingya Refugee Studies": [
-    "Rohingya refugee crisis in Bangladesh"
-  ],
-  "Migration and Refugee Studies": [
-    "Migration and Refugee Studies"
-  ],
   "Qualitative Research": [
-    "Qualitative Research"
+    "Qualitative Research",
+    "qualitative research",
+    "qualitative studies"
+  ],
+  "Public Relations": [
+    "Public Relations",
+    "Public Relations and Development Communication"
   ],
   "Identity and Belonging": [
     "Identity and Belonging"
   ],
-  "Acculturation Studies": [
-    "Acculturation Process"
+  "Env Hum": [
+    "Env Hum"
   ],
-  "Displacement Adaptation": [
-    "Adaptation strategies of displaced individuals"
+  "Sci Fi Surveil": [
+    "Sci Fi Surveil"
   ],
-  "Social Dynamics": [
-    "Complex social dynamics"
+  "Tonal Mod": [
+    "Tonal Mod"
   ],
-  "Public Relations": [
-    "Public Relations"
+  "Fem Precur": [
+    "Fem Precur"
   ],
-  "Systematic Literature Review": [
-    "Systematic Literature Review",
-    "Systematic literature review"
+  "Philosofic Lit": [
+    "Philosofic Lit"
   ],
-  "Media Planning": [
-    "Media planning"
-  ],
-  "British Literature": [
-    "British literature"
-  ],
-  "Environmental Humanities": [
-    "Environmental Humanities"
-  ],
-  "Art History": [
-    "Art History & Visual Culture"
-  ],
-  "Science Fiction": [
-    "Science Fiction"
-  ],
-  "20th-Century British Literature": [
-    "Twentieth-Century British Literature"
-  ],
-  "South Asian Art": [
-    "British, North American, and South Asian art"
-  ],
-  "Film and Animation": [
-    "film & animation"
-  ],
-  "Literature of Travel": [
-    "literature of travel"
-  ],
-  "Victorian Literature": [
-    "Victorian Literature"
-  ],
-  "Modernism and Feminism": [
-    "Tonal Modernism, Narrative Strategy, and Feminist Precursors"
-  ],
-  "Philosophy of Fiction": [
-    "Philosophy of Love and Virtue in Iris Murdoch’s Ecclesiastical Fiction"
-  ],
-  "Kishangarh Miniatures": [
-    "Miniature Paintings from the Kishangarh School"
-  ],
-  "Animation History": [
-    "Technology, Innovation, and Modernism in Ward Kimball’s Animation"
-  ],
-  "Sci-Fi and Media Studies": [
-    "Science Fiction and Surveillance in Pixar’s WALL-E and Up"
-  ],
-  "Topical Clustering": [
-    "Topical Cluster Detection and Tracking"
-  ],
-  "Social Networks Analysis": [
-    "Online Social Networks"
-  ],
-  "Social User Mining": [
-    "Social User Interest"
-  ],
-  "Topic Modeling": [
+  "Query Oriented Topical Clusters": [
     "Query Oriented Topical Clusters"
   ],
-  "Social Data Mining": [
-    "Mining Social User Interest"
+  "Topical Cluster Detection and Tracking": [
+    "Topical Cluster Detection and Tracking"
   ],
-  "Computer Science Engineering": [
-    "Computer Science and Engineering"
+  "Social User Interest": [
+    "Social User Interest"
   ],
-  "Clustering Algorithms": [
-    "Cluster Detection"
+  "Online Social Networks": [
+    "Online Social Networks"
   ],
-  "Data Mining": [
-    "Data Mining"
-  ],
-  "Low-Resource NLP": [
-    "low-resource Natural Language Processing (NLP)"
+  "Low-resource NLP": [
+    "Low-resource NLP"
   ],
   "Bangla NLP": [
-    "Bangla NLP"
+    "Bangla NLP",
+    "Bengali NLG"
   ],
-  "Software Engineering": [
-    "Software Engineering",
-    "software engineering"
+  "Software Quality": [
+    "Software Quality"
   ],
   "Grammatical Error Correction": [
     "Grammatical Error Correction"
   ],
-  "Low-Resource Languages": [
-    "Low-Resource Languages"
+  "Context Aware Sentence Validation": [
+    "Context Aware Sentence Validation"
   ],
-  "Multilingual Validation": [
-    "Multilingual Context Aware Sentence Validation"
+  "Curriculum and Syllabus Design": [
+    "Curriculum and Syllabus Design"
   ],
-  "Software Quality Maintenance": [
-    "software quality maintenance"
+  "Materials Development for Language Teaching and...": [
+    "Materials Development for Language Teaching and..."
   ],
-  "Indic Languages": [
-    "Indic Languages"
+  "Language Testing and Evaluation": [
+    "International English Language Testing System",
+    "Language Testing and Evaluation"
   ],
-  "Computer Science": [
-    "Computer Science",
-    "computer science"
+  "Assessment Issues and Practices in Higher...": [
+    "Assessment Issues and Practices in Higher..."
   ],
-  "Big Data/IoT/ML": [
-    "Big Data, IoT and Machine Learning"
+  "HRM": [
+    "HRM",
+    "Hrm Issues"
   ],
-  "Curriculum & Syllabus Design": [
-    "Curriculum & Syllabus Design in Language Education"
+  "ES": [
+    "ES"
   ],
-  "Assessment Practices": [
-    "Assessment Issues and Practices in Higher Education"
+  "BA": [
+    "BA"
   ],
-  "Language Testing": [
-    "Language Testing & Evaluation"
+  "DDB": [
+    "DD",
+    "DDB"
   ],
-  "EAP": [
-    "English for Academic Purposes (EAP)"
+  "MHS": [
+    "MHS"
   ],
-  "Material Development": [
-    "Instructional materials development"
+  "MMM": [
+    "MMM"
   ],
-  "Social Justice": [
-    "Social justice"
+  "English Language Teacher Education": [
+    "English Language Teacher Education",
+    "English Language Teaching Methodology",
+    "Language Teacher Education",
+    "Language Teaching",
+    "Teaching English as a Second Language",
+    "Teaching English to Young Learners"
   ],
-  "Identity Studies": [
-    "Teacher-learner identity"
+  "Teacher Identity": [
+    "Teacher Identity"
   ],
-  "ELT Leadership": [
-    "ELT Leadership & Management"
-  ],
-  "Tertiary Language Education": [
-    "Reshaping English Language Teaching and Learning Experiences at Tertiary Level"
-  ],
-  "Curriculum Development": [
-    "Curriculum development"
-  ],
-  "Linguistics Education": [
-    "Language Teaching & Learning"
-  ],
-  "Sociolinguistics Theory": [
-    "Power dynamics in the society"
-  ],
-  "Assessment Theory": [
-    "Assessment practice"
-  ],
-  "Materials Development": [
-    "Language education materials development"
-  ],
-  "Short Canonical Form": [
-    "Adaptive mechanisms of mangrove species",
-    "Allometric biomass models",
-    "Animation",
-    "Audiovisual arts",
-    "Autonomous Weeding Robots",
-    "Bangladesh Cinema and Television Institute",
-    "Bionic Wheel-Legged Quadruped",
-    "Carbon estimation",
-    "Carbon stock assessment",
-    "Climate Change",
-    "Control Systems",
-    "Department of Visual & Performing Arts",
-    "Drought trends",
-    "Ecological monitoring",
-    "Ecological monitoring in natural and restored forest ecosystems",
-    "Embedded Systems",
-    "Environmental Pollution",
-    "Film",
-    "Forest governance",
-    "Forest litter decomposition",
-    "Gender studies",
-    "Geospatial Techniques",
-    "Human rights violations",
-    "International Painting Symposium",
-    "Landuse Dynamics",
-    "Long Short-Term Memory-Proximal Policy Optimization",
-    "Machine learning models",
-    "Mangrove ecology",
-    "Media Studies",
-    "Multi-Agent Control",
-    "Net primary productivity and carbon sequestration rate",
-    "New media",
-    "Nutrient cycling",
-    "Nutrient resorption strategies",
-    "Optimization",
-    "Painting",
-    "Peace and conflict studies",
-    "Printmaking",
-    "Reference evapotranspiration trend",
-    "Reinforcement Learning",
-    "Robotics",
-    "Rohingya crisis",
-    "SPI and SPEI",
-    "Soil quality in the Sundarbans mangrove forest of Bangladesh",
-    "Sri Sri University",
-    "Sustainable forest management",
-    "ToonBangla",
-    "University of Liberal Arts",
-    "Urban Heat Island Intensity",
-    "Urban Planning and Environmental Management",
-    "Visual anthropology",
-    "Wheel-Legged Quadruped"
-  ],
-  "ELT materials design": [
-    "English Language Textbook"
-  ],
-  "critical pedagogy": [
-    "Critical Pedagogy"
-  ],
-  "narrative theory": [
+  "Narratology": [
     "Narratology"
   ],
-  "teacher identity": [
-    "Language Teacher Identity"
+  "Nature-based solutions": [
+    "Nature-based solutions"
   ],
-  "English Language Teaching methods": [
-    "ELT Methodology"
+  "Environmental governance": [
+    "Environmental Management",
+    "Environmental Management and policy",
+    "Environmental governance"
   ],
-  "globalization and culture shift": [
-    "Globalization: Culture Shift or Culture Domination?"
+  "Climate change adaptation": [
+    "Climate Change",
+    "Climate Change Adaptation",
+    "Climate change adaptation",
+    "climate change"
   ],
-  "teacher narratives and pandemic response": [
-    "TEACHERS’ NARRATIVES FROM INITIAL VIRTUAL CLASSROOMS AND PROFESSIONAL DEVELOPMENT DURING THE COVID-19 PANDEMIC IN DEVELOPING BANGLADESH"
+  "Technology for poverty alleviation": [
+    "Technology for poverty alleviation"
   ],
-  "glocal subjectivity and ELT materials design": [
-    "Glocal Subjectivity, Material Design, and English Language Textbook in Bangladesh: A Sociological Analysis"
+  "Scholarly communication": [
+    "Scholarly communication"
   ],
-  "language policy and resistance": [
-    "National Language Policies and Resistance: An Economic Perspective"
-  ],
-  "motivation in EFL writing classrooms": [
-    "Motivation for EFL Writing Classrooms at Tertiary Level: A Post Colonial Intervention"
-  ],
-  "teacher qualities and student performance": [
-    "Do English Teachers Qualities Affect Student Performance? An explanatory study from Bangladesh"
-  ],
-  "Nature-Based Solutions": [
-    "nature-based solutions"
-  ],
-  "Environmental Governance": [
-    "environmental governance"
-  ],
-  "Climate Change Adaptation": [
-    "climate change adaptation"
-  ],
-  "Technology For Poverty Alleviation": [
-    "technology for poverty alleviation"
-  ],
-  "Scholarly Communication": [
-    "scholarly communication"
-  ],
-  "Research Impact": [
-    "research impact"
-  ],
-  "Conservationist": [
-    "conservationist"
-  ],
-  "Aquatic Ecologist": [
-    "aquatic ecologist"
-  ],
-  "Algal Taxonomist": [
-    "algal taxonomist"
-  ],
-  "Development Facilitator": [
-    "development facilitator"
-  ],
-  "Strategic Direction": [
-    "strategic direction"
-  ],
-  "Expert Opinion": [
-    "expert opinion"
-  ],
-  "Computational Image Processing": [
-    "computational image processing"
-  ],
-  "Audio Processing": [
-    "audio processing"
-  ],
-  "Wireless Power Transfer Optimization": [
-    "wireless power transfer optimization"
-  ],
-  "IoT Based Health System": [
-    "iot based health system"
-  ],
-  "3D Modelling and Automation": [
-    "3d modelling and automation"
-  ],
-  "AI in Health Monitoring and Image Processing": [
-    "ai in health monitoring and image processing"
+  "Research impact": [
+    "Research",
+    "Research impact"
   ],
   "Signal Processing": [
-    "signal processing"
+    "Signal Processing"
   ],
-  "Image Optimization": [
-    "image optimization"
+  "AI in Healthcare": [
+    "AI in Healthcare"
   ],
-  "Electronic Health Monitoring": [
-    "electronic health monitoring"
+  "3D Modelling and Automation": [
+    "3D Modelling and Automation"
   ],
-  "AI in Healthcare and Smart Wearables": [
-    "ai in healthcare and smart wearables"
+  "AI and Higher Education": [
+    "AI and Higher Education",
+    "AI in Higher Ed",
+    "ai in education"
   ],
-  "EdTech": [
-    "AI and higher education"
+  "Inclusivity and Social Justice": [
+    "Inclusivity and Social Justice"
   ],
-  "Societal Impact of Education": [
-    "inclusivity and social justice"
+  "Critical Thinking in Bangladeshi ELL Classes": [
+    "Critical Thinking in Bangladeshi ELL Classes"
   ],
-  "Cultural Competence": [
-    "Indigenous ethnic students in the mainstream education of Bangladesh"
-  ],
-  "Language Education for Sustainability": [
-    "Transformative Multiliteracies Pedagogy and Sustainable Development"
-  ],
-  "Digital Language Learning": [
-    "Transglossia and virtual role-play"
-  ],
-  "Language Learning Strategies": [
-    "Autonomous Language Learning: Bangladeshi Undergraduates’ Attitude and Perceptions"
+  "Multiliteracies Pedagogy": [
+    "Multiliteracies Pedagogy"
   ],
   "Formalism": [
     "Formalism"
+  ],
+  "Genre Studies": [
+    "Genre Studies"
   ],
   "Experimental Literature": [
     "Experimental Literature"
   ],
   "Translated Literature": [
-    "Translated Literature"
+    "Translated Literature",
+    "literary translation"
   ],
   "Mythological Retellings": [
     "Mythological Retellings"
   ],
-  "ML": [
-    "Machine Learning",
-    "Machine learning"
+  "Creative Writing": [
+    "Creative Communication",
+    "Creative Writing",
+    "creative writing"
   ],
-  "DL": [
-    "Deep Learning",
-    "Deep learning"
+  "NLP": [
+    "NLP"
   ],
-  "Answer-aware question generation": [
-    "Transformer based Answer-Aware Bengali Question Generation"
+  "water level forecasting": [
+    "water level forecasting"
   ],
-  "LSTM-based water level forecasting": [
-    "Particle swarm optimization based LSTM networks for water level forecasting"
+  "Tagore poetry analysis": [
+    "Tagore poetry analysis"
   ],
-  "water segmentation": [
-    "Water Body Segmentation Models"
+  "Disaster Risk Reduction": [
+    "Disaster Risk Reduction"
   ],
-  "Hafez poetry analysis": [
-    "Persian Hafez poetry based on the poet's era"
+  "Vulnerability Assessment": [
+    "Vulnerability Assessment"
   ],
-  "Poetry analysis using BERT": [
-    "Bert-based models for Poetry Analysis"
+  "Ecosystem and Community Based Adaptation": [
+    "Ecosystem and Community Based Adaptation"
   ],
-  "multimodal NLG": [
-    "Multimodal Natural Language Generation"
+  "Land Use and Food Security": [
+    "Land Use and Food Security"
   ],
-  "visual question generation": [
-    "Visual Question Generation in Bengali"
+  "islamic banking and finance": [
+    "islamic banking and finance"
   ],
-  "Maqasid-based Performance Evaluation Index": [
-    "Maqasid (Objective) based Performance Evaluation Index",
-    "Original Index for Islamic Banks"
+  "multi-criteria decision making": [
+    "multi-criteria decision making"
   ],
-  "Islamic Banking and Finance": [
-    "Islamic Banking and Finance"
+  "maqasid-based performance evaluation index for islamic...": [
+    "maqasid-based performance evaluation index for islamic..."
   ],
-  "Multicriteria Decision Making": [
-    "Multicriteria Decision Making"
+  "regulation, taxation, and resources": [
+    "regulation, taxation, and resources"
   ],
-  "Greenhouse Gas Emission Drivers": [
-    "Greenhouse Gas Emission Drivers"
-  ],
-  "Regulation, Taxation, and Resources": [
-    "Regulation, Taxation, and Resources"
-  ],
-  "Service Quality, Patient Satisfaction and Loyalty": [
-    "Service Quality, Patient Satisfaction and Loyalty"
-  ],
-  "CO2 Emission and Agricultural Productivity": [
-    "CO2 Emission and Agricultural Productivity"
+  "navigating interest rate flux": [
+    "navigating interest rate flux"
   ],
   "Pattern Recognition": [
-    "pattern recognition"
+    "Pattern Recognition"
   ],
   "Autonomous Systems": [
-    "autonomous systems"
+    "Autonomous Systems"
   ],
-  "YOLO Models": [
-    "yolo models"
+  "english pronunciation editing": [
+    "english pronunciation editing"
   ],
-  "Vision Augmentation Algorithm": [
-    "vision augmentation algorithm"
+  "career planning": [
+    "career planning"
   ],
-  "Natural Language Descriptor": [
-    "natural language descriptor"
+  "leadership skills": [
+    "Leadership Roles",
+    "leadership skills"
   ],
-  "Hybrid Neural Network": [
-    "hybrid neural network"
+  "Feminist Film Theory": [
+    "Feminist Film Theory"
   ],
-  "english+pronunciation": [
-    "English pronunciation"
+  "Ecofeminism": [
+    "Ecofeminism"
   ],
-  "business+communication": [
-    "Business communication"
+  "Gender Politics": [
+    "Gender Politics"
   ],
-  "career+planning": [
-    "Career planning"
+  "South Asian Cinema": [
+    "South Asian Cinema"
   ],
-  "english+communication+courses": [
-    "English communication courses"
-  ],
-  "business+english": [
-    "Business English"
-  ],
-  "tertiary+education": [
-    "Tertiary Education"
-  ],
-  "english+second+language": [
-    "English as a Second Language (ESL)"
-  ],
-  "leadership+skills": [
-    "Leadership skills"
-  ],
-  "critical+thinking": [
-    "Critical thinking"
-  ],
-  "communication+skills": [
-    "Communication skills"
-  ],
-  "organizational behaviour": [
-    "Organisational Behaviour"
-  ],
-  "employee productivity": [
+  "Employee Productivity": [
     "Employee Productivity"
   ],
-  "emotional intelligence": [
-    "Emotional Intelligence"
-  ],
-  "organizational psychology": [
+  "Organisational Behaviour": [
+    "Organisational Behaviour",
     "Organisational Psychology"
   ],
-  "work-life balance": [
+  "Emotional Intelligence": [
+    "Emotional Intelligence"
+  ],
+  "Work-Life Balance": [
     "Work-Life Balance"
   ],
-  "organizational sustainability": [
-    "Organisational Sustainability"
+  "Organisational Sustainability": [
+    "Organisational Sustainability",
+    "Sustainability"
   ],
-  "employee engagement": [
-    "Employee Engagement"
+  "corporate financing": [
+    "Corporate Finance",
+    "corporate finance",
+    "corporate financing",
+    "debt financing"
   ],
-  "knowledge management approach": [
-    "Knowledge Management Approach"
+  "smme financing": [
+    "smme financing"
   ],
-  "social entrepreneurship": [
-    "Social Entrepreneurship"
+  "financial inclusion": [
+    "financial inclusion"
   ],
-  "change management": [
-    "Change Management"
+  "banking software migration project": [
+    "banking software migration project"
   ],
-  "motivation": [
-    "Motivation"
+  "australia awards scholarship program": [
+    "australia awards scholarship program"
   ],
-  "ict education": [
-    "ICT Education"
+  "journal of applied business and economics": [
+    "journal of applied business and economics"
   ],
-  "Environmental Economics": [
-    "environmental economics"
+  "Resource Management": [
+    "Resource Management"
   ],
-  "Energy Economics": [
-    "energy economics"
-  ],
-  "Climate Change Mitigation": [
-    "Climate Change Mitigation",
-    "climate change"
-  ],
-  "Energy Consumption Patterns": [
-    "energy use"
-  ],
-  "Sustainable Development Strategies": [
-    "long-term development"
-  ],
-  "Environmental Sustainability": [
-    "Sustainability",
-    "environmental degradation"
-  ],
-  "Climate Policy Analysis": [
-    "climate policy"
-  ],
-  "Sustainable Resource Management": [
-    "resource management"
-  ],
-  "Environmental Economics Analysis": [
-    "economic evaluation of environmental externalities"
-  ],
-  "critical theory": [
-    "Critical Theory"
-  ],
-  "marxism": [
-    "Marxism"
-  ],
-  "south asian history": [
-    "South Asian History"
-  ],
-  "global history": [
-    "Global History"
-  ],
-  "early modern history": [
-    "Early Modern History"
-  ],
-  "labour history": [
-    "Labour History"
-  ],
-  "intellectual history": [
-    "Intellectual History"
-  ],
-  "social and cultural history": [
-    "Social and Cultural History"
-  ],
-  "communalism in pakistan east bengal": [
+  "Communalism in Pakistan (East Bengal, 1947-1955)": [
     "Communalism in Pakistan (East Bengal, 1947-1955)"
   ],
-  "indigenous history and society": [
-    "Indigenous history and society"
+  "Early Modern and Modern History": [
+    "Early Modern and Modern History"
   ],
-  "dutch travel literature": [
-    "Dutch Travel Literature"
-  ],
-  "Postcolonial State Formation": [
-    "postcolonial state formation"
+  "Labour History": [
+    "Labour History"
   ],
   "South Asian Political Ideologies": [
-    "South Asian political ideologies"
+    "South Asian Political Ideologies"
   ],
   "Decolonization": [
-    "decolonisation"
+    "Decoloniality",
+    "Decolonization"
   ],
   "Memory and Identity Politics": [
-    "memory and identity politics"
+    "Memory and Identity Politics"
   ],
-  "Transnational Historical Relations": [
-    "transnational historical relations in South and Southeast Asia"
+  "Transnational Historical Relations in South and...": [
+    "Transnational Historical Relations in South and..."
   ],
   "Archival Research": [
-    "archival research"
+    "Archival Research"
   ],
-  "Genocide Studies and Memory": [
-    "genocide studies and memory"
+  "medium of instruction policy": [
+    "Medium of instruction",
+    "medium of instruction policy"
   ],
-  "Language Politics and State Formation": [
-    "language politics and state formation in South Asia"
-  ],
-  "Ancient History and World Civilisation": [
-    "ancient history and world civilisation"
-  ],
-  "Postcolonial South Asian Political Ideologies": [
-    "postcolonial South Asian political ideologies"
-  ],
-  "Relations Between Malaysia and Bangladesh": [
-    "relations between Malaysia and Bangladesh"
-  ],
-  "Ideological Formation and Political Thought": [
-    "ideological formation and political thought"
-  ],
-  "Electoral Reform": [
-    "electoral reform"
-  ],
-  "Documentation of Genocide and Memory": [
-    "documentation of genocide and memory related to Bangladesh’s Liberation War"
-  ],
-  "Discourse Analysis": [
-    "discourse analysis"
-  ],
-  "Conversation Analysis": [
+  "conversation analysis": [
     "conversation analysis"
   ],
-  "Language Planning Policy": [
-    "language planning policy"
-  ],
-  "Medium of Instruction": [
-    "medium of instruction"
-  ],
-  "Equity and Social Justice": [
-    "equity and social justice"
-  ],
-  "National Identity Formation": [
-    "national identity formation"
-  ],
-  "Ideological Contestations": [
-    "ideological contestations"
-  ],
-  "Journalism": [
-    "journalism"
-  ],
-  "Misinformation": [
-    "misinformation"
+  "Digital Interventions": [
+    "Digital Interventions"
   ],
   "Mental Health": [
-    "mental health"
+    "Health Psychology",
+    "Mental Health"
   ],
-  "Digital Interventions": [
-    "digital interventions"
-  ],
-  "Slums": [
-    "slums"
-  ],
-  "Objective Journalism": [
-    "objective journalism"
-  ],
-  "International Journalism": [
-    "international journalism"
-  ],
-  "Applied Linguistics and ELT": [
-    "applied linguistics and elt"
-  ],
-  "English": [
-    "english"
-  ],
-  "AI": [
-    "Artificial Intelligence"
-  ],
-  "VLSI": [
-    "VLSI"
-  ],
-  "ES": [
-    "Economic Structures",
+  "Embedded Systems": [
     "Embedded Systems"
   ],
-  "Nano": [
-    "Nanotechnology"
-  ],
-  "PS": [
-    "Power Systems"
-  ],
-  "Optics": [
-    "Optics"
-  ],
-  "SGH": [
-    "Smart Greenhouse"
-  ],
-  "ESBCD": [
-    "Early Stage Breast Cancer Detection"
-  ],
-  "WCES": [
-    "Wireless Capsule Endoscopy System"
+  "Energy Harvesting Technology from Human Motion": [
+    "Energy Harvesting Technology from Human Motion"
   ],
   "OBE": [
-    "Outcome-Based Education"
+    "OBE"
   ],
   "BL": [
-    "Bangla literature"
+    "BL"
   ],
   "DMPD": [
-    "Digital media and political discourse"
-  ],
-  "NS": [
-    "Natural Science",
-    "Novel studies"
-  ],
-  "SSS": [
-    "Short story studies"
-  ],
-  "TCL": [
-    "Twentieth-Century Literature"
-  ],
-  "LH": [
-    "Literary History",
-    "Literature and History"
+    "DMPD"
   ],
   "RFR": [
-    "Rhetorical Figures in Raktakarabi"
+    "RFR"
   ],
-  "ISMUM": [
-    "Impact of Social Media on Mass Uprising"
+  "MM": [
+    "MM"
   ],
-  "MDMPC": [
-    "Material Diversity in Maruful Islam's Poetry Collection"
+  "MIMPC": [
+    "MIMPC"
   ],
-  "Mathematical Modeling": [
-    "mathematics modeling"
+  "Mathematics Modeling": [
+    "Mathematics Modeling"
   ],
   "Dynamical Systems": [
-    "dynamical systems"
-  ],
-  "Numerical Simulation": [
-    "numerical simulation"
-  ],
-  "Applied and Computational Mathematics": [
-    "applied and computational mathematics"
-  ],
-  "Alzheimer's Disease Detection": [
-    "alzheimer's disease detection"
-  ],
-  "Brain Tumor Detection": [
-    "brain tumor detection"
-  ],
-  "Vascular Biology": [
-    "vascular biology"
+    "Dynamical Systems"
   ],
   "Computational Biology": [
-    "computational biology"
+    "Computational Biology"
   ],
-  "Bioinformatics": [
-    "bioinformatics"
-  ],
-  "Machine Learning in Healthcare": [
-    "mechine learning applications in healthcare"
-  ],
-  "Aortic Dissection": [
-    "aortic dissection"
-  ],
-  "Single-Cell Transcriptomics": [
-    "single-cell transcriptomics"
-  ],
-  "Advanced Computational Analysis": [
-    "advanced computational analysis"
+  "Vascular Biology": [
+    "Vascular Biology"
   ],
   "Multi-Omics Analysis": [
-    "multi-omics analysis"
+    "Multi-Omics Analysis"
   ],
-  "Communication Disorder": [
-    "communication disorder"
+  "Machine Learning Applications in Healthcare": [
+    "Machine Learning Applications in Healthcare"
+  ],
+  "Bioinformatics": [
+    "Bioinformatics",
+    "bioinformatics"
+  ],
+  "Synchrotron Imaging in Vascular Biology": [
+    "Synchrotron Imaging in Vascular Biology"
   ],
   "Public Health": [
-    "public health"
+    "Public Health",
+    "Public Health Analytics"
   ],
   "Social Neuroscience": [
-    "social neuroscience"
+    "Social Neuroscience"
   ],
   "Medical Humanities": [
-    "medical humanities"
+    "Medical Humanities"
   ],
   "Biocommunicability": [
-    "biocommunicability"
+    "Biocommunicability"
   ],
-  "Health Psychology": [
-    "health psychology"
-  ],
-  "Social Network and Loneliness Nexus": [
-    "nexus between social network and loneliness"
-  ],
-  "Covid-19's Impact on Children's Social Media Usage": [
-    "impact of covid-19 on children's social media usage"
-  ],
-  "Physicians-Journalists Professional Relationship": [
-    "professional relationship between physicians and journalists"
-  ],
-  "Health Risk Information Communication Among Senior Citizens": [
-    "communicating health and risk information among senior citizens"
-  ],
-  "Mental Health Problems of Graduate Students in Covid-19 Pandemic": [
-    "mental health problems of graduate students in the covid-19 pandemic"
-  ],
-  "Software Development": [
-    "software development"
-  ],
-  "Network Engineering": [
-    "network engineering"
-  ],
-  "Industry-Academia Collaboration": [
-    "industry-academia collaboration"
-  ],
-  "Programming Languages": [
-    "programming languages"
-  ],
-  "Core Networks": [
-    "core networks"
+  "Software Engineering": [
+    "Software Engineering"
   ],
   "Network Automation": [
-    "network automation"
+    "Network Automation"
   ],
   "IT Security and Privacy": [
-    "it security and privacy"
+    "IT Security and Privacy"
   ],
   "Drone Technology": [
-    "drone technology"
+    "Drone Technology"
   ],
   "Sustainable ICT": [
-    "sustainable ict"
+    "Sustainable ICT"
   ],
-  "Innovative Antenna Design": [
-    "Design innovative 5G, 6G antenna"
-  ],
-  "Machine Learning in Antenna Design": [
-    "CST, Agilent ADS Supervised and Deep Machine Learning Model"
+  "Core Networks": [
+    "Core Networks"
   ],
   "Antenna Performance Prediction": [
-    "Prediction Model of Antenna Performance"
+    "Antenna Performance Prediction"
   ],
-  "THz MIMO Antenna Design": [
-    "Dual-band graphene-based THz MIMO antenna"
+  "Terahertz MIMO Antenna": [
+    "THz MIMO Antenna",
+    "Terahertz MIMO Antenna"
   ],
-  "Machine Learning Validation": [
-    "Machine learning validation in performance evaluation"
+  "Innovative Design": [
+    "Innovative Design"
   ],
-  "Antenna Design Optimization": [
-    "Optimize 6G terahertz MIMO antenna designs"
+  "Education through Theatre": [
+    "Education through Theatre"
   ],
-  "6G Terahertz Communication": [
-    "Terahertz Band 6G Communications"
-  ],
-  "MIMO Antenna Design": [
-    "MIMO Antenna for Terahertz Band 6G Communications"
-  ],
-  "Machine Learning Integration": [
-    "Machine learning integration in MIMO antenna design"
-  ],
-  "Graphene-Based Antenna Design": [
-    "Graphene based terahertz MIMO antenna with machine learning regression"
-  ],
-  "Fulbright Scholarship": [
-    "Fulbright Scholarship"
-  ],
-  "Indian Council for Cultural Relations (ICCR)": [
-    "Indian Council for Cultural Relations (ICCR)"
-  ],
-  "Master of Performing Arts (M.P.A) in Theatre": [
-    "Master of Performing Arts (M.P.A) in Theatre"
-  ],
-  "Bangalore University": [
-    "Bangalore University"
-  ],
-  "Jahangirnagar University": [
-    "Jahangirnagar University"
-  ],
-  "Bangla from Jahangirnagar University": [
-    "Bangla from Jahangirnagar University"
-  ],
-  "Cultural Organizations and Theatre": [
-    "Cultural Organizations and Theatre"
-  ],
-  "Folktales of Ordisa'": [
-    "Folktales of Ordisa'"
-  ],
-  "The Daily Bangla Tribune": [
-    "The Daily Bangla Tribune"
-  ],
-  "Daffodil International University": [
-    "Daffodil International University"
-  ],
-  "Bangla Bhasha O Shahitya (BBS) Lecturer": [
-    "Bangla Bhasha O Shahitya (BBS) Lecturer"
-  ],
-  "University of Liberal Arts Bangladesh": [
-    "University of Liberal Arts Bangladesh"
-  ],
-  "Linguistics": [
-    "Linguistics"
-  ],
-  "Theatre": [
-    "Theatre"
+  "Theatricality in Theatre": [
+    "Theatre",
+    "Theatricality in Theatre"
   ],
   "Folklore": [
-    "Folklore"
+    "Folklore",
+    "Folklore and Cultural Studies"
   ],
-  "Research": [
-    "Research"
+  "Development Economics": [
+    "Development Economics",
+    "Development and Financial Economics",
+    "Managing Developing Economy"
   ],
-  "Writing": [
-    "Writing"
-  ],
-  "Dev Econ": [
-    "Development Economics"
-  ],
-  "EG": [
+  "Economic Growth": [
     "Economic Growth"
   ],
-  "ED": [
-    "Economic Development"
-  ],
-  "IRT-FDI": [
-    "Intra Regional Trade and FDI"
-  ],
-  "Pub Fin": [
+  "Public Finance": [
     "Public Finance"
   ],
-  "Pov": [
+  "Poverty": [
     "Poverty"
   ],
-  "REI": [
+  "Regional Economic Integration": [
     "Regional Economic Integration"
   ],
-  "CE": [
-    "Circular Economy"
+  "Intra Regional Trade and FDI": [
+    "Intra Regional Trade and FDI"
   ],
-  "GTI": [
-    "Green Technology Innovation"
-  ],
-  "ALG": [
-    "Administrative Leadership and Governance"
-  ],
-  "CVC": [
-    "Corona Virus Crisis"
-  ],
-  "Ant Colony Optimization approach": [
-    "Ant Colony Optimization approach"
-  ],
-  "Green Cloud Computing": [
-    "Green Cloud Computing"
-  ],
-  "Credit card fraudulence detection": [
-    "Credit card fraudulence detection"
-  ],
-  "Salient Feature Extraction Technique": [
-    "Salient Feature Extraction Technique"
-  ],
-  "Adaptive Synthetic Oversampling Models": [
-    "Adaptive Synthetic Oversampling Models"
-  ],
-  "Geographic Information System (GIS)": [
-    "Geographic Information System (GIS)"
+  "Innovation Management": [
+    "Innovation Management",
+    "Innovation Sciences"
   ],
   "Cloud Computing": [
-    "Cloud Computing"
-  ],
-  "AI EdTech": [
-    "Artificial Intelligence in Education"
-  ],
-  "Critique of AI": [
-    "Critical AI"
-  ],
-  "Education Technology": [
-    "EdTech"
-  ],
-  "Teach Ed": [
-    "Teacher Education"
-  ],
-  "Tech Ethics Ed": [
-    "Technology and Ethics in Education"
-  ],
-  "Ling Ed": [
-    "Applied Linguistics and TESOL"
-  ],
-  "PLL": [
-    "Personalized Language Learning"
-  ],
-  "AI in Ed": [
-    "Academic Integrity"
-  ],
-  "EA": [
-    "E-Assessments"
-  ],
-  "SLE": [
-    "Student Learning Experiences"
-  ],
-  "EMI": [
-    "English Medium Instruction"
-  ],
-  "DI": [
-    "Data interoperability",
-    "Diasporic Identity"
-  ],
-  "LEC": [
-    "Literary Ecocriticism"
-  ],
-  "NMUE": [
-    "New Media Use in Education"
-  ],
-  "LLADLS": [
-    "Language Learning Across Diverse Linguistic and Sociocultural Transitions"
-  ],
-  "ASLL": [
-    "Adaptive Strategies in Language Learning"
-  ],
-  "TSASC": [
-    "Teacher Self-Access Support Competence"
-  ],
-  "CTCE": [
-    "Crisis to Confidence in Teaching Experiences"
-  ],
-  "RPLEMOC": [
-    "Romanticism and Primitivism in Literary Roots of Modern Ecocriticism"
-  ],
-  "PHE": [
-    "Plagiarism in Higher Education"
-  ],
-  "Natural Language Processing": [
-    "Natural Language Processing"
+    "Cloud Computing",
+    "cloud computing"
   ],
   "Internet of Things": [
     "Internet of Things",
-    "Internet of Things (IoT)"
+    "Internet of Things (IoT)",
+    "Internet of Things Devices",
+    "IoT (Internet of Things)",
+    "internet of things"
   ],
-  "Journal Article": [
-    "An efficient decision support system for leukemia identification utilizing nature-inspired deep feature optimization.",
-    "OntoCommerce: Incorporating Ontology and Sequential Pattern Mining for Personalized E-Commerce Recommendations."
+  "Fraud Detection": [
+    "Fraud Detection"
   ],
-  "Conference Proceedings": [
-    "A CNN Based Model for Plant Disease Classification using Transfer Learning.",
-    "Multilingual Toxic Comment Classification Using Bidirectional LSTM."
+  "AI Ed": [
+    "AI",
+    "AI Ed"
   ],
-  "GIS": [
-    "Geographic Information Systems"
+  "TE": [
+    "TE"
   ],
-  "RS": [
-    "Remote Sensing"
+  "TEE Ed": [
+    "TEE Ed"
   ],
-  "GSA": [
-    "Geospatial Analysis"
+  "Crit AI": [
+    "Crit AI"
   ],
-  "CC": [
-    "Climate Change"
+  "PL": [
+    "PL"
   ],
-  "EM": [
-    "Environmental Modelling"
+  "Romanticism": [
+    "Romanticism"
   ],
-  "HM": [
-    "Hydrological Modelling"
+  "Internal colonization": [
+    "Internal colonization"
   ],
-  "MA": [
-    "Morphometric Analysis"
+  "Literary Theories": [
+    "Literary Theories"
   ],
-  "LSM": [
-    "Landslide Susceptibility Mapping"
+  "Education Movements": [
+    "Education Movements"
   ],
-  "FFSM": [
-    "Flash Flood Susceptibility Mapping"
+  "Drama": [
+    "Drama"
   ],
-  "CS": [
-    "Coastal Stewardship",
-    "Commonwealth Scholar"
+  "New Historicism": [
+    "New Historicism"
   ],
-  "Supply Chain Optimization": [
-    "supply chain optimization"
+  "land use dynamics": [
+    "land use dynamics"
   ],
-  "Logistics Management": [
-    "logistics management"
+  "geospatial techniques": [
+    "Geospatial Analysis",
+    "geospatial techniques"
   ],
-  "Stochastic Vehicle Routing Problems": [
-    "stochastic vehicle routing problems"
+  "environmental pollution": [
+    "environmental pollution"
   ],
-  "Linear Programming": [
-    "linear programming"
+  "urban planning and environmental management": [
+    "urban planning and environmental management"
   ],
-  "Stochastic Programming": [
-    "stochastic programming"
+  "markov chain cellular automata model": [
+    "markov chain cellular automata model"
   ],
-  "Supply Chain Disruptions": [
-    "supply chain disruptions"
-  ],
-  "Last-Mile Delivery Optimization": [
-    "last-mile delivery optimization"
-  ],
-  "Pandemic Management Strategies": [
-    "pandemic management strategies"
-  ],
-  "Deterministic VRPTW Model": [
-    "deterministic VRPTW model"
-  ],
-  "Multi-Driver Allocation": [
-    "multi-driver allocation"
-  ],
-  "EEE": [
-    "Electrical and Electronic Engineering"
-  ],
-  "ULAB": [
-    "University of Liberal Arts Bangladesh"
-  ],
-  "BUET": [
-    "Bangladesh University of Engineering and Technology"
-  ],
-  "NE": [
-    "Nanoelectronics"
-  ],
-  "DT": [
-    "Device Technology"
-  ],
-  "2DM": [
-    "2D Materials"
-  ],
-  "international education": [
-    "teaching overseas"
-  ],
-  "current educational research": [
-    "original phrase"
-  ],
-  "literary studies": [
-    "English Literature"
-  ],
-  "education methodology": [
-    "Teaching approaches"
-  ],
-  "educational theory": [
-    "Educational research and theories"
-  ],
-  "psychological studies": [
-    "Psychology"
-  ],
-  "literary analysis": [
-    "Literary Studies"
-  ],
-  "curriculum planning": [
-    "planning and execution"
-  ],
-  "reflective practice": [
-    "reflecting on teaching"
-  ],
-  "formative assessment": [
-    "receiving feedback"
-  ],
-  "English department": [
-    "Department of English and Humanities"
-  ],
-  "just transition": [
-    "Just Transition"
-  ],
-  "sustainability": [
-    "Sustainability",
-    "sustainable solutions"
-  ],
-  "corporate finance": [
-    "Corporate Finance"
-  ],
-  "market efficiency": [
-    "Market Efficiency"
-  ],
-  "asset pricing": [
-    "Asset Pricing"
-  ],
-  "security valuation": [
-    "Security Valuation"
-  ],
-  "interest rate flux": [
-    "Navigating interest rate flux"
-  ],
-  "equity based adaptation": [
-    "Equity-based Climate Change Adaptation"
-  ],
-  "just resilience": [
-    "Just Resilience"
-  ],
-  "financial distress": [
-    "Financial Distress"
-  ],
-  "MIS": [
-    "Management Information Systems"
-  ],
-  "DA": [
-    "Data Analytics",
-    "Discourse Analysis"
-  ],
-  "BDA": [
-    "Business Data Analytics"
-  ],
-  "ER": [
-    "Economic Resilience"
-  ],
-  "MW": [
-    "Mental Well-being"
-  ],
-  "EP": [
-    "Education Policy"
-  ],
-  "CG": [
-    "ChatGPT",
-    "Corporate Governance"
-  ],
-  "CI": [
-    "Covid-19 Impacts"
-  ],
-  "LMW": [
-    "Livelihoods and Mental Well-being"
-  ],
-  "Critical Theories": [
-    "critical theories"
-  ],
-  "Anti-Neoliberal Frameworks": [
-    "anti-neoliberal frameworks"
-  ],
-  "Multilingual Education": [
-    "multilingual education"
-  ],
-  "Language Policies": [
-    "language policies"
-  ],
-  "Social Class": [
-    "social class"
-  ],
-  "Power Dynamics": [
-    "power dynamics"
-  ],
-  "Language Ideology": [
-    "language ideology"
-  ],
-  "Translanguaging": [
-    "translanguaging"
-  ],
-  "Neoliberal Ideologies": [
-    "neoliberal ideologies"
-  ],
-  "E-Learning Methodology": [
-    "E-learning Methodology"
-  ],
-  "Pedagogy": [
-    "Pedagogy"
-  ],
-  "Community Media": [
-    "Community Media"
-  ],
-  "New Media": [
-    "New Media"
-  ],
-  "Development Communication": [
-    "Development Communication"
-  ],
-  "Artificial Intelligence in Education": [
-    "AI in Education"
-  ],
-  "Artificial Intelligence in Journalism and Communication": [
-    "AI in Journalism and Communication"
-  ],
-  "CVD": [
-    "Colour Vision Defect"
-  ],
-  "product attributes": [
-    "Product Attributes"
-  ],
-  "brand perception": [
-    "Brand Perception"
-  ],
-  "purchase decision": [
-    "Purchase Decision"
-  ],
-  "marketing": [
-    "Marketing"
-  ],
-  "consumer behavior": [
-    "Consumer Behavior"
-  ],
-  "project management": [
-    "Project Management"
-  ],
-  "business communication": [
-    "Business Communication"
-  ],
-  "entrepreneurship": [
-    "Entrepreneurship"
-  ],
-  "covid-19": [
-    "Covid-19"
-  ],
-  "online learning process": [
-    "Online Learning Process"
-  ],
-  "color vision deficiency": [
-    "Color Vision Deficiency"
-  ],
-  "microfinance institutions": [
-    "Microfinance Institutions"
-  ],
-  "obsessive-compulsive disorder": [
-    "Obsessive-Compulsive Disorder"
-  ],
-  "CV": [
-    "Computer Vision"
-  ],
-  "IP": [
-    "Image Processing",
-    "Institutional Pressure"
-  ],
-  "DCNN": [
-    "Deep Convolutional Neural Network"
-  ],
-  "TL": [
+  "Transfer Learning": [
     "Transfer Learning"
   ],
-  "AR": [
-    "Augmented Reality"
+  "Explainable AI": [
+    "Explainable AI",
+    "Explainable AI (XAI)"
   ],
-  "MARA": [
-    "Mobile Augmented Reality Application"
+  "GIS": [
+    "GIS"
   ],
-  "ODR": [
-    "Object Detection and Recognition"
+  "Remote Sensing": [
+    "Remote Sensing"
   ],
-  "HDR": [
-    "Handwritten Indic Digit Recognition"
+  "SDG-17": [
+    "SDG-17"
   ],
-  "CapNet": [
-    "Capsule Network"
+  "Supply Chain Optimization": [
+    "Supply Chain Management",
+    "Supply Chain Optimization",
+    "Supply Chain Performance Optimization"
   ],
-  "IRF": [
-    "Inflation Rate Forecasting"
+  "Stochastic Vehicle Routing Problems": [
+    "Stochastic Vehicle Routing Problems"
   ],
-  "CILD": [
-    "Climate Induced Loss and Damage"
+  "Logistics Management": [
+    "Logistics Management"
   ],
-  "SD": [
-    "Software Development",
-    "Sustainable Development"
+  "Decision Analytics Under Uncertainty": [
+    "Decision Analytics Under Uncertainty"
   ],
-  "TD": [
-    "Transdisciplinary"
+  "Last-Mile Delivery Optimization": [
+    "Last-Mile Delivery Optimization"
   ],
-  "ESSS": [
-    "Environmental Studies and Sustainability Science"
+  "Device Technology": [
+    "Device Technology"
   ],
-  "SES": [
-    "Socio-ecological Systems"
+  "educational research": [
+    "educational research"
   ],
-  "L&D": [
+  "overseas teaching": [
+    "overseas teaching"
+  ],
+  "educational theories": [
+    "educational theories"
+  ],
+  "teaching approaches": [
+    "teaching approaches"
+  ],
+  "literary studies": [
+    "Literary Studies",
+    "literary studies"
+  ],
+  "psychology": [
+    "psychology"
+  ],
+  "Just Transition": [
+    "Just Transition"
+  ],
+  "Market Efficiency": [
+    "Market Efficiency"
+  ],
+  "Asset Pricing": [
+    "Asset Pricing"
+  ],
+  "Security Valuation": [
+    "Security Valuation"
+  ],
+  "MIS": [
+    "MIS"
+  ],
+  "DA": [
+    "DA"
+  ],
+  "DG": [
+    "DG"
+  ],
+  "ER": [
+    "ER"
+  ],
+  "BDA": [
+    "BDA"
+  ],
+  "Critical Theories of Language": [
+    "Critical Theories of Language"
+  ],
+  "Power and Social Class": [
+    "Power and Social Class"
+  ],
+  "Anti-Neoliberal and Multilingual Educational Frameworks": [
+    "Anti-Neoliberal and Multilingual Educational Frameworks"
+  ],
+  "e-learning methodology": [
+    "e-learning methodology"
+  ],
+  "community media": [
+    "Media Communications",
+    "community media"
+  ],
+  "new media": [
+    "New media",
+    "new media"
+  ],
+  "development communication": [
+    "Communication for Development",
+    "development communication"
+  ],
+  "Color Vision Defect": [
+    "Color Vision Defect"
+  ],
+  "Product Attributes": [
+    "Product Attributes"
+  ],
+  "Brand Perception": [
+    "Brand Perception",
+    "Branding And Consumer Behavior"
+  ],
+  "Purchase Decision": [
+    "Purchase Decision"
+  ],
+  "Microfinance Institutions": [
+    "Microfinance",
+    "Microfinance Institutions"
+  ],
+  "Customer’s Compulsive Buying Behavior": [
+    "Customer’s Compulsive Buying Behavior"
+  ],
+  "Rohingya crisis": [
+    "Rohingya crisis"
+  ],
+  "Human rights violations": [
+    "Human rights violations"
+  ],
+  "Peace and conflict studies": [
+    "Peace and conflict studies"
+  ],
+  "Environmental justice": [
+    "Climate Justice",
+    "Environmental justice"
+  ],
+  "Loss and Damage": [
     "Loss and Damage"
   ],
-  "MIG": [
-    "Migration"
+  "Socio-ecological systems": [
+    "Socio-ecological systems"
   ],
-  "PE": [
-    "Political Ecology"
+  "Environmental Studies and Sustainability Science": [
+    "Environmental Research",
+    "Environmental Science",
+    "Environmental Studies and Sustainability Science",
+    "Environmental and ecological research"
   ],
   "Software Project Management": [
     "Software Project Management"
@@ -2689,201 +1375,110 @@
   "Simulation Modeling": [
     "Simulation Modeling"
   ],
-  "System Thinking and System Design": [
-    "System Thinking and System Design"
-  ],
   "Agentic AI Systems": [
     "Agentic AI Systems"
   ],
-  "Software Engineering Project Management": [
-    "Software Engineering Project Management"
+  "System Thinking and System Design": [
+    "System Thinking and System Design"
   ],
   "Multi-project resource allocation under uncertainty": [
     "Multi-project resource allocation under uncertainty"
   ],
-  "Rework uncertainty in software development projects": [
-    "Rework uncertainty in software development projects"
-  ],
-  "System Dynamics Modeling for project management": [
-    "System Dynamics Modeling for project management"
-  ],
-  "Resource buffers in software projects": [
-    "Resource buffers in software projects"
-  ],
-  "Descriptor dataset for educational and socioeconomic factors": [
-    "Descriptor dataset for educational and socioeconomic factors"
-  ],
-  "Predicting air pollution in Asia using machine learning": [
-    "Predicting air pollution in Asia using machine learning"
+  "Communication Technology": [
+    "Communication Technology"
   ],
   "Metric Topology": [
     "Metric Topology"
   ],
-  "Visual Perception": [
-    "Visual Perception"
+  "Multimedia Journalism Workshop": [
+    "Multimedia Journalism Workshop"
   ],
-  "Multimedia Journalism": [
-    "Multimedia Journalism"
+  "Our World of Water": [
+    "Our World of Water"
   ],
-  "Rural Journalists": [
-    "Rural Journalists"
+  "Saudi Aramco World": [
+    "Saudi Aramco World"
   ],
-  "Photography Education": [
-    "Photography Education"
+  "Affect": [
+    "Affect"
   ],
-  "Communication and Technology": [
-    "Journalism and Technology"
+  "Neurodivergence": [
+    "Neurodivergence"
   ],
-  "Film History": [
-    "Film History"
-  ],
-  "Digital Media Production": [
-    "Digital Media Production"
-  ],
-  "Documentary Film Production": [
-    "Documentary Film Production"
+  "Disability Studies": [
+    "Disability Studies"
   ],
   "financial statement analysis": [
-    "Financial Statement Analysis for Decision Making"
+    "financial statement analysis"
   ],
   "security analysis": [
-    "Security Analysis"
+    "security analysis"
   ],
   "portfolio management": [
-    "Portfolio Management"
+    "portfolio management"
   ],
   "financial institution analysis": [
-    "Analysis of financial institutions"
+    "financial institution analysis"
   ],
-  "liquidity analysis": [
-    "Liquidity Analysis"
+  "South Asian Women Writers": [
+    "South Asian Women Writers"
   ],
-  "camel approach": [
-    "CAMEL Approach"
-  ],
-  "public listed companies malaysia": [
-    "Public-Listed Companies in Malaysia"
-  ],
-  "country risk": [
-    "Country risk"
-  ],
-  "financial management": [
-    "Financial Management"
-  ],
-  "Female Anglophone writers of Bangladesh": [
-    "Female Anglophone writers"
-  ],
-  "South Asian women writers": [
-    "South Asian women writers"
-  ],
-  "Theater and Adaptation": [
-    "Theater and Adaptation"
-  ],
-  "American Literature": [
-    "American Literature"
+  "Victorian Literature": [
+    "Victorian Literature"
   ],
   "Diaspora Writing": [
     "Diaspora Writing"
   ],
-  "The Literary Encyclopedia": [
-    "Literary Encyclopedia"
+  "Ad-Hoc Networks": [
+    "Ad-Hoc Networks"
   ],
-  "MargASIA: Journal of Centre for Asian Studies": [
-    "MargASIA: Journal of Centre for Asian Studies"
+  "Blockchain": [
+    "Blockchain"
   ],
-  "Crossings: A Journal of English Studies": [
-    "Crossings: A Journal of English Studies"
+  "Digital Twin": [
+    "Digital Twin"
   ],
-  "Equity Valuation": [
+  "Graph Theory": [
+    "Graph Theory"
+  ],
+  "equity valuation": [
     "equity valuation"
   ],
-  "Market Volatility": [
+  "market volatility": [
     "market volatility"
   ],
-  "Investor Behavior": [
+  "investor behavior": [
     "investor behavior"
   ],
-  "Financial Report Complexity": [
+  "financial report complexity": [
     "financial report complexity"
   ],
-  "Debt Financing": [
-    "debt financing"
-  ],
-  "Share Price": [
+  "share price": [
     "share price"
   ],
-  "Disclosure": [
-    "disclosure"
-  ],
-  "Investment Efficiency": [
-    "investment efficiency"
-  ],
   "CSR": [
-    "Corporate Social Responsibility"
+    "CSR"
   ],
   "CD": [
-    "Carbon Disclosure"
+    "CD"
+  ],
+  "CG": [
+    "CG"
   ],
   "SA": [
-    "Sentiment Analysis",
-    "Sustainability Accounting"
+    "SA"
   ],
   "MS": [
-    "Modern Slavery"
+    "MS"
   ],
-  "S3": [
-    "Scope 3"
+  "LOP": [
+    "LOP"
   ],
-  "IC": [
-    "Intellectual Capital"
-  ],
-  "ARS": [
-    "Annual Report to Shareholders"
-  ],
-  "cyberbully detection": [
+  "Cyberbully Detection": [
     "Cyberbully Detection"
   ],
-  "sentiment analysis": [
-    "Sentiment Analysis"
-  ],
-  "music mood classification": [
-    "Music Mood Classification"
-  ],
-  "transformer-based approach": [
-    "Transformer-Based Approach"
-  ],
-  "real-time sentiment analysis": [
-    "Real-Time Sentiment Analysis"
-  ],
-  "bangla music mood": [
-    "Bangla Music MooD"
-  ],
-  "data science": [
-    "Data Science"
-  ],
-  "artificial intelligence": [
-    "Artificial Intelligence"
-  ],
-  "machine learning": [
-    "Machine Learning"
-  ],
-  "data analytics": [
-    "Data Analytics"
-  ],
-  "Environmental Management": [
-    "Environmental Management"
-  ],
-  "Renewable Energy": [
-    "Renewable Energy",
-    "Rural electrification through solar energy in Bangladesh",
-    "Sustainable Development in renewable energy",
-    "renewable energy"
-  ],
-  "Sharing Economy": [
-    "Sharing Economy"
-  ],
-  "AI and Big Data Adoption": [
-    "Adoption of AI and Big Data"
+  "Climate Change Mitigation": [
+    "Climate Change Mitigation"
   ],
   "Environmental Impact Assessment": [
     "Environmental Impact Assessment"
@@ -2891,1048 +1486,692 @@
   "Economic Geography": [
     "Economic Geography"
   ],
-  "Coping strategies of ready-made garments workers in Bangladesh during the COVID-19 pandemic: a qualitative assessment": [
-    "Copied strategies of ready-made garments workers in Bangladesh during the COVID-19 pandemic"
+  "Strategic Management Analysis For Sustainability": [
+    "Strategic Management Analysis",
+    "Strategic Management Analysis For Sustainability"
   ],
-  "HR policy": [
-    "Human Resource Policy"
+  "Entrepreneurship": [
+    "Entrepreneurship",
+    "Entrepreneurship Development",
+    "Social Entrepreneurship"
   ],
-  "Financial technology": [
-    "Fintech"
+  "Return On Investment Of Organized Furniture...": [
+    "Return On Investment Of Organized Furniture..."
   ],
-  "adaptation theory": [
-    "Adaptations theory"
+  "literary media representation": [
+    "literary media representation"
   ],
-  "human resources analytics": [
-    "HR analytics"
+  "intersectionality": [
+    "Intersectionality",
+    "intersectionality"
   ],
-  "pharma industry": [
-    "Pharmaceutical Industry of Developing Countries"
+  "Strategy": [
+    "Strategy"
   ],
-  "job satisfaction pharma": [
-    "Job Satisfaction in the Pharmaceutical Industry of Developing Countries"
+  "Education Technology": [
+    "Education Technology"
   ],
-  "electronic banking comm banks": [
-    "Electronic Banking in The Commercial Banks of Bangladesh"
+  "Mobile Application": [
+    "Mobile Application"
   ],
-  "UTAUT model": [
-    "UTAUT model"
+  "Impact Startup": [
+    "Impact Startup"
   ],
-  "ecommerce bangladesh": [
-    "E-commerce in Bangladesh"
+  "Ethical Transnational Media Collaborations": [
+    "Ethical Transnational Media Collaborations"
   ],
-  "sustainable banking practice": [
-    "Sustainable Banking Practice"
+  "Visual Anthropology": [
+    "Visual Anthropology"
   ],
-  "East-West Center": [
-    "East West Center"
+  "Academia and Arts": [
+    "Academia and Arts"
   ],
-  "University of Hawaii": [
-    "University of Hawaii"
+  "Translation Studies": [
+    "Translation Studies"
   ],
-  "Miami University": [
-    "Miami University"
+  "Comparative Translation": [
+    "Comparative Translation"
   ],
-  "Ohio State University": [
-    "Ohio State University"
+  "Chinese Translation Theories": [
+    "Chinese Translation Theories"
   ],
-  "London School of Economics": [
-    "London School of Economics"
+  "Human Resource Analytics": [
+    "Human Resource Analytics"
   ],
-  "Salzburg Seminar": [
-    "Salzburg Seminar"
+  "Financial Technologies and Ecosystem in Bangladesh": [
+    "Financial Technologies and Ecosystem in Bangladesh"
   ],
-  "Ministry of Foreign Affairs": [
-    "Ministry of Foreign Affairs"
+  "Social Development Prospects and Perspectives in...": [
+    "Social Development Prospects and Perspectives in..."
   ],
-  "World Bank Fellowship": [
-    "World Bank Fellowship"
+  "Unified Theory of Acceptance and Use...": [
+    "Unified Theory of Acceptance and Use..."
   ],
-  "UGC": [
-    "University Grants Commission of Bangladesh"
+  "E-commerce Adoption in Bangladesh using UTAUT...": [
+    "E-commerce Adoption in Bangladesh using UTAUT..."
   ],
-  "BUCG": [
-    "Bangladesh University Grants Commission"
+  "Theory of Adaptation": [
+    "Theory of Adaptation"
   ],
-  "AUB": [
-    "Association of Universities of Bangladesh"
+  "Cybernetics": [
+    "Cybernetics"
   ],
-  "Sustainability": [
-    "Environmental Sustainability",
-    "Sustainable Development"
+  "Language Justice": [
+    "Language Justice"
   ],
-  "KTN": [
-    "Knowledge Transfer Network"
+  "Social Organization": [
+    "Social Organization"
   ],
-  "Environment": [
-    "Environmental Science",
-    "environment"
+  "Customer-Based Brand Equity": [
+    "Customer-Based Brand Equity"
   ],
-  "Energy": [
-    "Renewable Energy"
+  "Country of Origin Effect": [
+    "Country of Origin Effect"
   ],
-  "Management": [
+  "Archeological marketing": [
+    "Archeological marketing"
+  ],
+  "Customer Satisfaction": [
+    "Customer Satisfaction"
+  ],
+  "E-marketing": [
+    "E-marketing"
+  ],
+  "Behavioral Targeting": [
+    "Behavioral Targeting"
+  ],
+  "US Government Fellowship": [
+    "US Government Fellowship"
+  ],
+  "Graduate Studies": [
+    "Graduate Studies"
+  ],
+  "Apex Body for Higher Education": [
+    "Apex Body for Higher Education"
+  ],
+  "Board of Governors": [
+    "Board of Governors"
+  ],
+  "Waste Management": [
     "Waste Management"
   ],
-  "department chair": [
-    "Department Head/Chairman"
+  "KTN": [
+    "KTN"
   ],
-  "dean": [
-    "Dean of Faculty"
+  "Community-Based Communication": [
+    "Community-Based Communication"
   ],
-  "accounting research": [
-    "Accounting"
+  "ICT Policy": [
+    "ICT Policy"
   ],
-  "Semantic Web": [
+  "Gender and Communication": [
+    "Gender and Communication"
+  ],
+  "Academic Tenure": [
+    "Academic Tenure"
+  ],
+  "Financial Expertise": [
+    "Financial Expertise"
+  ],
+  "Organizational Development": [
+    "Organizational Development"
+  ],
+  "Business Administration": [
+    "Business Administration"
+  ],
+  "Market Analysis": [
+    "Market Analysis"
+  ],
+  "Semantic web": [
     "Semantic web"
   ],
-  "WoO": [
-    "Web-of-Objects"
+  "Web-of-Objects (WoO)": [
+    "Web-of-Objects (WoO)"
   ],
-  "IoT-Based": [
-    "IoT-based"
+  "Machine Learning and IoT based": [
+    "Machine Learning and IoT based"
   ],
-  "Blockchain Tech": [
-    "Blockchain technology"
+  "Blockchain Associated Machine Learning": [
+    "Blockchain Associated Machine Learning"
   ],
-  "PVC Toolkit": [
-    "Portable Video Conferencing Toolkits"
+  "Thin Film Insulators": [
+    "Thin Film Insulators"
   ],
-  "TL Model": [
-    "Transfer learning model"
+  "Schottky Barrier Diodes": [
+    "Schottky Barrier Diodes"
+  ],
+  "Solar Photo-Voltaics": [
+    "Solar Photo-Voltaics"
   ],
   "Solid State Physics": [
-    "Thin film insulators and semiconductors"
+    "Solid State Physics"
   ],
-  "Solar Energy": [
-    "Schottky barrier diodes as solar cells"
+  "Evolutionary Psychology": [
+    "Evolutionary Psychology"
   ],
-  "Interdisciplinary science literacy": [
-    "Evolutionary Psychology",
-    "Gender and Development"
+  "South Asian Archaeology": [
+    "South Asian Archaeology"
   ],
-  "History of Science": [
-    "History, methods, and philosophy of science",
-    "Life and science in Prehistory and history"
+  "Excavating Waves and Winds of (Ex)change:...": [
+    "Excavating Waves and Winds of (Ex)change:..."
   ],
-  "Environmental Science": [
-    "Environment"
+  "Buddhist Art": [
+    "Buddhist Art"
   ],
-  "Technology and Development": [
-    "Appropriate Technology"
+  "Islamic Art and Archaeology": [
+    "Islamic Art and Archaeology"
   ],
-  "Maritime Trade": [
-    "Maritime Trade"
+  "Community-Based Heritage Tourism": [
+    "Community-Based Heritage Tourism"
   ],
-  "South and Southeast Asian archaeology": [
-    "South and Southeast Asian archaeology"
+  "Cultural Heritage Management": [
+    "Cultural Heritage Management"
   ],
-  "Field archaeology": [
-    "Field archaeology"
+  "modern and contemporary literature": [
+    "modern and contemporary literature"
   ],
-  "Community archaeology": [
-    "Community archaeology"
+  "contemporary indian poetry": [
+    "contemporary indian poetry"
   ],
-  "Buddhist art": [
-    "Buddhist art"
+  "Carbon Stock Assessment": [
+    "Carbon Stock Assessment"
   ],
-  "Islamic art and archaeology": [
-    "Islamic art and archaeology"
+  "Mangrove Ecology": [
+    "Mangrove Ecology"
   ],
-  "South Asian art and architecture": [
-    "South Asian art and architecture"
+  "Ecological Monitoring": [
+    "Ecological Monitoring"
   ],
-  "Maritime archaeology": [
-    "Maritime archaeology"
+  "Sustainable Forest Management": [
+    "Sustainable Forest Management"
   ],
-  "Indian Ocean Trade": [
-    "Indian Ocean Trade"
+  "Nutrient Cycling": [
+    "Nutrient Cycling"
   ],
-  "Cultural heritage management": [
-    "Cultural heritage management"
+  "Forest Litter Decomposition": [
+    "Forest Litter Decomposition"
   ],
-  "Intangible cultural heritage": [
-    "Intangible cultural heritage"
+  "Contemporary British Poetry": [
+    "Contemporary British Poetry"
   ],
-  "Community based heritage tourism": [
-    "Community based heritage tourism"
-  ],
-  "English Lit": [
-    "English Literature"
-  ],
-  "DU": [
-    "Dhaka University"
-  ],
-  "FS": [
-    "Fulbright Scholar"
-  ],
-  "VF": [
-    "Vilas Fellow"
-  ],
-  "RLF": [
-    "Royal Literary Fund Fellow"
-  ],
-  "MCL": [
-    "Modern and Contemporary Literature"
-  ],
-  "PL": [
-    "Postcolonial Literature"
-  ],
-  "SAWIE": [
-    "South Asian Writing in English"
-  ],
-  "HUP": [
-    "Harvard University Press"
-  ],
-  "PI": [
-    "Penguin India"
-  ],
-  "WI": [
-    "Writers' Ink"
-  ],
-  "SOF": [
-    "SAARC Foundation"
-  ],
-  "Shamanic Poetry in Contemporary Britain": [
-    "Contemporary British Poetry",
-    "Postmodernism"
-  ],
-  "Romantic Reading Category": [
-    "Romanticism"
-  ],
-  "Simon Ortiz Revisited": [
-    "Native American Literature"
-  ],
-  "Fulbright scholarship for research on occultism": [
+  "Occultism": [
     "Occultism"
   ],
-  "The Figure of the Shaman in Contemporary British Poetry": [
-    "Shamanism"
+  "Native American Literature": [
+    "Native American Literature"
   ],
-  "Writing Oral Traditions: Trickster Stories of American Southwest and Fairy Tales of Europe": [
-    "Trickster"
+  "Shamanic Poetry": [
+    "Shamanic Poetry"
   ],
-  "Wireless Communication": [
-    "wireless communication"
+  "Postmodernism": [
+    "Postmodernism"
   ],
-  "Fifth Generation Wireless Networks": [
-    "5G"
+  "Data fusion": [
+    "Data fusion"
   ],
-  "Big Data": [
-    "big data"
+  "Big data": [
+    "Big data"
   ],
-  "Multimodal Data Fusion": [
-    "multimodal data fusion"
+  "Disaster detection": [
+    "Disaster detection"
   ],
-  "Natural Disaster Detection and Assessment": [
-    "natural disaster detection and assessment"
+  "Social media analytics": [
+    "Social media analytics"
   ],
-  "Remote Sensing": [
-    "remote sensing"
-  ],
-  "Social Media": [
-    "social media"
-  ],
-  "Multilingual Dataset": [
-    "multilingual dataset"
-  ],
-  "Digital Image Computing": [
-    "digital image computing"
-  ],
-  "Ensemble Classification Technique": [
-    "ensemble classification technique"
-  ],
-  "XAI": [
-    "Explainable AI"
-  ],
-  "HITL-ML": [
-    "Human in the Loop ML"
+  "5G wireless communication": [
+    "5G wireless communication"
   ],
   "DM": [
-    "Data Mining"
+    "DM"
   ],
-  "ML-AI": [
-    "Machine Learning and Artificial Intelligence"
+  "XAI": [
+    "XAI"
   ],
-  "DD": [
-    "Distributed Databases"
+  "HITLM": [
+    "HITLM"
   ],
-  "ESPM": [
-    "Evolutionary Software Project Management"
+  "Cognitive Development": [
+    "Cognitive Development"
   ],
-  "BC": [
-    "Block-chains"
+  "Educational Performance": [
+    "Educational Performance"
   ],
-  "Language Teacher": [
-    "language teacher"
+  "Design Principles": [
+    "Design Principles"
   ],
-  "BRAC University": [
-    "BRAC University"
+  "Robotics": [
+    "Robotics"
   ],
-  "Merit Scholarship": [
-    "Merit Scholarship"
+  "Reinforcement Learning": [
+    "Reinforcement Learning"
   ],
-  "East West University": [
-    "East West University"
+  "Hybrid Locomotion": [
+    "Hybrid Locomotion"
   ],
-  "Critical Thinking": [
-    "Critical thinking"
+  "Multi-Agent Control": [
+    "Multi-Agent Control"
   ],
-  "Reading": [
-    "Reading"
+  "Control Systems": [
+    "Control Systems"
   ],
-  "Contemporary American Literature": [
-    "Contemporary American Literature"
-  ],
-  "Material Design": [
-    "Material Design"
-  ],
-  "Teaching English to Speakers of Other Languages": [
-    "TESOL"
+  "Optimization": [
+    "Optimization"
   ],
   "Developing learner autonomy": [
-    "Learner autonomy"
+    "Developing learner autonomy"
   ],
   "Feedback and Error Correction": [
     "Feedback and Error Correction"
   ],
-  "Academic writing": [
-    "Academic writing"
+  "protein prediction": [
+    "protein prediction"
   ],
-  "Medium of instruction": [
-    "Medium of instruction"
+  "hmm features": [
+    "hmm features"
   ],
-  "International English Language Testing System": [
-    "IELTS"
+  "recommendation framework": [
+    "recommendation framework"
   ],
-  "RMMRU": [
-    "Refugee Migratory Movements Research Unit"
+  "personalized recommendation": [
+    "personalized recommendation"
   ],
-  "IGS": [
-    "Institute of Governance Studies"
+  "Refugee Migratory Movements Research Unit (RMMRU)": [
+    "Refugee Migratory Movements Research Unit (RMMRU)"
   ],
-  "BRACU": [
-    "BRAC University"
-  ],
-  "IPE": [
+  "International political economy": [
     "International political economy"
   ],
-  "EE": [
-    "Energy Economics",
-    "Environment & ecology"
+  "ClimatChange Adaptation": [
+    "ClimatChange Adaptation"
   ],
-  "Soc": [
-    "Sociology"
-  ],
-  "BS": [
-    "Bangladesh Studies"
-  ],
-  "GPE": [
-    "Global Political Economy"
-  ],
-  "NASS": [
-    "National Academy of Social Services"
-  ],
-  "DSS": [
-    "Department of Social Services"
-  ],
-  "SCM": [
-    "Supply Chain Management"
-  ],
-  "MKTG": [
-    "Marketing"
-  ],
-  "OM": [
-    "Operations Management"
-  ],
-  "R&F": [
-    "Research and Finance"
-  ],
-  "CEP": [
+  "Circular Economy Practices": [
+    "Circular Economy",
     "Circular Economy Practices"
   ],
-  "GSCM": [
+  "Green Supply Chain Management": [
     "Green Supply Chain Management"
   ],
-  "GSB": [
-    "Green Service Behavior"
-  ],
-  "EN": [
-    "Emerging Nation"
+  "Research and Finance": [
+    "Research and Finance"
   ],
   "EEPS": [
-    "Electrical Energy & Power Systems"
+    "EE",
+    "EEPS"
   ],
   "PV": [
-    "Photovoltaic Systems"
+    "PV"
   ],
   "PGS": [
-    "Power Grid Systems"
+    "PGS"
   ],
   "GS": [
-    "Grid Stability"
+    "GS"
   ],
-  "Anti-Counterfeiting Communication": [
-    "anti-counterfeiting communication"
+  "RET": [
+    "RET"
   ],
-  "Consumer Decision Making Process": [
-    "consumers’ decision making process"
+  "Work-Integrated Learning": [
+    "Work-Integrated Learning"
   ],
-  "Communication Language": [
-    "communication language"
+  "Uncertainty-Embedded Innovation Process": [
+    "Uncertainty-Embedded Innovation Process"
   ],
-  "Branding": [
-    "branding"
+  "Feminist Linguistics": [
+    "Feminist Linguistics"
   ],
-  "Moral Consumption": [
-    "moral consumption"
+  "Eco-Linguistics": [
+    "Eco-Linguistics"
   ],
-  "Lay Beliefs": [
-    "lay beliefs"
+  "Reducing consumers’ demand for counterfeits": [
+    "Reducing consumers’ demand for counterfeits"
+  ],
+  "Luxury brand counterfeited products": [
+    "Luxury brand counterfeited products"
   ],
   "Emotion": [
-    "emotion"
+    "Emotion"
   ],
-  "Original vs Counterfeit Patronage": [
-    "original versus counterfeit patronage"
+  "Consumers’ decision making process": [
+    "Consumers’ decision making process"
   ],
-  "Social Power": [
-    "social power"
+  "Moral consumption": [
+    "Moral consumption"
   ],
-  "Product Conspicuousness": [
-    "product conspicuousness"
+  "Brand attachment": [
+    "Brand attachment"
   ],
-  "Luxury Brand Counterfeit Products": [
-    "luxury brand counterfeit products"
-  ],
-  "Social Enterprising": [
+  "Social Enterprises": [
     "Social Enterprises"
   ],
-  "Cap Mkt": [
-    "Capital Markets"
-  ],
-  "Macroecon": [
-    "Macro Economy"
-  ],
-  "MFS": [
-    "Mobile Financial Services"
-  ],
-  "OR": [
-    "Original Research"
-  ],
-  "EO": [
-    "Economic Outlook"
-  ],
-  "FL": [
-    "Financial Literacy"
-  ],
-  "SE": [
-    "Social Entrepreneurship"
-  ],
-  "MDE": [
-    "Materials Development and Evaluation",
+  "Multidisciplinary Education": [
     "Multidisciplinary Education"
   ],
-  "sustainable development": [
-    "Center for Sustainable Development"
+  "Macro Economy": [
+    "Macro Economy"
   ],
-  "social environmental research": [
-    "environmental and social researcher"
+  "Mobile Financial Services": [
+    "Mobile Financial Services"
   ],
-  "environmental complexity": [
-    "complex nature of the environment"
+  "Wealth Inequality": [
+    "Wealth Inequality"
   ],
-  "hydrology research": [
-    "Institute of Hydrology"
+  "Responsible Investment": [
+    "Responsible Investment"
   ],
-  "ecology conservation": [
-    "Landscape Ecology and Nature Conservation"
+  "Alternative Asset Classes": [
+    "Alternative Asset Classes"
   ],
-  "remote sensing systems": [
-    "Remote Sensing and Landscape Information Systems"
+  "Fulltime Teaching Experience": [
+    "Fulltime Teaching Experience"
   ],
-  "fashion sustainability": [
-    "sustainable fashion"
+  "Dark Trading": [
+    "Dark Trading"
   ],
-  "design circularity": [
-    "circular design"
+  "Merger & Acquisition": [
+    "Merger & Acquisition"
   ],
-  "climate change socioeconomics": [
-    "socio-economic impacts of climate change"
+  "Microeconomics": [
+    "Microeconomics"
   ],
-  "ICT in Comm Dev": [
-    "ICT in Communication and Development"
+  "Econometrics": [
+    "Econometrics"
   ],
-  "Media Stud": [
-    "Media Studies"
+  "Energy Economics Development Garments Sector Bangladesh...": [
+    "Energy Economics Development Garments Sector Bangladesh..."
   ],
-  "New Med": [
-    "New Media"
+  "Data Driven Analysis": [
+    "Data Analysis",
+    "Data Driven Analysis"
   ],
-  "Comm Dev": [
-    "Communication for Development"
+  "Landscape Ecology": [
+    "Landscape Ecology"
+  ],
+  "Circular Design": [
+    "Circular Design"
+  ],
+  "ICTCD": [
+    "ICTCD"
+  ],
+  "NM": [
+    "NM"
+  ],
+  "CFD": [
+    "CFD"
   ],
   "SNA": [
-    "Social Network Analysis"
+    "SNA"
   ],
-  "DMP-POASM": [
-    "Decision Making Process using Psychology-Oriented Artificial Society Model"
+  "ICTES": [
+    "ICTES"
   ],
-  "AICS-BF": [
-    "Acceptance of ICT-Enabled Services among Bangladeshi Farmers"
-  ],
-  "RSM-SBCUY": [
-    "Role of Social Media in Shaping Communication Behavior of Urban Youth"
-  ],
-  "SDMP-POASM-P1-MFP-CSP": [
-    "Study of Decision Making Process using Psychology-Oriented Artificial Society Model, Part 1: Proposal of Mathematical Formulation for Computer Simulations of Psychology"
-  ],
-  "SDMP-POASM-P2-ADMP-BNPP": [
-    "Study of decision making process using psychology-oriented artificial society model, Part 2: Analysis of decision making process in Bangladesh regarding the acceptance of nuclear power plants"
-  ],
-  "FWPO-OTT-RB-WP-JG-MAK": [
-    "Formulation of a white paper on OTT regulations in Bangladesh with Prof. Jude Genilo and Dr Muhammad Abdul Kader"
-  ],
-  "Environmental, Social, and Governance Risk Management": [
+  "ESG risk management": [
     "ESG risk management"
   ],
-  "Climate Change Finance": [
-    "Climate finance"
-  ],
-  "Corporate Social Responsibility and Sustainability": [
-    "Corporate social responsibility"
-  ],
-  "Financial Markets and Institutions": [
-    "Capital market"
-  ],
-  "Behavioral Finance and Decision Making": [
-    "Behavioral finance"
-  ],
-  "Green Banking and Sustainability": [
-    "Environmental risk management practice of banks"
-  ],
-  "Sustainable Development and Corporate Social Responsibility": [
+  "Institutional investment and corporate social performance": [
     "Institutional investment and corporate social performance"
   ],
-  "Corporate Social Responsibility and Financial Performance": [
-    "Linkage between corporate social performance and stock return"
+  "Environmental risk management practice of banks": [
+    "Environmental risk management practice of banks"
   ],
-  "Islamic Finance and Banking Systems": [
-    "Pricing linkage between Islamic banking and conventional banking"
+  "Sustainability and financial performance linkage": [
+    "Sustainability and financial performance linkage"
   ],
-  "Macroeconomic Analysis and Financial Markets": [
-    "Dynamic linkages between macroeconomic factors and stock prices"
+  "Afrocentricity": [
+    "Afrocentricity"
   ],
-  "African American Literature": [
-    "African American literature"
+  "African American Lit": [
+    "African American Lit"
   ],
-  "Postmodern American Fiction": [
-    "postmodern American Fiction"
+  "Postcolonial Ped Crises": [
+    "Postcolonial Ped Crises"
   ],
-  "European Literature in English Translation": [
-    "European Literature in English Translation"
+  "European Lit Trans": [
+    "European Lit Trans"
   ],
-  "Critical Issues of Identity, Culture, and Power": [
-    "critical issues of identity culture and power"
+  "Postmod American Fiction": [
+    "Postmod American Fiction"
   ],
-  "Intersections of Social Unrest and Class Discrimination": [
-    "intersections of social unrest and class discrimination"
+  "Art History": [
+    "Art History"
   ],
-  "'Tableaux Parisiens' by Baudelaire": [
-    "Baudelaire's 'Tableaux Parisiens'"
+  "University Role": [
+    "University Role"
   ],
-  "The Flowers of Evil: Baudelaire's Poetics of Protest": [
-    "The Flowers of Evil: Baudelaire's Poetics of Protest"
-  ],
-  "Postcolonial Pedagogical Crisis": [
-    "postcolonial pedagogical crisis"
-  ],
-  "Afrocentric Locational Theory": [
-    "Afrocentric Locational Theory"
-  ],
-  "Postcolonial Hybridity and Mimicry": [
-    "postcolonial hybridity and mimicry"
-  ],
-  "Review helpfulness prediction": [
-    "Review Helpfulness Prediction"
-  ],
-  "ML models": [
-    "Machine Learning Models"
-  ],
-  "ITMS": [
-    "Intelligent Traffic Management Systems"
-  ],
-  "IR": [
+  "Information Retrieval": [
     "Information Retrieval"
   ],
-  "ITS": [
-    "Intelligent Transportation System"
+  "Intelligent Traffic Management Systems": [
+    "Intelligent Traffic Management Systems"
   ],
-  "AILab": [
-    "Artificial Intelligence Lab"
+  "Review Helpfulness Prediction": [
+    "Review Helpfulness Prediction"
   ],
-  "AISIP lab": [
-    "AISIP Lab"
+  "Environment": [
+    "Environment"
   ],
-  "DL techs": [
-    "Deep Learning Techniques"
+  "Agriculture": [
+    "Agriculture"
   ],
-  "MABS": [
-    "Multi-Agent Based Systems"
-  ],
-  "Climate Change": [
-    "climate change"
-  ],
-  "Agriculture and Rural Development": [
-    "agriculture and rural development"
-  ],
-  "Sustainable Development Projects": [
-    "sustainable development projects"
-  ],
-  "TETL": [
-    "Teaching English Through Literature"
-  ],
-  "TEYL": [
-    "Teaching English to Young Learners (TEYL)"
-  ],
-  "CLTA": [
-    "Communicative Language Teaching Approach"
-  ],
-  "SRGEE": [
-    "Songs Rhymes and Games in English Education"
-  ],
-  "PEEB": [
-    "Primary English Education in Bangladesh"
-  ],
-  "AESLETP": [
-    "Accurate Evaluation System for ELT Professionals"
-  ],
-  "Teaching Experience": [
-    "teaching experience"
-  ],
-  "University Level": [
-    "university level"
-  ],
-  "School of Business": [
-    "School of Business"
-  ],
-  "International Relations": [
-    "Department of International Relation"
-  ],
-  "Dhaka University": [
-    "University of Dhaka"
-  ],
-  "Business Administration": [
-    "Institute of Business Administration"
-  ],
-  "BRAC-IBM ACE": [
-    "BRAC-IBM ACE"
-  ],
-  "Accounting and Math": [
-    "Accounting and Mathematics"
-  ],
-  "Principles of Accounting": [
-    "Principles of Accounting"
-  ],
-  "Managerial Accounting": [
-    "Managerial Accounting"
-  ],
-  "Decision Making Math": [
-    "Mathematics for Decision Making"
-  ],
-  "Developmental Economics": [
-    "Development and Financial Economics"
-  ],
-  "Economic Efficiency": [
-    "Institutional Efficiency"
-  ],
-  "Intangible Assets": [
-    "Intellectual Capital"
-  ],
-  "Financial Inclusion": [
-    "Microfinance"
-  ],
-  "ESG": [
-    "Environmental, Social, and Governance Practices"
-  ],
-  "Small Business Development": [
-    "Microenterprise"
-  ],
-  "Economic Development": [
-    "Poverty Reduction"
-  ],
-  "Education and Training": [
-    "Human Capital"
-  ],
-  "Program Evaluation": [
-    "Impact Analysis"
-  ],
-  "Cardiovascular Risk Determinants": [
-    "Determinants of developing cardiovascular disease risk"
-  ],
-  "Machine Learning for Diabetes Prediction": [
-    "Type-2 diabetes and predictive modeling using machine learning algorithms"
-  ],
-  "Pregnancy Termination Predictive Models": [
-    "Understanding and predicting pregnancy termination in Bangladesh"
-  ],
-  "Machine Learning Hybrid Approach": [
-    "Hybrid machine learning approach for predictive modeling"
-  ],
-  "Household Size Determinants": [
-    "Socioeconomic determinants of household size in Bangladesh"
-  ],
-  "Demographic Survey Analysis": [
-    "Bangladesh Demographic and Health Survey Data analysis"
-  ],
-  "Birth Mode Factors": [
-    "Significant factors for Birth Mode in Bangladesh"
-  ],
-  "Cross-Sectional Study on Birth Mode": [
-    "Cross-sectional study on Birth Mode identification"
-  ],
-  "Machine Learning for Public Health": [
-    "Machine learning and data analysis for public health analytics"
-  ],
-  "Statistical Theory Applications": [
-    "Probability and Statistical Theory application in research"
-  ],
-  "Information Technology": [
-    "information technology"
-  ],
-  "Computer Systems and Networking": [
-    "computer systems and networking"
-  ],
-  "Cyber Security": [
-    "cyber security"
-  ],
-  "Computer Networking": [
-    "computer networking"
-  ],
-  "Applied Information Technology": [
-    "applied information technology"
-  ],
-  "Theoretical Knowledge": [
-    "theoretical knowledge"
-  ],
-  "Practical Application": [
-    "practical application"
+  "Rural Development": [
+    "Rural Development"
   ],
   "English for Academic Purposes": [
+    "English for Academic Purposes"
+  ],
+  "Teaching English Through Literature": [
+    "Teaching English Through Literature"
+  ],
+  "Communicative Language Teaching": [
+    "Communicative Language Teaching"
+  ],
+  "Songs Rhymes and Games in Teaching...": [
+    "Songs Rhymes and Games in Teaching..."
+  ],
+  "Evaluating the Evaluator for ELT Professionals": [
+    "Evaluating the Evaluator for ELT Professionals"
+  ],
+  "accounting": [
+    "Accounting Information Systems",
+    "accounting",
+    "financial accounting",
+    "management accounting",
+    "managerial accounting"
+  ],
+  "mathematics for decision making": [
+    "mathematics for decision making"
+  ],
+  "service to students": [
+    "service to students"
+  ],
+  "Institutional Efficiency": [
+    "Institutional Efficiency"
+  ],
+  "Intellectual Capital": [
+    "Intellectual Capital"
+  ],
+  "ESG": [
+    "ESG",
+    "ESL"
+  ],
+  "Predictive Modeling": [
+    "Predictive Modeling"
+  ],
+  "Socioeconomic Determinants": [
+    "Socioeconomic Determinants"
+  ],
+  "computer science": [
+    "computer science"
+  ],
+  "cyber security": [
+    "Cyber Attacks",
+    "cyber security"
+  ],
+  "information technology": [
+    "applied information technology",
+    "information technology"
+  ],
+  "enterprise it systems": [
+    "enterprise it systems"
+  ],
+  "Green Marketing": [
+    "Green Marketing"
+  ],
+  "Human Resource Management and Supply Chain...": [
+    "Human Resource Management and Supply Chain..."
+  ],
+  "EAP": [
     "EAP"
   ],
-  "Classroom Pedagogy": [
-    "Classroom Pedagogy"
+  "Literacy Development": [
+    "Literacy Development"
   ],
-  "English as a Second Language": [
-    "English as a Second Language"
+  "Englishes": [
+    "Englishes"
   ],
-  "Second Language Teacher Education": [
-    "Second Language Teacher Education"
+  "EMI": [
+    "EMI"
   ],
-  "Disciplinary Literacy and EAP in Higher Education": [
-    "Disciplinary literacy and EAP in nonAnglophone EMI higher education"
-  ],
-  "Academic Integrity and Artificial Intelligence": [
-    "Academic integrity and generative AI"
-  ],
-  "Writing Assessment in Higher Education": [
-    "Assessing writing in EMI universities"
-  ],
-  "Academic Literacy Development and EAP in Higher Education": [
-    "Academic literacy development and EAP in English medium instruction"
-  ],
-  "Canonic Form": [
-    "Bangla Language and Literature"
-  ],
-  "Fiction Analysis": [
-    "Jyotirindra Nandi's fiction"
-  ],
-  "Ethnographic Research": [
-    "Folklore studies",
-    "Khona's maxims and the jewellery artisans of Bhakurta"
-  ],
-  "Environmental Literary Analysis": [
+  "Ecocriticism": [
     "Ecocriticism"
   ],
-  "Sustainable Development Research": [
+  "Sustainability and Indigenous Knowledge": [
     "Sustainability and Indigenous Knowledge"
   ],
-  "Literary Analysis": [
-    "Bengali Literature"
-  ],
-  "Feminist Research": [
-    "Gender Studies"
-  ],
-  "Cultural Analysis": [
-    "Cultural Studies"
-  ],
-  "Literary Comparison": [
-    "Comparative Literature"
-  ],
-  "Accounting Information System": [
-    "Accounting Information System"
+  "Folk Practices and Environmental Consciousness": [
+    "Folk Practices and Environmental Consciousness"
   ],
   "Financial Management": [
     "Financial Management"
   ],
-  "Village Phone": [
-    "Village Phone"
+  "Village Phone: Expectation vs. Execution": [
+    "Village Phone: Expectation vs. Execution"
   ],
-  "Information Search on Banking Products and Services": [
-    "Information Search on Banking Products and Services"
+  "Information Search on Banking Products and...": [
+    "Information Search on Banking Products and..."
   ],
-  "Examination of Profitability in the Context of Bangladesh Banking Industry": [
-    "Examination of Profitability in the Context of Bangladesh Banking Industry"
+  "Profitability in Bangladesh Banking Industry": [
+    "Profitability in Bangladesh Banking Industry"
   ],
-  "Factors influencing Customers’ Willingness to Buy in the context of PC peripherals": [
-    "Factors influencing Customers’ Willingness to Buy in the context of PC peripherals"
-  ],
-  "Protecting Existing and Prospective Investors and Role of Internal Auditors": [
-    "Protecting Existing and Prospective Investors and Role of Internal Auditors"
-  ],
-  "Positive Accounting Theory and Changes in Accounting Principles: An Exploratory Inquiry into Bangladeshi Listed Companies": [
-    "Positive Accounting Theory and Changes in Accounting Principles: An Exploratory Inquiry into Bangladeshi Listed Companies"
-  ],
-  "Exploratory Study on Bangladesh Emerging Credit Rating Industry": [
-    "Exploratory Study on Bangladesh Emerging Credit Rating Industry"
+  "Positive Accounting Theory": [
+    "Positive Accounting Theory"
   ],
   "ELT": [
-    "English Language Teaching (ELT)"
+    "ELT"
   ],
   "LTM": [
-    "Language Teaching Methodologies"
+    "LTM"
+  ],
+  "CP": [
+    "CP"
+  ],
+  "SLA": [
+    "SL",
+    "SLA"
   ],
   "LTE": [
-    "Language Testing and Evaluation"
+    "LTE"
   ],
-  "SocioLing": [
-    "Sociolinguistics"
+  "CNN": [
+    "CNN"
   ],
-  "ELP": [
-    "English Language Policy"
+  "BFD": [
+    "BFD"
   ],
-  "Fault Detection": [
-    "Bearing Fault Detection"
+  "Feature Subset Selection": [
+    "Feature Selection Techniques",
+    "Feature Subset Selection"
   ],
-  "BiGRU": [
-    "BiGRU-ANN"
+  "Relief Based": [
+    "Relief Based"
   ],
-  "LSTM": [
-    "LSTM-ANN"
+  "english language club": [
+    "english language club"
   ],
-  "Fault Diagnosis": [
-    "Deep Learning-Based Industrial Fault Diagnosis"
+  "dean's letters of appreciation": [
+    "dean's letters of appreciation"
   ],
-  "Academic Profile": [
-    "Susmita Sangeeta Mridha"
+  "Patriarchal Societies": [
+    "Patriarchal Societies"
   ],
-  "Canadian University of Bangladesh": [
-    "Canadian University of Bangladesh"
+  "Muslim Women": [
+    "Muslim Women"
   ],
-  "English Language Club": [
-    "English Language Club"
+  "Choice To Wear Hijab": [
+    "Choice To Wear Hijab"
   ],
-  "CUB Reading Society": [
-    "CUB Reading Society"
+  "Journalism Education": [
+    "Journalism Education"
   ],
-  "Bangladesh University of Professionals": [
-    "BUP"
-  ],
-  "Psychoanalytic Criticism": [
-    "Psychoanalytic Criticism"
-  ],
-  "Postcolonialism": [
-    "Postcolonialism"
+  "Citizen Journalism": [
+    "Citizen Journalism"
   ],
   "Computational Fluid Dynamics": [
     "Computational Fluid Dynamics"
   ],
-  "Numerical Analysis": [
-    "Numerical Analysis"
-  ],
   "Differential Equations": [
     "Differential Equations"
   ],
-  "Statistics and Probability": [
-    "Statistics and Probability"
-  ],
-  "Business Mathematics": [
-    "Business Mathematics"
-  ],
-  "Stock Market Analysis": [
-    "Stock Market Analysis"
+  "Finite Difference Method": [
+    "Finite Difference Method"
   ],
   "Advection Diffusion Equation": [
     "Advection Diffusion Equation"
   ],
-  "Finite Difference Scheme": [
-    "Finite Difference Scheme"
+  "creative industry history": [
+    "creative industry history"
   ],
-  "Original Finite Difference Method": [
-    "Original Finite Difference Method"
+  "marketing strategy development": [
+    "marketing strategy development"
   ],
-  "Gamma Rings": [
-    "Gamma Rings"
+  "workplace diversity and inclusion": [
+    "workplace diversity and inclusion"
   ],
-  "Marketing Strategy": [
-    "conceptualizing and executing",
-    "impactful marketing strategies"
+  "gender equity in workplace": [
+    "gender equity in workplace"
   ],
-  "Marketing Goals": [
-    "brand growth and consumer engagement"
-  ],
-  "Brand Growth": [
-    "proliferating brand growth"
-  ],
-  "Societal Gender Norms": [
-    "gender norms pervading"
-  ],
-  "Gender Equity in Creative Industries": [
-    "creative industries and gender equity"
-  ],
-  "Gender Safety Awareness": [
-    "amplify awareness around gender safety"
-  ],
-  "Workplace Diversity and Equity": [
-    "diversity and equity in workplaces"
-  ],
-  "Marketing Education": [
-    "academic theory with marketing experiences"
-  ],
-  "Conducive Learning Environment": [
-    "fostering conducive learning environment"
-  ],
-  "creative communication": [
-    "Creative Communication"
-  ],
-  "media research": [
-    "Media Research"
-  ],
-  "strategic communication": [
-    "Strategic Communication"
-  ],
-  "communication for development": [
-    "Communication for Development"
-  ],
-  "digital media": [
-    "Digital Media"
-  ],
-  "gender studies": [
-    "Gender Studies"
-  ],
-  "inclusivity and disability rights": [
+  "Inclusivity and Disability Rights": [
     "Inclusivity and Disability Rights"
   ],
-  "public policy": [
-    "Public Policy"
-  ],
-  "curriculum and educational media": [
+  "Curriculum and Educational Media": [
     "Curriculum and Educational Media"
   ],
-  "public relations": [
-    "Public Relations"
+  "cross-platform development": [
+    "cross-platform development"
   ],
-  "film and art": [
-    "Film and Art"
+  "human-computer interaction": [
+    "human-computer interaction"
   ],
-  "Cross Platform App Development": [
-    "Cross-platform app development"
+  "android dev": [
+    "android dev"
   ],
-  "Android Development": [
-    "Android development"
+  "TEAL": [
+    "TEAL"
   ],
-  "Web Development": [
-    "Web development"
+  "ILEEP": [
+    "ILEEP"
   ],
-  "Smart City": [
-    "Smart City"
+  "IATEFL": [
+    "IATEFL"
   ],
-  "Human Computer Interaction": [
-    "Human-Computer Interaction"
+  "media practices": [
+    "media practices"
   ],
-  "Usable Privacy And Security": [
-    "Usable Privacy and Security"
+  "media framing": [
+    "media framing"
   ],
-  "Identity": [
-    "Identity"
+  "information disorder": [
+    "information disorder"
   ],
-  "Literacy": [
-    "Literacy"
+  "mixed-methods research": [
+    "mixed-methods research"
   ],
-  "Equity": [
-    "Equity"
+  "Phonetics & Phonology": [
+    "Phonetics & Phonology"
   ],
-  "Education Policy": [
-    "Education Policy"
+  "Morphology & Syntax": [
+    "Morphology & Syntax"
   ],
-  "TESOL": [
-    "Teaching English as an Additional Language(TEAL)"
-  ],
-  "IATEFL Conference": [
-    "IATEFL conference"
-  ],
-  "British Council": [
-    "British Council"
-  ],
-  "phonetics+phonology": [
-    "Phonetics and phonology"
-  ],
-  "linguistics+research": [
-    "Linguistics research"
-  ],
-  "morphosyntax": [
-    "Morphosyntax"
-  ],
-  "semantics+pragmatics": [
-    "Semantics and pragmatics"
-  ],
-  "sociolinguistics": [
-    "Sociolinguistics"
-  ],
-  "acoustic+phonetics": [
-    "Acoustic phonetics"
-  ],
-  "sociophonetics": [
-    "Sociophonetics"
-  ],
-  "bilingual+communicative+competence+development": [
-    "Bilingual communicative competence development"
-  ],
-  "english+language+teaching+elt": [
-    "English language teaching (ELT)"
-  ],
-  "bangladeshi+english+phonology": [
-    "Bangladeshi English phonology"
-  ],
-  "word-final+z+voicing+variations": [
-    "Word-final /z/ voicing variations"
-  ],
-  "service+encounters": [
-    "Service encounters"
-  ],
-  "decolonial+contexts": [
-    "Decolonial contexts"
-  ],
-  "language+metamorphosis": [
-    "Language metamorphosis"
-  ],
-  "trans-+phenomenon": [
-    "Trans-phenomenon"
-  ],
-  "cyber attacks": [
-    "Cyber Attacks"
-  ],
-  "feature selection techniques": [
-    "Feature Selection Techniques"
-  ],
-  "stacked ensemble approach": [
-    "Stacked Ensemble Approach"
-  ],
-  "smart contract-based access control framework": [
-    "Smart Contract-Based Access Control Framework"
-  ],
-  "internet of things devices": [
-    "Internet of Things Devices"
+  "Smart Contract-based Access Control": [
+    "Smart Contract-based Access Control"
   ]
 }

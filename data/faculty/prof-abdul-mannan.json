@@ -13,78 +13,43 @@
   "extracted_keywords": [
     {
       "term": "East West Center",
-      "canonical": "East-West Center",
+      "canonical": "US Government Fellowship",
       "weight": 0.8,
       "source": "bio",
       "verified": true
     },
     {
       "term": "University of Hawaii",
-      "canonical": "University of Hawaii",
-      "weight": 0.7,
-      "source": "bio",
-      "verified": true
-    },
-    {
-      "term": "Miami University",
-      "canonical": "Miami University",
+      "canonical": "Graduate Studies",
       "weight": 0.6,
       "source": "bio",
       "verified": true
     },
     {
-      "term": "Ohio State University",
-      "canonical": "Ohio State University",
+      "term": "Ministry of Foreign Affairs",
+      "canonical": "International Business",
       "weight": 0.5,
       "source": "bio",
       "verified": true
     },
     {
-      "term": "London School of Economics",
-      "canonical": "London School of Economics",
+      "term": "Salzburg Seminar",
+      "canonical": "Development Economics",
       "weight": 0.4,
       "source": "bio",
       "verified": true
     },
     {
-      "term": "Salzburg Seminar",
-      "canonical": "Salzburg Seminar",
+      "term": "University Grants Commission of Bangladesh",
+      "canonical": "Apex Body for Higher Education",
       "weight": 0.3,
       "source": "bio",
       "verified": true
     },
     {
-      "term": "Ministry of Foreign Affairs",
-      "canonical": "Ministry of Foreign Affairs",
+      "term": "South Asian University",
+      "canonical": "Board of Governors",
       "weight": 0.2,
-      "source": "bio",
-      "verified": true
-    },
-    {
-      "term": "World Bank Fellowship",
-      "canonical": "World Bank Fellowship",
-      "weight": 0.1,
-      "source": "bio",
-      "verified": true
-    },
-    {
-      "term": "University Grants Commission of Bangladesh",
-      "canonical": "UGC",
-      "weight": 0.9,
-      "source": "bio",
-      "verified": true
-    },
-    {
-      "term": "Bangladesh University Grants Commission",
-      "canonical": "BUCG",
-      "weight": 0.8,
-      "source": "bio",
-      "verified": true
-    },
-    {
-      "term": "Association of Universities of Bangladesh",
-      "canonical": "AUB",
-      "weight": 0.7,
       "source": "bio",
       "verified": true
     }
@@ -476,5 +441,137 @@
     -0.04452914744615555
   ],
   "locked_fields": [],
-  "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\prof-abdul-mannan.jpg"
+  "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\prof-abdul-mannan.jpg",
+  "keyword_extractions": {
+    "legacy": {
+      "keywords": [
+        {
+          "term": "East West Center",
+          "canonical": "East-West Center",
+          "weight": 0.8,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "University of Hawaii",
+          "canonical": "University of Hawaii",
+          "weight": 0.7,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "Miami University",
+          "canonical": "Miami University",
+          "weight": 0.6,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "Ohio State University",
+          "canonical": "Ohio State University",
+          "weight": 0.5,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "London School of Economics",
+          "canonical": "London School of Economics",
+          "weight": 0.4,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "Salzburg Seminar",
+          "canonical": "Salzburg Seminar",
+          "weight": 0.3,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "Ministry of Foreign Affairs",
+          "canonical": "Ministry of Foreign Affairs",
+          "weight": 0.2,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "World Bank Fellowship",
+          "canonical": "World Bank Fellowship",
+          "weight": 0.1,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "University Grants Commission of Bangladesh",
+          "canonical": "UGC",
+          "weight": 0.9,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "Bangladesh University Grants Commission",
+          "canonical": "BUCG",
+          "weight": 0.8,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "Association of Universities of Bangladesh",
+          "canonical": "AUB",
+          "weight": 0.7,
+          "source": "bio",
+          "verified": true
+        }
+      ],
+      "extracted_at": null
+    },
+    "llama3:8b": {
+      "keywords": [
+        {
+          "term": "East West Center",
+          "canonical": "US Government Fellowship",
+          "weight": 0.8,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "University of Hawaii",
+          "canonical": "Graduate Studies",
+          "weight": 0.6,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "Ministry of Foreign Affairs",
+          "canonical": "Short Course on International Business",
+          "weight": 0.5,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "Salzburg Seminar",
+          "canonical": "Managing Developing Economy",
+          "weight": 0.4,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "University Grants Commission of Bangladesh",
+          "canonical": "Apex Body for Higher Education",
+          "weight": 0.3,
+          "source": "bio",
+          "verified": true
+        },
+        {
+          "term": "South Asian University",
+          "canonical": "Board of Governors",
+          "weight": 0.2,
+          "source": "bio",
+          "verified": true
+        }
+      ],
+      "extracted_at": "2026-07-14T04:01:19.854705+00:00"
+    }
+  },
+  "active_extraction_model": "llama3:8b"
 }
