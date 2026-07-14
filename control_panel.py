@@ -168,6 +168,9 @@ QSpinBox, QDoubleSpinBox {{
     border-radius: 5px; padding: 3px 6px;
 }}
 
+/* QScrollArea's viewport ignores the app palette by default (Fusion paints it dark) */
+QScrollArea {{ background: transparent; border: none; }}
+
 /* Status bar */
 QStatusBar {{ background: {SLATE_100}; color: {SLATE_600}; font-size: 12px; }}
 
@@ -429,9 +432,15 @@ class ControlPanel(QMainWindow):
     def _build_body(self):
         splitter = QSplitter(Qt.Orientation.Horizontal)
         splitter.setHandleWidth(5)
+        # QSplitter defaults to childrenCollapsible=True, which lets a drag squeeze a pane
+        # narrower than its own content's minimum size hint — overriding every button's
+        # individual size policy and squishing text. False makes the handle stop at each
+        # pane's real minimum instead.
+        splitter.setChildrenCollapsible(False)
 
         # Left: tools + log
         left = QWidget()
+        left.setMinimumWidth(560)
         lv = QVBoxLayout(left)
         lv.setContentsMargins(12, 12, 6, 12)
         lv.setSpacing(8)
@@ -464,6 +473,10 @@ class ControlPanel(QMainWindow):
 
     # ── Pipeline tab ──────────────────────────────────────────────────────────
     def _build_pipeline_tab(self):
+        # This tab has accumulated a lot of stacked group boxes (Full Pipeline, Targeted
+        # Scrape, Canonicalize, Graph Builder, LLM Versions). Without a scroll area, once
+        # they don't fit the window height, Qt compresses every widget's height to force
+        # a fit instead of scrolling — which is what "squished" text actually was.
         tab = QWidget()
         v = QVBoxLayout(tab)
         v.setContentsMargins(10, 10, 10, 10)
@@ -631,7 +644,18 @@ class ControlPanel(QMainWindow):
         v.addWidget(grp4)
 
         v.addStretch()
-        return tab
+
+        scroll = QScrollArea()
+        scroll.setWidgetResizable(True)
+        scroll.setFrameShape(QFrame.Shape.NoFrame)
+        # QScrollArea's viewport doesn't inherit the app stylesheet's light background by
+        # default (Fusion paints it dark) — transparent lets QMainWindow's own background
+        # show through instead of a mismatched dark panel behind the group boxes.
+        scroll.setStyleSheet("QScrollArea { background: transparent; border: none; }")
+        scroll.viewport().setStyleSheet("background: transparent;")
+        tab.setStyleSheet("background: transparent;")
+        scroll.setWidget(tab)
+        return scroll
 
     def _selected_keyword_sources(self):
         sources = []
@@ -787,6 +811,7 @@ class ControlPanel(QMainWindow):
 
         # Splitter for Tree (Left) and Details (Right)
         browser_splitter = QSplitter(Qt.Orientation.Horizontal)
+        browser_splitter.setChildrenCollapsible(False)
 
         # Tree widget — column layout
         self.faculty_tree = QTreeWidget()

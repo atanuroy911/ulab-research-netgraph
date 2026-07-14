@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { Network, Users, Search } from 'lucide-react';
+import { Network, Users, Search, Info } from 'lucide-react';
 
 export default function Navbar() {
   return (
@@ -30,6 +30,10 @@ export default function Navbar() {
             <Link href="/match" className="flex items-center gap-1.5 px-3 py-2 rounded-md text-sm font-medium hover:bg-white/10 transition-colors">
               <Search size={18} />
               <span className="hidden sm:inline">Find Match</span>
+            </Link>
+            <Link href="/info" className="flex items-center gap-1.5 px-3 py-2 rounded-md text-sm font-medium hover:bg-white/10 transition-colors">
+              <Info size={18} />
+              <span className="hidden sm:inline">How It Works</span>
             </Link>
           </nav>
         </div>
