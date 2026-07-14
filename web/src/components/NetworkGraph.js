@@ -19,14 +19,26 @@ export default function NetworkGraph({ data }) {
 
   const nodeById = useMemo(() => new Map(data.nodes.map((n) => [n.id, n])), [data.nodes]);
   const departments = useMemo(() => [...new Set(data.nodes.map((n) => n.department).filter(Boolean))].sort(), [data.nodes]);
-  const keywords = useMemo(() => [...new Set(data.nodes.flatMap((n) => n.keywords || []).filter(Boolean))].sort(), [data.nodes]);
+
+  // "Machine Learning" and "machine learning" are the same keyword — dedupe the filter
+  // dropdown case-insensitively (keeping one display casing) instead of listing both.
+  const keywords = useMemo(() => {
+    const byNormalized = new Map();
+    data.nodes.forEach((n) => (n.keywords || []).forEach((kw) => {
+      if (!kw) return;
+      const norm = kw.trim().toLowerCase();
+      if (!byNormalized.has(norm)) byNormalized.set(norm, kw);
+    }));
+    return [...byNormalized.values()].sort((a, b) => a.localeCompare(b));
+  }, [data.nodes]);
 
   const activeNodeIds = useMemo(() => {
     if (!departmentFilter && !keywordFilter) return null; // null = no filter, everything active
+    const keywordFilterNorm = keywordFilter.trim().toLowerCase();
     const ids = new Set();
     data.nodes.forEach((n) => {
       const matchesDept = !departmentFilter || n.department === departmentFilter;
-      const matchesKeyword = !keywordFilter || (n.keywords || []).includes(keywordFilter);
+      const matchesKeyword = !keywordFilter || (n.keywords || []).some((kw) => kw.trim().toLowerCase() === keywordFilterNorm);
       if (matchesDept && matchesKeyword) ids.add(n.id);
     });
     return ids;

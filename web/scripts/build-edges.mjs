@@ -11,6 +11,12 @@ function getCanonical(k) {
   return String(k);
 }
 
+// "machine learning" and "Machine Learning" are the same keyword — match case-insensitively,
+// but keep one consistent casing (whichever side has it) for display in shared_keywords.
+function normKey(s) {
+  return String(s).trim().toLowerCase();
+}
+
 function cosineSimilarity(a, b) {
   let dot = 0, normA = 0, normB = 0;
   for (let i = 0; i < a.length; i++) {
@@ -36,9 +42,11 @@ function main() {
   const pair = (i, j) => {
     const fac1 = faculty[i];
     const fac2 = faculty[j];
-    const kws1 = new Set(filterKeywords(fac1.extracted_keywords, sourceFilter).map(getCanonical));
-    const kws2 = new Set(filterKeywords(fac2.extracted_keywords, sourceFilter).map(getCanonical));
-    const shared = [...kws1].filter((k) => kws2.has(k));
+    const canon1 = filterKeywords(fac1.extracted_keywords, sourceFilter).map(getCanonical);
+    const canon2 = filterKeywords(fac2.extracted_keywords, sourceFilter).map(getCanonical);
+    const kws1 = new Map(canon1.map((k) => [normKey(k), k])); // normalized key -> display casing
+    const kws2 = new Set(canon2.map(normKey));
+    const shared = [...kws1.entries()].filter(([norm]) => kws2.has(norm)).map(([, display]) => display);
     const sim = cosineSimilarity(fac1.embedding || [], fac2.embedding || []);
     const weight = sim * 0.7 + Math.min(shared.length / 5, 1.0) * 0.3;
     return { shared, weight };

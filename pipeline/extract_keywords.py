@@ -20,8 +20,11 @@ def extract_keywords_from_text(text, count=None):
     (fewer only if the profile genuinely does not support that many distinct phrases).
     Return ONLY a JSON array, like this:
     [
-      {{"term": "original phrase", "canonical": "Short Canonical Form", "weight": 0.9, "source": "bio+pubs", "verified": false}}
+      {{"term": "cognitive radio networks", "canonical": "Wireless Networks", "weight": 0.9, "source": "bio+pubs", "verified": false}}
     ]
+    "canonical" must be a short, real label for this specific phrase (2-4 words), never
+    a placeholder or the literal example above — every keyword needs its own distinct
+    canonical value.
     Weight should be 0.1 to 1.0 based on prominence. Return ONLY the JSON. No other text.
     
     Profile Text:
@@ -96,6 +99,10 @@ def _split_comma_list(text):
         return parts
     return None
 
+# Any exact canonical the prompt itself has ever used as a placeholder/example — models
+# sometimes echo the example verbatim instead of substituting a real value for it.
+KNOWN_PLACEHOLDER_CANONICALS = {"short canonical form"}
+
 def sanitize_keywords(keywords):
     """
     Guards against weaker models (e.g. gemma) not following the "short canonical form"
@@ -119,6 +126,9 @@ def sanitize_keywords(keywords):
         source = kw.get('source', '')
         verified = bool(kw.get('verified', False))
 
+        if canonical.strip().lower() in KNOWN_PLACEHOLDER_CANONICALS:
+            canonical = term or canonical
+
         # Always check for a comma-joined list first, regardless of total word count
         # (e.g. "Deep Learning, Computer Vision, IoT, Robotics" is only 6 words but is
         # clearly 4 separate keywords, not one).
@@ -136,6 +146,20 @@ def sanitize_keywords(keywords):
             canonical = ' '.join(canonical.split()[:MAX_CANONICAL_WORDS]) + '...'
 
         clean.append({'term': term or canonical, 'canonical': canonical, 'weight': weight, 'source': source, 'verified': verified})
+
+    # Example-agnostic defense: whichever literal string the prompt happens to use, a
+    # model that fails to individuate keywords collapses most/all of them onto one
+    # identical canonical. That's the actual signature of this bug class (we've now hit
+    # it twice with two different literal strings) — not any specific blocked word.
+    if len(clean) >= 3:
+        from collections import Counter
+        counts = Counter(k['canonical'] for k in clean)
+        most_common_value, most_common_count = counts.most_common(1)[0]
+        if most_common_count / len(clean) >= 0.5:
+            for k in clean:
+                if k['canonical'] == most_common_value and k['term'] and k['term'] != most_common_value:
+                    k['canonical'] = k['term']
+
     return clean
 
 def main(target_slug=None, force=False, count=None):
