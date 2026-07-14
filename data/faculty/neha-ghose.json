@@ -21,56 +21,56 @@
   "extracted_keywords": [
     {
       "term": "Cultural Studies",
-      "canonical": "",
+      "canonical": "Cultural Studies",
       "weight": 0.7,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Intersectionality",
-      "canonical": "",
+      "canonical": "Intersectionality",
       "weight": 0.6,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Literary and Media Representation",
-      "canonical": "",
+      "canonical": "Literary and Media Representation",
       "weight": 0.8,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "Popular Culture",
-      "canonical": "",
+      "canonical": "Popular Culture",
       "weight": 0.5,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "Audience Studies",
-      "canonical": "",
+      "canonical": "Audience Studies",
       "weight": 0.4,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "Center for Critical and Qualitative Studies",
-      "canonical": "",
+      "canonical": "Center for Critical and Qualitative Studies",
       "weight": 0.3,
       "source": "bio",
       "verified": false
     },
     {
       "term": "University of Sussex",
-      "canonical": "",
+      "canonical": "University of Sussex",
       "weight": 0.2,
       "source": "bio",
       "verified": false
     },
     {
       "term": "University of Liberal Arts Bangladesh",
-      "canonical": "",
+      "canonical": "University of Liberal Arts Bangladesh",
       "weight": 0.1,
       "source": "bio",
       "verified": false
@@ -396,7 +396,7 @@
     -0.006658327300101519,
     0.006572170648723841,
     0.0328960157930851,
-    -4.806297226878087e-8,
+    -4.806297226878087e-08,
     -0.04126674681901932,
     -0.09652724117040634,
     0.006774040404707193,

@@ -21,70 +21,70 @@
   "extracted_keywords": [
     {
       "term": "energy policy",
-      "canonical": "",
+      "canonical": "energy policy",
       "weight": 0.9,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "journal of cleaner production",
-      "canonical": "",
+      "canonical": "journal of cleaner production",
       "weight": 0.8,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "energy",
-      "canonical": "",
+      "canonical": "energy",
       "weight": 0.7,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "applied econometrics",
-      "canonical": "",
+      "canonical": "applied econometrics",
       "weight": 0.6,
       "source": "bio",
       "verified": false
     },
     {
       "term": "energy economics",
-      "canonical": "",
+      "canonical": "energy economics",
       "weight": 0.5,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "environmental management",
-      "canonical": "",
+      "canonical": "environmental management",
       "weight": 0.4,
       "source": "bio",
       "verified": false
     },
     {
       "term": "innovation management",
-      "canonical": "",
+      "canonical": "innovation management",
       "weight": 0.3,
       "source": "bio",
       "verified": false
     },
     {
       "term": "sustainability",
-      "canonical": "",
+      "canonical": "sustainability",
       "weight": 0.2,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "green growth",
-      "canonical": "",
+      "canonical": "green growth",
       "weight": 0.1,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "triangulating evidence",
-      "canonical": "",
+      "canonical": "triangulating evidence",
       "weight": 0.9,
       "source": "pubs",
       "verified": false
@@ -410,7 +410,7 @@
     -0.05951688066124916,
     0.0816330835223198,
     0.0008487390587106347,
-    -4.827829869213929e-8,
+    -4.827829869213929e-08,
     0.0321718230843544,
     -0.009879819117486477,
     0.08532819896936417,

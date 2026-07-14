@@ -309,19 +309,27 @@ export default function NetworkGraph({ data }) {
                       <div className="grid grid-cols-2 gap-2">
                         <div>
                           <p className="text-[10px] uppercase tracking-wide text-slate-400 mb-1">{selectedNode.name.split(' ')[0]}&apos;s focus</p>
-                          <div className="flex flex-wrap gap-1">
-                            {(selectedNode.keywords || []).slice(0, 3).map((kw, i) => (
-                              <span key={i} className="inline-flex items-center px-1.5 py-0.5 rounded text-[11px] font-medium bg-slate-100 text-slate-700">{kw}</span>
-                            ))}
-                          </div>
+                          {(selectedNode.keywords || []).length > 0 ? (
+                            <div className="flex flex-wrap gap-1">
+                              {selectedNode.keywords.slice(0, 3).map((kw, i) => (
+                                <span key={i} className="inline-flex items-center px-1.5 py-0.5 rounded text-[11px] font-medium bg-slate-100 text-slate-700">{kw}</span>
+                              ))}
+                            </div>
+                          ) : (
+                            <p className="text-[11px] text-slate-400 italic">No keywords extracted yet</p>
+                          )}
                         </div>
                         <div>
                           <p className="text-[10px] uppercase tracking-wide text-slate-400 mb-1">{node.name.split(' ')[0]}&apos;s focus</p>
-                          <div className="flex flex-wrap gap-1">
-                            {(node.keywords || []).slice(0, 3).map((kw, i) => (
-                              <span key={i} className="inline-flex items-center px-1.5 py-0.5 rounded text-[11px] font-medium bg-slate-100 text-slate-700">{kw}</span>
-                            ))}
-                          </div>
+                          {(node.keywords || []).length > 0 ? (
+                            <div className="flex flex-wrap gap-1">
+                              {node.keywords.slice(0, 3).map((kw, i) => (
+                                <span key={i} className="inline-flex items-center px-1.5 py-0.5 rounded text-[11px] font-medium bg-slate-100 text-slate-700">{kw}</span>
+                              ))}
+                            </div>
+                          ) : (
+                            <p className="text-[11px] text-slate-400 italic">No keywords extracted yet</p>
+                          )}
                         </div>
                       </div>
                     </div>

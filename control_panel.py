@@ -149,6 +149,25 @@ QLineEdit {{
 }}
 QLineEdit:focus {{ border-color: {SKY}; }}
 
+/* Combo boxes (app-wide — the #header-scoped rule above doesn't reach combos placed
+   in the tabs, e.g. the LLM extraction model picker, so those fell back to the OS/Fusion
+   default rendering, which reads as a dark/mismatched dropdown on dark-themed systems). */
+QComboBox {{
+    background: white; color: {SLATE_900}; border: 1px solid {SLATE_200};
+    border-radius: 5px; padding: 4px 8px; min-height: 20px;
+}}
+QComboBox:hover {{ border-color: {SKY}; }}
+QComboBox::drop-down {{ border: none; width: 20px; }}
+QComboBox QAbstractItemView {{
+    background: white; color: {SLATE_900};
+    selection-background-color: #dbeafe; selection-color: {ULAB_BLUE};
+    border: 1px solid {SLATE_200}; outline: none;
+}}
+QSpinBox {{
+    background: white; color: {SLATE_900}; border: 1px solid {SLATE_200};
+    border-radius: 5px; padding: 3px 6px;
+}}
+
 /* Status bar */
 QStatusBar {{ background: {SLATE_100}; color: {SLATE_600}; font-size: 12px; }}
 
@@ -305,7 +324,12 @@ class ControlPanel(QMainWindow):
         super().__init__()
         self.setWindowTitle("ULAB Research Network — Control Panel")
         self.resize(1440, 880)
-        self.setMinimumSize(1000, 650)
+        # 1000px wasn't actually enough for the header's content (logo + title + Ollama
+        # URL field + model combo + 3 buttons + status label, ~1200px at natural size),
+        # so shrinking toward the old minimum forced Qt to compress buttons below their
+        # readable text width instead of wrapping/eliding. 1200 keeps the header's own
+        # sizeHint above the floor so that never happens.
+        self.setMinimumSize(1200, 650)
         self.setStyleSheet(STYLESHEET)
 
         self._pipeline_worker = None
@@ -324,6 +348,12 @@ class ControlPanel(QMainWindow):
         self._status = QStatusBar()
         self.setStatusBar(self._status)
         self._status.showMessage("Ready")
+
+        # Buttons don't wrap or ellipsize their text — if a layout compresses one below
+        # its natural width the label just overlaps/clips ("squished"). Pin every button
+        # to its sizeHint horizontally so the layout has to make room elsewhere instead.
+        for btn in self.findChildren(QPushButton):
+            btn.setSizePolicy(QSizePolicy.Policy.Minimum, QSizePolicy.Policy.Fixed)
 
         # Auto-fetch models on startup
         QTimer.singleShot(500, self._refresh_models)
@@ -1079,7 +1109,11 @@ class ControlPanel(QMainWindow):
                 kws = fac.get("extracted_keywords", [])
                 top_kw = []
                 for kw in kws[:4]:
-                    top_kw.append(kw.get("canonical", str(kw)) if isinstance(kw, dict) else str(kw))
+                    if isinstance(kw, dict):
+                        # `or`, not `.get(key, fallback)` — canonical can be present but explicitly ''.
+                        top_kw.append(kw.get("canonical") or kw.get("term") or str(kw))
+                    else:
+                        top_kw.append(str(kw))
                 child.setText(2, "  ·  ".join(top_kw) if top_kw else "—")
 
                 child.setText(3, "✓" if has_bio else "✗")

@@ -19,70 +19,70 @@
   "extracted_keywords": [
     {
       "term": "mass communication",
-      "canonical": "",
+      "canonical": "mass communication",
       "weight": 0.5,
       "source": "bio",
       "verified": false
     },
     {
       "term": "media studies",
-      "canonical": "",
+      "canonical": "media studies",
       "weight": 0.4,
       "source": "bio",
       "verified": false
     },
     {
       "term": "journalism department",
-      "canonical": "",
+      "canonical": "journalism department",
       "weight": 0.3,
       "source": "bio",
       "verified": false
     },
     {
       "term": "press institute bangladesh",
-      "canonical": "",
+      "canonical": "press institute bangladesh",
       "weight": 0.2,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "media framing",
-      "canonical": "",
+      "canonical": "media framing",
       "weight": 0.1,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "information disorder",
-      "canonical": "",
+      "canonical": "information disorder",
       "weight": 0.1,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "qualitative research",
-      "canonical": "",
+      "canonical": "qualitative research",
       "weight": 0.2,
       "source": "bio",
       "verified": false
     },
     {
       "term": "mixed-method research",
-      "canonical": "",
+      "canonical": "mixed-method research",
       "weight": 0.1,
       "source": "bio",
       "verified": false
     },
     {
       "term": "digital communication",
-      "canonical": "",
+      "canonical": "digital communication",
       "weight": 0.3,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "digital journalism",
-      "canonical": "",
+      "canonical": "digital journalism",
       "weight": 0.2,
       "source": "bio+pubs",
       "verified": false
@@ -281,7 +281,7 @@
     -0.0024470591451972723,
     -0.026658346876502037,
     0.09180927276611328,
-    0.000028272270355955698,
+    2.8272270355955698e-05,
     -0.0003551278496161103,
     -0.015176218003034592,
     -0.01624046266078949,
@@ -408,7 +408,7 @@
     0.053595706820487976,
     -0.01033606193959713,
     0.08159233629703522,
-    -4.524200036826187e-8,
+    -4.524200036826187e-08,
     -0.0448634997010231,
     -0.13082730770111084,
     -0.09896304458379745,
@@ -456,7 +456,7 @@
     -0.018052317202091217,
     -0.008262109011411667,
     -0.024730626493692398,
-    -0.000012965673704457004,
+    -1.2965673704457004e-05,
     -0.025488751009106636,
     -0.05558058246970177,
     -0.010062548331916332,

@@ -19,56 +19,56 @@
   "extracted_keywords": [
     {
       "term": "Wealth Inequality",
-      "canonical": "",
+      "canonical": "Wealth Inequality",
       "weight": 0.8,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "Responsible Investment",
-      "canonical": "",
+      "canonical": "Responsible Investment",
       "weight": 0.7,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "Alternative Asset Classes",
-      "canonical": "",
+      "canonical": "Alternative Asset Classes",
       "weight": 0.6,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "Dark Trading",
-      "canonical": "",
+      "canonical": "Dark Trading",
       "weight": 0.5,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "Merger & Acquisition",
-      "canonical": "",
+      "canonical": "Merger & Acquisition",
       "weight": 0.4,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "Teaching Experience",
-      "canonical": "",
+      "canonical": "Teaching Experience",
       "weight": 0.3,
       "source": "bio",
       "verified": false
     },
     {
       "term": "Academic Administrative Positions",
-      "canonical": "",
+      "canonical": "Academic Administrative Positions",
       "weight": 0.2,
       "source": "bio",
       "verified": false
     },
     {
       "term": "Standard Chartered Bank",
-      "canonical": "",
+      "canonical": "Standard Chartered Bank",
       "weight": 0.1,
       "source": "bio",
       "verified": false
@@ -255,7 +255,7 @@
     0.043017495423555374,
     -0.08242877572774887,
     -0.0851520225405693,
-    0.000016005802535801195,
+    1.6005802535801195e-05,
     -0.0024619819596409798,
     0.047134146094322205,
     -0.06914182007312775,
@@ -371,7 +371,7 @@
     -0.07931751012802124,
     -0.028774306178092957,
     -0.05623884126543999,
-    -0.000049034671974368393,
+    -4.9034671974368393e-05,
     -0.03429802507162094,
     -0.07762216031551361,
     0.09935510158538818,
@@ -394,7 +394,7 @@
     0.039003271609544754,
     -0.01691497303545475,
     0.03553950786590576,
-    -4.5796298309142e-8,
+    -4.5796298309142e-08,
     -0.05758814141154289,
     -0.07184901833534241,
     -0.026249775663018227,

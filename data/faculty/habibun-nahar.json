@@ -21,70 +21,70 @@
   "extracted_keywords": [
     {
       "term": "Environmental Sustainability",
-      "canonical": "",
+      "canonical": "Environmental Sustainability",
       "weight": 0.6,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "Business Analytics",
-      "canonical": "",
+      "canonical": "Business Analytics",
       "weight": 0.5,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "Data Driven Behavior",
-      "canonical": "",
+      "canonical": "Data Driven Behavior",
       "weight": 0.7,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "Career Development",
-      "canonical": "",
+      "canonical": "Career Development",
       "weight": 0.4,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "Artificial Intelligence",
-      "canonical": "",
+      "canonical": "Artificial Intelligence",
       "weight": 0.5,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "Psychological Behavior",
-      "canonical": "",
+      "canonical": "Psychological Behavior",
       "weight": 0.6,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "Mental Health of Students",
-      "canonical": "",
+      "canonical": "Mental Health of Students",
       "weight": 0.8,
       "source": "pubs",
       "verified": true
     },
     {
       "term": "Covid-19 pandemic",
-      "canonical": "",
+      "canonical": "Covid-19 pandemic",
       "weight": 0.7,
       "source": "pubs",
       "verified": true
     },
     {
       "term": "Employment Anxiety",
-      "canonical": "",
+      "canonical": "Employment Anxiety",
       "weight": 0.6,
       "source": "pubs",
       "verified": true
     },
     {
       "term": "Quality of Life",
-      "canonical": "",
+      "canonical": "Quality of Life",
       "weight": 0.5,
       "source": "pubs",
       "verified": true
@@ -410,7 +410,7 @@
     -0.06289708614349365,
     0.03942473605275154,
     -0.0810404047369957,
-    -5.4324498677260635e-8,
+    -5.4324498677260635e-08,
     -0.03311500698328018,
     -0.09250938147306442,
     -0.05853675305843353,

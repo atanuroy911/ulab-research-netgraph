@@ -67,7 +67,10 @@ def run_scrapes(skip_scrape=False, force=False):
                 # Coerce weight to float — LLMs sometimes return "0.9" (string) instead of 0.9 (number).
                 # Python 3 cannot compare float < str, so sort crashes without this guard.
                 keywords = sorted(valid_kws, key=lambda k: float(k.get('weight', 0) or 0), reverse=True)
-                top_keywords = [k.get('canonical', str(k.get('term', ''))) for k in keywords[:3]] if keywords else []
+                # `.get('canonical', fallback)` only falls back when the key is absent — several
+                # faculty have canonical explicitly stored as '' (empty string), which is falsy but
+                # present, so that pattern silently returned '' instead of falling back to term.
+                top_keywords = [(k.get('canonical') or k.get('term', '')) for k in keywords[:3]] if keywords else []
                 
                 index_data.append({
                     "id": fac.get("id"),

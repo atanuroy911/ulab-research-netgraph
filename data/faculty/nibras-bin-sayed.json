@@ -23,70 +23,70 @@
   "extracted_keywords": [
     {
       "term": "Audiovisual Productions",
-      "canonical": "",
+      "canonical": "Audiovisual Productions",
       "weight": 0.8,
       "source": "bio",
       "verified": true
     },
     {
       "term": "Media Communications",
-      "canonical": "",
+      "canonical": "Media Communications",
       "weight": 0.7,
       "source": "bio",
       "verified": true
     },
     {
       "term": "Visual Anthropology",
-      "canonical": "",
+      "canonical": "Visual Anthropology",
       "weight": 0.9,
       "source": "interests",
       "verified": true
     },
     {
       "term": "Visual Arts",
-      "canonical": "",
+      "canonical": "Visual Arts",
       "weight": 0.8,
       "source": "interests",
       "verified": true
     },
     {
       "term": "Academia and Arts",
-      "canonical": "",
+      "canonical": "Academia and Arts",
       "weight": 0.6,
       "source": "bio",
       "verified": true
     },
     {
       "term": "Film",
-      "canonical": "",
+      "canonical": "Film",
       "weight": 0.9,
       "source": "interests",
       "verified": true
     },
     {
       "term": "Public Relations",
-      "canonical": "",
+      "canonical": "Public Relations",
       "weight": 0.5,
       "source": "bio",
       "verified": true
     },
     {
       "term": "Digital Film and TV Production",
-      "canonical": "",
+      "canonical": "Digital Film and TV Production",
       "weight": 0.7,
       "source": "bio",
       "verified": true
     },
     {
       "term": "Ethical Transnational Media Collaborations",
-      "canonical": "",
+      "canonical": "Ethical Transnational Media Collaborations",
       "weight": 0.4,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Rememory and Sankofa",
-      "canonical": "",
+      "canonical": "Rememory and Sankofa",
       "weight": 0.3,
       "source": "pubs",
       "verified": false
@@ -100,7 +100,7 @@
     },
     {
       "term": "International Journal of Innovation and Sustainable Development",
-      "canonical": "",
+      "canonical": "International Journal of Innovation and Sustainable Development",
       "weight": 0.6,
       "source": "pubs",
       "verified": true
@@ -291,7 +291,7 @@
     -0.07564951479434967,
     0.057119566947221756,
     0.002517549553886056,
-    0.00005923095886828378,
+    5.923095886828378e-05,
     -0.038828182965517044,
     0.06469401717185974,
     -0.16703833639621735,
@@ -426,7 +426,7 @@
     -0.015482432208955288,
     0.04183552414178848,
     -0.024703584611415863,
-    -5.367297362113277e-8,
+    -5.367297362113277e-08,
     -0.050898052752017975,
     -0.12104375660419464,
     -0.00804880354553461,

@@ -20,7 +20,8 @@ def cosine_similarity(a, b):
 
 def get_canonical(k):
     if isinstance(k, dict):
-        return k.get('canonical', k.get('term', k.get('keyword', str(k))))
+        # `or`, not `.get(key, fallback)` — canonical can be present but explicitly ''.
+        return k.get('canonical') or k.get('term') or k.get('keyword') or str(k)
     return str(k)
 
 def build_edges():

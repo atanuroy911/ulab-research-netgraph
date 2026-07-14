@@ -22,70 +22,70 @@
   "extracted_keywords": [
     {
       "term": "Behavioral Targeting",
-      "canonical": "",
+      "canonical": "Behavioral Targeting",
       "weight": 0.8,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "Customer Satisfaction",
-      "canonical": "",
+      "canonical": "Customer Satisfaction",
       "weight": 0.7,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "Archeological marketing",
-      "canonical": "",
+      "canonical": "Archeological marketing",
       "weight": 0.6,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "E-marketing",
-      "canonical": "",
+      "canonical": "E-marketing",
       "weight": 0.5,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "Customer-Based Brand Equity",
-      "canonical": "",
+      "canonical": "Customer-Based Brand Equity",
       "weight": 0.4,
       "source": "pub",
       "verified": false
     },
     {
       "term": "Country of Origin Effect",
-      "canonical": "",
+      "canonical": "Country of Origin Effect",
       "weight": 0.3,
       "source": "pub",
       "verified": false
     },
     {
       "term": "Market Offering",
-      "canonical": "",
+      "canonical": "Market Offering",
       "weight": 0.2,
       "source": "pub",
       "verified": false
     },
     {
       "term": "Cost & Management (Journal of the Institute of Cost and Management Accountants of Bangladesh)",
-      "canonical": "",
+      "canonical": "Cost & Management (Journal of the Institute of Cost and Management Accountants of Bangladesh)",
       "weight": 0.1,
       "source": "pub",
       "verified": false
     },
     {
       "term": "Institute of Cost and Management Accountants of Bangladesh",
-      "canonical": "",
+      "canonical": "Institute of Cost and Management Accountants of Bangladesh",
       "weight": 0.1,
       "source": "pub",
       "verified": false
     },
     {
       "term": "Asia Pacific Business Review",
-      "canonical": "",
+      "canonical": "Asia Pacific Business Review",
       "weight": 0.1,
       "source": "pub",
       "verified": false
@@ -411,7 +411,7 @@
     -0.01640903949737549,
     -0.0022247042506933212,
     0.05719804763793945,
-    -4.8438096200698055e-8,
+    -4.8438096200698055e-08,
     -0.07930460572242737,
     -0.16504208743572235,
     0.019981585443019867,

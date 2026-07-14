@@ -25,77 +25,77 @@
   "extracted_keywords": [
     {
       "term": "Innovation Sciences",
-      "canonical": "",
+      "canonical": "Innovation Sciences",
       "weight": 0.8,
       "source": "bio",
       "verified": true
     },
     {
       "term": "work-integrated learning–oriented teaching practice",
-      "canonical": "",
+      "canonical": "work-integrated learning–oriented teaching practice",
       "weight": 0.7,
       "source": "bio",
       "verified": true
     },
     {
       "term": "International Business",
-      "canonical": "",
+      "canonical": "International Business",
       "weight": 0.6,
       "source": "pubs",
       "verified": true
     },
     {
       "term": "Innovation Management",
-      "canonical": "",
+      "canonical": "Innovation Management",
       "weight": 0.6,
       "source": "pubs",
       "verified": true
     },
     {
       "term": "Entrepreneurship",
-      "canonical": "",
+      "canonical": "Entrepreneurship",
       "weight": 0.5,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Marketing",
-      "canonical": "",
+      "canonical": "Marketing",
       "weight": 0.5,
       "source": "pubs",
       "verified": true
     },
     {
       "term": "Leadership",
-      "canonical": "",
+      "canonical": "Leadership",
       "weight": 0.5,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Sustainability",
-      "canonical": "",
+      "canonical": "Sustainability",
       "weight": 0.4,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Circular Economy",
-      "canonical": "",
+      "canonical": "Circular Economy",
       "weight": 0.4,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "testbeds for Startups",
-      "canonical": "",
+      "canonical": "testbeds for Startups",
       "weight": 0.3,
       "source": "bio",
       "verified": true
     },
     {
       "term": "Circular agricultural platform",
-      "canonical": "",
+      "canonical": "Circular agricultural platform",
       "weight": 0.2,
       "source": "newspapers",
       "verified": true
@@ -225,7 +225,7 @@
     0.07047417759895325,
     0.050361938774585724,
     0.0279717817902565,
-    -0.0000261357708950527,
+    -2.61357708950527e-05,
     0.023760167881846428,
     -0.03740429878234863,
     -0.010488028638064861,
@@ -421,7 +421,7 @@
     -0.010317658074200153,
     0.0648219957947731,
     0.024412373080849648,
-    -5.762431243283572e-8,
+    -5.762431243283572e-08,
     -0.01860566809773445,
     -0.009595795534551144,
     0.0006328180315904319,

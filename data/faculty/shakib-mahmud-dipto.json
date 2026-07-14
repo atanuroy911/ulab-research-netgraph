@@ -23,112 +23,112 @@
   "extracted_keywords": [
     {
       "term": "Computer Vision",
-      "canonical": "",
+      "canonical": "Computer Vision",
       "weight": 0.8,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Artificial Intelligence",
-      "canonical": "",
+      "canonical": "Artificial Intelligence",
       "weight": 0.7,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Medical Image Processing",
-      "canonical": "",
+      "canonical": "Medical Image Processing",
       "weight": 0.8,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Explainable AI",
-      "canonical": "",
+      "canonical": "Explainable AI",
       "weight": 0.6,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Machine Learning",
-      "canonical": "",
+      "canonical": "Machine Learning",
       "weight": 0.7,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Deep Learning",
-      "canonical": "",
+      "canonical": "Deep Learning",
       "weight": 0.8,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Outlier Detection",
-      "canonical": "",
+      "canonical": "Outlier Detection",
       "weight": 0.5,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Malaria Cell Image Classification",
-      "canonical": "",
+      "canonical": "Malaria Cell Image Classification",
       "weight": 0.4,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Domain Affiliated Distilled Knowledge Transfer",
-      "canonical": "",
+      "canonical": "Domain Affiliated Distilled Knowledge Transfer",
       "weight": 0.3,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Federated Environment",
-      "canonical": "",
+      "canonical": "Federated Environment",
       "weight": 0.2,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Variants of Vision Transformer",
-      "canonical": "",
+      "canonical": "Variants of Vision Transformer",
       "weight": 0.3,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Binarized DenseNet",
-      "canonical": "",
+      "canonical": "Binarized DenseNet",
       "weight": 0.2,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Ensemble Neural Network",
-      "canonical": "",
+      "canonical": "Ensemble Neural Network",
       "weight": 0.4,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Rumor Classification from Tweet",
-      "canonical": "",
+      "canonical": "Rumor Classification from Tweet",
       "weight": 0.3,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Neurodegenerative Diseases using Retinal Images",
-      "canonical": "",
+      "canonical": "Neurodegenerative Diseases using Retinal Images",
       "weight": 0.2,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Explainable AI Driven Decipherable Pneumonia Classification System",
-      "canonical": "",
+      "canonical": "Explainable AI Driven Decipherable Pneumonia Classification System",
       "weight": 0.4,
       "source": "pubs",
       "verified": false
@@ -454,7 +454,7 @@
     -0.011707461439073086,
     0.023654907941818237,
     -0.021760521456599236,
-    -5.07860526965942e-8,
+    -5.07860526965942e-08,
     -0.026143401861190796,
     -0.03799695521593094,
     0.01512277964502573,

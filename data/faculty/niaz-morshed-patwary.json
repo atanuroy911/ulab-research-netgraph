@@ -19,70 +19,70 @@
   "extracted_keywords": [
     {
       "term": "Entrepreneurship",
-      "canonical": "",
+      "canonical": "Entrepreneurship",
       "weight": 0.8,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Strategy courses",
-      "canonical": "",
+      "canonical": "Strategy courses",
       "weight": 0.7,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Microtech Interactive",
-      "canonical": "",
+      "canonical": "Microtech Interactive",
       "weight": 0.6,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Education technology project",
-      "canonical": "",
+      "canonical": "Education technology project",
       "weight": 0.5,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Social Entrepreneurship",
-      "canonical": "",
+      "canonical": "Social Entrepreneurship",
       "weight": 0.4,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Social Business",
-      "canonical": "",
+      "canonical": "Social Business",
       "weight": 0.3,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "HEQEP grant",
-      "canonical": "",
+      "canonical": "HEQEP grant",
       "weight": 0.2,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Commonwealth Fellowship",
-      "canonical": "",
+      "canonical": "Commonwealth Fellowship",
       "weight": 0.1,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Kiva Fellow",
-      "canonical": "",
+      "canonical": "Kiva Fellow",
       "weight": 0.1,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Australian Award Endeavour Fellow",
-      "canonical": "",
+      "canonical": "Australian Award Endeavour Fellow",
       "weight": 0.1,
       "source": "bio+pubs",
       "verified": false
@@ -408,7 +408,7 @@
     -0.005438198335468769,
     0.01960746757686138,
     -0.009050875902175903,
-    -6.463908874820845e-8,
+    -6.463908874820845e-08,
     -0.01625928096473217,
     -0.07995350658893585,
     -0.032230135053396225,

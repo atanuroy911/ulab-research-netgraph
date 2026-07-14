@@ -22,70 +22,70 @@
   "extracted_keywords": [
     {
       "term": "Late Antique",
-      "canonical": "",
+      "canonical": "Late Antique",
       "weight": 0.7,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Early Christian",
-      "canonical": "",
+      "canonical": "Early Christian",
       "weight": 0.6,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Early Medieval Art",
-      "canonical": "",
+      "canonical": "Early Medieval Art",
       "weight": 0.5,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Social History",
-      "canonical": "",
+      "canonical": "Social History",
       "weight": 0.4,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Western Europe and the Byzantine and Islamic worlds",
-      "canonical": "",
+      "canonical": "Western Europe and the Byzantine and Islamic worlds",
       "weight": 0.3,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Women in Bangladesh Liberation War",
-      "canonical": "",
+      "canonical": "Women in Bangladesh Liberation War",
       "weight": 0.5,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Rediscovered in Madonna",
-      "canonical": "",
+      "canonical": "Rediscovered in Madonna",
       "weight": 0.4,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Bangladesh National Museum",
-      "canonical": "",
+      "canonical": "Bangladesh National Museum",
       "weight": 0.3,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Martyr's mother in Amar Ekushey",
-      "canonical": "",
+      "canonical": "Martyr's mother in Amar Ekushey",
       "weight": 0.4,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Amar Ekushey",
-      "canonical": "",
+      "canonical": "Amar Ekushey",
       "weight": 0.3,
       "source": "pubs",
       "verified": false
@@ -411,7 +411,7 @@
     0.10348483175039291,
     0.011926933191716671,
     0.055565088987350464,
-    -3.9940637464042084e-8,
+    -3.9940637464042084e-08,
     -0.060636844485998154,
     -0.06306301802396774,
     0.05064034089446068,
@@ -459,7 +459,7 @@
     0.10643010586500168,
     0.02401311695575714,
     0.02872035652399063,
-    -0.00005695419167750515,
+    -5.695419167750515e-05,
     -0.046221911907196045,
     0.023416932672262192,
     0.017294034361839294,

@@ -20,63 +20,63 @@
   "extracted_keywords": [
     {
       "term": "patriarchal societies",
-      "canonical": "",
+      "canonical": "patriarchal societies",
       "weight": 0.9,
       "source": "bio",
       "verified": false
     },
     {
       "term": "muslim women",
-      "canonical": "",
+      "canonical": "muslim women",
       "weight": 0.8,
       "source": "bio",
       "verified": false
     },
     {
       "term": "wear hijab",
-      "canonical": "",
+      "canonical": "wear hijab",
       "weight": 0.7,
       "source": "bio",
       "verified": false
     },
     {
       "term": "socio-political context",
-      "canonical": "",
+      "canonical": "socio-political context",
       "weight": 0.6,
       "source": "bio",
       "verified": false
     },
     {
       "term": "journalism education",
-      "canonical": "",
+      "canonical": "journalism education",
       "weight": 0.5,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "climate change",
-      "canonical": "",
+      "canonical": "climate change",
       "weight": 0.4,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "bangladesh perspective",
-      "canonical": "",
+      "canonical": "bangladesh perspective",
       "weight": 0.3,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "user content",
-      "canonical": "",
+      "canonical": "user content",
       "weight": 0.2,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "modern communication",
-      "canonical": "",
+      "canonical": "modern communication",
       "weight": 0.1,
       "source": "pubs",
       "verified": false
@@ -402,7 +402,7 @@
     0.01671844720840454,
     0.03025011718273163,
     0.02830026112496853,
-    -2.4916190000112692e-8,
+    -2.4916190000112692e-08,
     -0.09893577545881271,
     -0.13223034143447876,
     0.04474406689405441,

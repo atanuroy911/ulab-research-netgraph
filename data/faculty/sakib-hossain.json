@@ -25,49 +25,49 @@
   "extracted_keywords": [
     {
       "term": "Microeconomics",
-      "canonical": "",
+      "canonical": "Microeconomics",
       "weight": 0.8,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "International Trade",
-      "canonical": "",
+      "canonical": "International Trade",
       "weight": 0.7,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "Development Economics",
-      "canonical": "",
+      "canonical": "Development Economics",
       "weight": 0.6,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "Econometrics",
-      "canonical": "",
+      "canonical": "Econometrics",
       "weight": 0.5,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "Macroeconomics",
-      "canonical": "",
+      "canonical": "Macroeconomics",
       "weight": 0.4,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "Strategic motivators for integrating energy economics into the developing garments sector",
-      "canonical": "",
+      "canonical": "Strategic motivators for integrating energy economics into the developing garments sector",
       "weight": 0.9,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "A comprehensive analysis from Bangladesh",
-      "canonical": "",
+      "canonical": "A comprehensive analysis from Bangladesh",
       "weight": 0.8,
       "source": "pubs",
       "verified": false
@@ -393,7 +393,7 @@
     0.010304498486220837,
     0.05030369758605957,
     -0.010310652665793896,
-    -4.9493191767169264e-8,
+    -4.9493191767169264e-08,
     0.00034273305209353566,
     -0.08611389249563217,
     0.0499904602766037,

@@ -22,49 +22,49 @@
   "extracted_keywords": [
     {
       "term": "bioinformatics",
-      "canonical": "",
+      "canonical": "bioinformatics",
       "weight": 0.7,
       "source": "bio",
       "verified": true
     },
     {
       "term": "machine learning",
-      "canonical": "",
+      "canonical": "machine learning",
       "weight": 0.5,
       "source": "bio",
       "verified": true
     },
     {
       "term": "hmm profile based features",
-      "canonical": "",
+      "canonical": "hmm profile based features",
       "weight": 0.2,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "dna-binding protein prediction",
-      "canonical": "",
+      "canonical": "dna-binding protein prediction",
       "weight": 0.3,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "bio medical research international",
-      "canonical": "",
+      "canonical": "bio medical research international",
       "weight": 0.1,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "ieee international advance computing conference",
-      "canonical": "",
+      "canonical": "ieee international advance computing conference",
       "weight": 0.4,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "personalized group recommendation framework",
-      "canonical": "",
+      "canonical": "personalized group recommendation framework",
       "weight": 0.3,
       "source": "pubs",
       "verified": false
@@ -390,7 +390,7 @@
     -0.010355092585086823,
     0.05236806347966194,
     -0.10348863154649734,
-    -3.5773304318809096e-8,
+    -3.5773304318809096e-08,
     0.011163112707436085,
     -0.09096252918243408,
     0.07136999815702438,

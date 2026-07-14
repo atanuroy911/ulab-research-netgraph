@@ -21,21 +21,21 @@
   "extracted_keywords": [
     {
       "term": "Machine Learning",
-      "canonical": "",
+      "canonical": "Machine Learning",
       "weight": 0.8,
       "source": "bio",
       "verified": true
     },
     {
       "term": "Deep Learning",
-      "canonical": "",
+      "canonical": "Deep Learning",
       "weight": 0.7,
       "source": "bio",
       "verified": true
     },
     {
       "term": "Blockchain Technology",
-      "canonical": "",
+      "canonical": "Blockchain Technology",
       "weight": 0.6,
       "source": "bio",
       "verified": true
@@ -347,7 +347,7 @@
     0.04645644500851631,
     -0.061234746128320694,
     -0.03331200033426285,
-    0.00005560771387536079,
+    5.560771387536079e-05,
     0.09323915839195251,
     0.14538872241973877,
     -0.05382470786571503,
@@ -396,7 +396,7 @@
     -0.06259896606206894,
     0.05130600184202194,
     -0.08352302014827728,
-    -2.4318842051229694e-8,
+    -2.4318842051229694e-08,
     0.0409797802567482,
     -0.02171117253601551,
     0.08258546143770218,

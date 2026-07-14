@@ -28,70 +28,70 @@
   "extracted_keywords": [
     {
       "term": "Wireless Communications",
-      "canonical": "",
+      "canonical": "Wireless Communications",
       "weight": 0.9,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Ad-Hoc Networks",
-      "canonical": "",
+      "canonical": "Ad-Hoc Networks",
       "weight": 0.8,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Blockchain",
-      "canonical": "",
+      "canonical": "Blockchain",
       "weight": 0.7,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Digital Twin",
-      "canonical": "",
+      "canonical": "Digital Twin",
       "weight": 0.6,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Graph Theory",
-      "canonical": "",
+      "canonical": "Graph Theory",
       "weight": 0.5,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "EdTech",
-      "canonical": "",
+      "canonical": "EdTech",
       "weight": 0.4,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Cognitive Unmanned Aerial Vehicular Networks",
-      "canonical": "",
+      "canonical": "Cognitive Unmanned Aerial Vehicular Networks",
       "weight": 0.3,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Secure M2M Communication in IIoT with a Single-Factor Lightweight Authentication Protocol",
-      "canonical": "",
+      "canonical": "Secure M2M Communication in IIoT with a Single-Factor Lightweight Authentication Protocol",
       "weight": 0.2,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Transparent and Privacy-Preserving Healthcare Platform with Novel Smart Contract for Smart Cities",
-      "canonical": "",
+      "canonical": "Transparent and Privacy-Preserving Healthcare Platform with Novel Smart Contract for Smart Cities",
       "weight": 0.1,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Cross-Layer MAC Protocol for Cognitive Radio Ad-Hoc Networks",
-      "canonical": "",
+      "canonical": "Cross-Layer MAC Protocol for Cognitive Radio Ad-Hoc Networks",
       "weight": 0.1,
       "source": "pubs",
       "verified": false
@@ -211,7 +211,7 @@
     -0.0539676696062088,
     0.04949604347348213,
     -0.08568921685218811,
-    -0.0000371494643331971,
+    -3.71494643331971e-05,
     -0.04063378646969795,
     0.07434777170419693,
     -0.055054400116205215,
@@ -417,7 +417,7 @@
     -0.09180162101984024,
     0.060114409774541855,
     -0.08130565285682678,
-    -5.916565370966964e-8,
+    -5.916565370966964e-08,
     -0.04251447319984436,
     -0.05229515954852104,
     -0.018437964841723442,

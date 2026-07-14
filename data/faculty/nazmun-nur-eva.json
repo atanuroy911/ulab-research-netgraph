@@ -21,70 +21,70 @@
   "extracted_keywords": [
     {
       "term": "Strategic Management",
-      "canonical": "",
+      "canonical": "Strategic Management",
       "weight": 0.8,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "HRM issues",
-      "canonical": "",
+      "canonical": "HRM issues",
       "weight": 0.7,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Entrepreneurship",
-      "canonical": "",
+      "canonical": "Entrepreneurship",
       "weight": 0.6,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Branding",
-      "canonical": "",
+      "canonical": "Branding",
       "weight": 0.5,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Consumer Behavior",
-      "canonical": "",
+      "canonical": "Consumer Behavior",
       "weight": 0.4,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Strategic HR & Marketing Management",
-      "canonical": "",
+      "canonical": "Strategic HR & Marketing Management",
       "weight": 0.8,
       "source": "bio",
       "verified": false
     },
     {
       "term": "MPhil in Strategic Management",
-      "canonical": "",
+      "canonical": "MPhil in Strategic Management",
       "weight": 0.9,
       "source": "bio",
       "verified": false
     },
     {
       "term": "Sustainability",
-      "canonical": "",
+      "canonical": "Sustainability",
       "weight": 0.6,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Economic Impact of Rohingya Crisis on Bangladesh",
-      "canonical": "",
+      "canonical": "Economic Impact of Rohingya Crisis on Bangladesh",
       "weight": 0.4,
       "source": "pubs",
       "verified": false
     },
     {
       "term": "Return on Investment of Organized Furniture Companies in Bangladesh",
-      "canonical": "",
+      "canonical": "Return on Investment of Organized Furniture Companies in Bangladesh",
       "weight": 0.3,
       "source": "pubs",
       "verified": false
@@ -217,7 +217,7 @@
     -0.05634139105677605,
     -0.04586123302578926,
     -0.02764720283448696,
-    -0.00005033819252275862,
+    -5.033819252275862e-05,
     5.2485396647512964e-33,
     -0.05194980278611183,
     0.021138282492756844,
@@ -410,7 +410,7 @@
     -0.04562665894627571,
     0.055985961109399796,
     0.03861256316304207,
-    -4.9723265505008385e-8,
+    -4.9723265505008385e-08,
     -0.0364144966006279,
     -0.12972451746463776,
     0.06495124101638794,

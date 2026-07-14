@@ -27,77 +27,77 @@
   "extracted_keywords": [
     {
       "term": "Romanticism",
-      "canonical": "",
+      "canonical": "Romanticism",
       "weight": 0.6,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Internal colonization",
-      "canonical": "",
+      "canonical": "Internal colonization",
       "weight": 0.5,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Drama",
-      "canonical": "",
+      "canonical": "Drama",
       "weight": 0.4,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Literary Theories",
-      "canonical": "",
+      "canonical": "Literary Theories",
       "weight": 0.4,
       "source": "bio+pubs",
       "verified": true
     },
     {
       "term": "Phrases and Idioms",
-      "canonical": "",
+      "canonical": "Phrases and Idioms",
       "weight": 0.3,
       "source": "pubs",
       "verified": true
     },
     {
       "term": "Decision Trees",
-      "canonical": "",
+      "canonical": "Decision Trees",
       "weight": 0.5,
       "source": "pubs",
       "verified": true
     },
     {
       "term": "K-means Clustering",
-      "canonical": "",
+      "canonical": "K-means Clustering",
       "weight": 0.4,
       "source": "pubs",
       "verified": true
     },
     {
       "term": "Education Movements",
-      "canonical": "",
+      "canonical": "Education Movements",
       "weight": 0.3,
       "source": "pubs",
       "verified": true
     },
     {
       "term": "William Wordsworth",
-      "canonical": "",
+      "canonical": "William Wordsworth",
       "weight": 0.4,
       "source": "pubs",
       "verified": true
     },
     {
       "term": "Jean Jacques Rousseau",
-      "canonical": "",
+      "canonical": "Jean Jacques Rousseau",
       "weight": 0.3,
       "source": "pubs",
       "verified": true
     },
     {
       "term": "New Historicism",
-      "canonical": "",
+      "canonical": "New Historicism",
       "weight": 0.4,
       "source": "pubs",
       "verified": true
@@ -423,7 +423,7 @@
     0.039382725954055786,
     -0.030326027423143387,
     -0.026370123028755188,
-    -5.4865445520135836e-8,
+    -5.4865445520135836e-08,
     -0.09621676057577133,
     -0.0962361991405487,
     -0.0817660242319107,

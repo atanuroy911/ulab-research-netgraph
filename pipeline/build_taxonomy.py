@@ -22,8 +22,9 @@ def build_taxonomy():
             
         for kw in fac.get('extracted_keywords', []):
             if isinstance(kw, dict):
-                canonical = kw.get('canonical', kw.get('term', kw.get('keyword', str(kw))))
-                term = kw.get('term', canonical)
+                # `or`, not `.get(key, fallback)` — canonical can be present but explicitly ''.
+                canonical = kw.get('canonical') or kw.get('term') or kw.get('keyword') or str(kw)
+                term = kw.get('term') or canonical
             else:
                 canonical = str(kw)
                 term = str(kw)

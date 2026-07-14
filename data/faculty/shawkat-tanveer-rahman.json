@@ -22,49 +22,49 @@
   "extracted_keywords": [
     {
       "term": "green supply chain management",
-      "canonical": "",
+      "canonical": "green supply chain management",
       "weight": 0.7,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "supply chain performance optimization",
-      "canonical": "",
+      "canonical": "supply chain performance optimization",
       "weight": 0.6,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "sustainability",
-      "canonical": "",
+      "canonical": "sustainability",
       "weight": 0.5,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "green marketing",
-      "canonical": "",
+      "canonical": "green marketing",
       "weight": 0.4,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "addressing social issues in extended supply chains",
-      "canonical": "",
+      "canonical": "addressing social issues in extended supply chains",
       "weight": 0.3,
       "source": "bio+interests",
       "verified": true
     },
     {
       "term": "human resource management and supply chain management",
-      "canonical": "",
+      "canonical": "human resource management and supply chain management",
       "weight": 0.2,
       "source": "pubs",
       "verified": true
     },
     {
       "term": "supply chain management",
-      "canonical": "",
+      "canonical": "supply chain management",
       "weight": 0.1,
       "source": "bio+pubs",
       "verified": false
@@ -174,7 +174,7 @@
     0.034840792417526245,
     0.0634792372584343,
     -0.05518483743071556,
-    -0.00008632976096123457,
+    -8.632976096123457e-05,
     -0.056706320494413376,
     -0.013751491904258728,
     0.003341617528349161,
@@ -390,7 +390,7 @@
     0.018792349845170975,
     0.015583977103233337,
     0.07846074551343918,
-    -5.3536382438323926e-8,
+    -5.3536382438323926e-08,
     -0.09800904989242554,
     -0.11138550192117691,
     -0.011295945383608341,
@@ -410,7 +410,7 @@
     0.04255988821387291,
     0.040422867983579636,
     0.03618801757693291,
-    -0.00007893173460615799,
+    -7.893173460615799e-05,
     0.006699410267174244,
     0.037027496844530106,
     0.03528674691915512,

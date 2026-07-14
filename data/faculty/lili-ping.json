@@ -21,70 +21,70 @@
   "extracted_keywords": [
     {
       "term": "corporate financing",
-      "canonical": "",
+      "canonical": "corporate financing",
       "weight": 0.8,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "sme financing",
-      "canonical": "",
+      "canonical": "sme financing",
       "weight": 0.7,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "financial inclusion",
-      "canonical": "",
+      "canonical": "financial inclusion",
       "weight": 0.6,
       "source": "bio+interests",
       "verified": false
     },
     {
       "term": "corruption in a tax game",
-      "canonical": "",
+      "canonical": "corruption in a tax game",
       "weight": 0.5,
       "source": "pub",
       "verified": false
     },
     {
       "term": "legitimacy of foreign aid",
-      "canonical": "",
+      "canonical": "legitimacy of foreign aid",
       "weight": 0.4,
       "source": "pub",
       "verified": false
     },
     {
       "term": "economic prosperity",
-      "canonical": "",
+      "canonical": "economic prosperity",
       "weight": 0.3,
       "source": "pub",
       "verified": false
     },
     {
       "term": "banking software migration project",
-      "canonical": "",
+      "canonical": "banking software migration project",
       "weight": 0.2,
       "source": "bio",
       "verified": false
     },
     {
       "term": "credit administration",
-      "canonical": "",
+      "canonical": "credit administration",
       "weight": 0.1,
       "source": "bio",
       "verified": false
     },
     {
       "term": "idlc finance limited",
-      "canonical": "",
+      "canonical": "idlc finance limited",
       "weight": 0.1,
       "source": "bio",
       "verified": false
     },
     {
       "term": "australia awards scholarship program",
-      "canonical": "",
+      "canonical": "australia awards scholarship program",
       "weight": 0.05,
       "source": "bio",
       "verified": false
@@ -231,7 +231,7 @@
     0.03092515654861927,
     0.04523933306336403,
     0.01937752403318882,
-    0.00004334187542553991,
+    4.334187542553991e-05,
     -0.0331600159406662,
     -0.001127472729422152,
     0.04429473727941513,
@@ -410,7 +410,7 @@
     0.1029324159026146,
     0.01424138993024826,
     -0.0055525414645671844,
-    -4.6749111248800546e-8,
+    -4.6749111248800546e-08,
     -0.08563097566366196,
     -0.013716454617679119,
     -0.10446501523256302,

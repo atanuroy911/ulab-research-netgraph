@@ -21,70 +21,70 @@
   "extracted_keywords": [
     {
       "term": "affect",
-      "canonical": "",
+      "canonical": "affect",
       "weight": 0.8,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "neurodivergence",
-      "canonical": "",
+      "canonical": "neurodivergence",
       "weight": 0.7,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "disability studies",
-      "canonical": "",
+      "canonical": "disability studies",
       "weight": 0.6,
       "source": "bio",
       "verified": false
     },
     {
       "term": "comparative literature",
-      "canonical": "",
+      "canonical": "comparative literature",
       "weight": 0.5,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "multiethnic American literature",
-      "canonical": "",
+      "canonical": "multiethnic American literature",
       "weight": 0.4,
       "source": "bio",
       "verified": false
     },
     {
       "term": "South Asian literatures",
-      "canonical": "",
+      "canonical": "South Asian literatures",
       "weight": 0.3,
       "source": "bio",
       "verified": false
     },
     {
       "term": "media and cultural studies",
-      "canonical": "",
+      "canonical": "media and cultural studies",
       "weight": 0.2,
       "source": "bio",
       "verified": false
     },
     {
       "term": "poetry and poetics",
-      "canonical": "",
+      "canonical": "poetry and poetics",
       "weight": 0.1,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "memory studies",
-      "canonical": "",
+      "canonical": "memory studies",
       "weight": 0.1,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "life writing",
-      "canonical": "",
+      "canonical": "life writing",
       "weight": 0.05,
       "source": "bio",
       "verified": false
@@ -410,7 +410,7 @@
     -0.020941369235515594,
     -0.028421850875020027,
     0.037542883306741714,
-    -5.708055184072691e-8,
+    -5.708055184072691e-08,
     -0.059828076511621475,
     -0.14787624776363373,
     -0.08877136558294296,

@@ -19,21 +19,21 @@
   "extracted_keywords": [
     {
       "term": "Chittagong University",
-      "canonical": "",
+      "canonical": "Chittagong University",
       "weight": 0.7,
       "source": "bio",
       "verified": true
     },
     {
       "term": "Premier University",
-      "canonical": "",
+      "canonical": "Premier University",
       "weight": 0.5,
       "source": "bio",
       "verified": true
     },
     {
       "term": "University of Liberal Arts Bangladesh",
-      "canonical": "",
+      "canonical": "University of Liberal Arts Bangladesh",
       "weight": 0.6,
       "source": "bio",
       "verified": true
@@ -54,7 +54,7 @@
     },
     {
       "term": "Treasurer",
-      "canonical": "",
+      "canonical": "Treasurer",
       "weight": 0.4,
       "source": "bio",
       "verified": true
@@ -68,21 +68,21 @@
     },
     {
       "term": "Human Resource Management",
-      "canonical": "",
+      "canonical": "Human Resource Management",
       "weight": 0.8,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Pricing",
-      "canonical": "",
+      "canonical": "Pricing",
       "weight": 0.7,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Financial Management",
-      "canonical": "",
+      "canonical": "Financial Management",
       "weight": 0.8,
       "source": "bio+pubs",
       "verified": false
@@ -408,7 +408,7 @@
     0.07598844170570374,
     0.0321103073656559,
     0.021826013922691345,
-    -3.627011935236624e-8,
+    -3.627011935236624e-08,
     -0.01265840232372284,
     -0.04637975990772247,
     -0.02850235439836979,

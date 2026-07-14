@@ -26,70 +26,70 @@
   "extracted_keywords": [
     {
       "term": "Disaster Risk Reduction",
-      "canonical": "",
+      "canonical": "Disaster Risk Reduction",
       "weight": 0.8,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Climate Change Adaptation",
-      "canonical": "",
+      "canonical": "Climate Change Adaptation",
       "weight": 0.7,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Biodiversity and Conservation",
-      "canonical": "",
+      "canonical": "Biodiversity and Conservation",
       "weight": 0.6,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Vulnerability Assessment",
-      "canonical": "",
+      "canonical": "Vulnerability Assessment",
       "weight": 0.5,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Ecosystem and Community based Adaptation",
-      "canonical": "",
+      "canonical": "Ecosystem and Community based Adaptation",
       "weight": 0.4,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Land use and Food Security",
-      "canonical": "",
+      "canonical": "Land use and Food Security",
       "weight": 0.3,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Renewable Energy",
-      "canonical": "",
+      "canonical": "Renewable Energy",
       "weight": 0.2,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Community Development",
-      "canonical": "",
+      "canonical": "Community Development",
       "weight": 0.1,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "Sustainable Livelihood Diversification",
-      "canonical": "",
+      "canonical": "Sustainable Livelihood Diversification",
       "weight": 0.9,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "National Adaptation Plans",
-      "canonical": "",
+      "canonical": "National Adaptation Plans",
       "weight": 0.8,
       "source": "bio+pubs",
       "verified": false
@@ -415,7 +415,7 @@
     0.020835645496845245,
     0.10136260092258453,
     0.126906156539917,
-    -5.4011852768098834e-8,
+    -5.4011852768098834e-08,
     0.05388481169939041,
     -0.02529808320105076,
     -0.05417212098836899,

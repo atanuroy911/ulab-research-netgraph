@@ -22,77 +22,77 @@
   "extracted_keywords": [
     {
       "term": "decolonial thought",
-      "canonical": "",
+      "canonical": "decolonial thought",
       "weight": 0.6,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "intersectionality",
-      "canonical": "",
+      "canonical": "intersectionality",
       "weight": 0.5,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "queerness",
-      "canonical": "",
+      "canonical": "queerness",
       "weight": 0.4,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "cybernetics",
-      "canonical": "",
+      "canonical": "cybernetics",
       "weight": 0.3,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "human rights and social organization",
-      "canonical": "",
+      "canonical": "human rights and social organization",
       "weight": 0.5,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "aesthetics",
-      "canonical": "",
+      "canonical": "aesthetics",
       "weight": 0.3,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "language justice",
-      "canonical": "",
+      "canonical": "language justice",
       "weight": 0.4,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "critical philosophy discourses",
-      "canonical": "",
+      "canonical": "critical philosophy discourses",
       "weight": 0.5,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "politics of liberation",
-      "canonical": "",
+      "canonical": "politics of liberation",
       "weight": 0.6,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "free speech",
-      "canonical": "",
+      "canonical": "free speech",
       "weight": 0.4,
       "source": "bio+pubs",
       "verified": false
     },
     {
       "term": "intersectional feminism",
-      "canonical": "",
+      "canonical": "intersectional feminism",
       "weight": 0.3,
       "source": "bio+pubs",
       "verified": false
@@ -236,7 +236,7 @@
     0.024246370419859886,
     0.0004803492920473218,
     -0.09001974761486053,
-    0.00007153165643103421,
+    7.153165643103421e-05,
     0.060266248881816864,
     0.03982503339648247,
     0.050025440752506256,
@@ -418,7 +418,7 @@
     -0.005512670613825321,
     0.06110740453004837,
     0.07397282868623734,
-    -4.959339960919351e-8,
+    -4.959339960919351e-08,
     -0.09369004517793655,
     -0.1595841497182846,
     -0.026121094822883606,
@@ -462,7 +462,7 @@
     -0.002982737496495247,
     0.060568295419216156,
     0.08817274868488312,
-    0.0000942331607802771,
+    9.42331607802771e-05,
     0.01776357740163803,
     -0.008664488792419434,
     0.02879977412521839,
