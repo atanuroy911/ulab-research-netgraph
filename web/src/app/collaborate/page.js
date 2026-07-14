@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import CrossDomainGraph from '@/components/CrossDomainGraphLoader';
+import RegenerateCrossDomainButton from '@/components/RegenerateCrossDomainButton';
 
 export const dynamic = 'force-dynamic';
 
@@ -49,6 +50,10 @@ export default async function CollaboratePage() {
           Linguistics, or IoT with flood control — not just people who work on similar things.
           See <a href="/info#cross-domain" className="text-ulab-blue hover:underline">how this is computed</a>.
         </p>
+      </div>
+
+      <div className="mb-4">
+        <RegenerateCrossDomainButton />
       </div>
 
       {graphData.nodes.length > 0 ? (

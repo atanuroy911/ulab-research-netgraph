@@ -180,20 +180,32 @@ export default function InfoPage() {
           <em>method from one field applied to a problem in another</em>.
         </p>
         <p>
-          So this map uses a different, deliberately non-embedding signal: a curated table of
-          method&harr;domain pairings (<code className="bg-slate-100 px-1.5 py-0.5 rounded text-sm">data/domain_affinity.json</code>),
-          generated once by an LLM reasoning over the full canonical keyword vocabulary — not by
-          measuring text similarity. Two faculty in <strong>different</strong> departments get a
-          cross-disciplinary edge when one of them has a keyword on one side of a known-good
-          pairing and the other has the matching keyword on the other side.
+          The affinity table (<code className="bg-slate-100 px-1.5 py-0.5 rounded text-sm">data/domain_affinity.json</code>)
+          is built by asking the LLM, <strong>separately for every single taxonomy term</strong>:
+          &ldquo;what are the probable applications of combining this domain with a different
+          field?&rdquo; — not by showing it the whole vocabulary at once and asking it to pick a
+          few interesting pairs, which in practice meant most terms got zero coverage (the model
+          gravitates to a handful of obvious combos). The model answers in free text — it doesn&rsquo;t
+          need to copy a term verbatim from anywhere — and each answer is then matched back to the
+          nearest <em>real</em> taxonomy term by embedding similarity, the same nearest-neighbor
+          lookup keyword canonicalization uses (see above). A match is only accepted if it&rsquo;s also{' '}
+          <em>dissimilar enough from the original domain</em> — otherwise the &ldquo;different field&rdquo;
+          the model proposed just collapses back onto a near-synonym of the term you started with,
+          which isn&rsquo;t a cross-disciplinary pairing at all.
         </p>
-        <Formula>{`cross_edge(i, j) exists  iff  dept(i) ≠ dept(j)
+        <Formula>{`match(domain) = argmax_{t ∈ V, sim(embed(domain), embed(t)) < 0.55} sim(embed(field), embed(t))
+                accepted   iff  match_score ≥ 0.55
+
+cross_edge(i, j) exists  iff  dept(i) ≠ dept(j)
                     and ∃ (a, b) ∈ Affinity : a ∈ keywords(i), b ∈ keywords(j)`}</Formula>
         <p className="text-sm text-slate-500">
           The affinity table is a plain JSON file, so it can be hand-reviewed or extended directly
-          — it&rsquo;s a starting point, not a black box. Regenerating it re-runs the LLM pass over
-          the current taxonomy; rebuilding cross-disciplinary edges after that is instant (pure
-          lookup, no embedding calls).
+          — it&rsquo;s a starting point, not a black box. Generating it makes one LLM call per batch
+          of ~12 terms (exhaustively, so it can take several minutes for the full vocabulary);
+          rebuilding cross-disciplinary edges from an existing table is instant (pure lookup, no
+          model calls). Both steps can be triggered from the desktop control panel or directly from
+          the <a href="/collaborate" className="text-ulab-blue hover:underline">Cross-Disciplinary</a>{' '}
+          page itself.
         </p>
       </Section>
 

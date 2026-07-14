@@ -625,24 +625,39 @@ class ControlPanel(QMainWindow):
         grp_cross = QGroupBox("Cross-Disciplinary Map")
         gv_cross = QVBoxLayout(grp_cross)
         gv_cross.addWidget(QLabel(
-            "Generates a method↔domain pairing table (e.g. Machine Learning ↔ Linguistics,\n"
-            "IoT ↔ Flood Control) via the LLM reasoning over the full keyword vocabulary, then\n"
-            "connects faculty in DIFFERENT departments whose keywords match a pairing. Shown on\n"
-            "its own 'Cross-Disciplinary' tab on the website, separate from the similarity graph."
+            "Asks per-domain (exhaustively, over the whole vocabulary) what the probable\n"
+            "applications of combining it with a different field would be, e.g. Machine\n"
+            "Learning ↔ Linguistics, IoT ↔ Flood Control — then matches each free-text answer\n"
+            "back to a real taxonomy term by embedding similarity. Connects faculty in\n"
+            "DIFFERENT departments whose keywords match a pairing, on its own 'Cross-\n"
+            "Disciplinary' tab on the website, separate from the similarity graph."
         ))
 
         cross_row1 = QHBoxLayout()
-        cross_row1.addWidget(QLabel("Target pairs:"))
-        self.affinity_pairs_spin = QSpinBox()
-        self.affinity_pairs_spin.setRange(10, 300)
-        self.affinity_pairs_spin.setValue(50)
-        cross_row1.addWidget(self.affinity_pairs_spin)
+        cross_row1.addWidget(QLabel("Batch size:"))
+        self.affinity_batch_spin = QSpinBox()
+        self.affinity_batch_spin.setRange(4, 40)
+        self.affinity_batch_spin.setValue(12)
+        self.affinity_batch_spin.setToolTip("Domains per LLM call. Smaller = more calls but more reliable JSON.")
+        cross_row1.addWidget(self.affinity_batch_spin)
+
+        cross_row1.addWidget(QLabel("Match threshold:"))
+        self.affinity_threshold_spin = QDoubleSpinBox()
+        self.affinity_threshold_spin.setRange(0.30, 0.90)
+        self.affinity_threshold_spin.setSingleStep(0.01)
+        self.affinity_threshold_spin.setValue(0.55)
+        self.affinity_threshold_spin.setToolTip(
+            "How close the model's free-text answer must be to an existing taxonomy term\n"
+            "to accept it as a match. Lower = more pairs, noisier."
+        )
+        cross_row1.addWidget(self.affinity_threshold_spin)
 
         gen_affinity_btn = QPushButton("\U0001f9e0 Generate Affinity Table")
         gen_affinity_btn.setObjectName("sky")
         gen_affinity_btn.setToolTip(
-            "Runs pipeline/build_domain_affinity.py using the model selected above. Overwrites\n"
-            "data/domain_affinity.json — hand-edit that file afterward to curate it further."
+            "Runs scripts/build-domain-affinity.mjs using the model selected above. One LLM\n"
+            "call per batch, exhaustively over every taxonomy term — can take several minutes.\n"
+            "Overwrites data/domain_affinity.json — hand-edit that file afterward to curate it."
         )
         gen_affinity_btn.clicked.connect(self._run_generate_affinity)
         cross_row1.addWidget(gen_affinity_btn)
@@ -768,26 +783,30 @@ class ControlPanel(QMainWindow):
         self._canon_worker = w1
 
     def _run_generate_affinity(self):
-        target_pairs = self.affinity_pairs_spin.value()
+        batch_size = self.affinity_batch_spin.value()
+        threshold = self.affinity_threshold_spin.value()
         confirm = QMessageBox.question(
             self, "Generate affinity table",
-            f"This calls the LLM ({self.model_combo.currentText()}) over the full keyword "
-            f"vocabulary to propose ~{target_pairs} cross-disciplinary pairings, overwriting "
-            f"data/domain_affinity.json. May take a few minutes. Continue?",
+            f"This calls the LLM ({self.model_combo.currentText()}) once per batch of "
+            f"{batch_size} taxonomy terms, exhaustively over the whole vocabulary, "
+            f"overwriting data/domain_affinity.json. Can take several minutes. Continue?",
         )
         if confirm != QMessageBox.StandardButton.Yes:
             return
 
+        web_dir = os.path.join(BASE_DIR, "web")
+        npm = "npm.cmd" if os.name == "nt" else "npm"
         env = {
             "OLLAMA_MODEL": self.model_combo.currentText(),
             "OLLAMA_URL": f"{self.url_edit.text().strip()}/api/generate",
         }
         cmd = [
-            sys.executable, os.path.join(BASE_DIR, "pipeline", "build_domain_affinity.py"),
-            "--target-pairs", str(target_pairs),
+            npm, "run", "build-domain-affinity", "--",
+            "--batch-size", str(batch_size),
+            "--match-threshold", str(threshold),
         ]
-        self._log(f"--- Generating domain affinity table (~{target_pairs} pairs) ---")
-        w = ProcessWorker(cmd, BASE_DIR, env)
+        self._log(f"--- Generating domain affinity table (batch={batch_size}, threshold={threshold:.2f}) ---")
+        w = ProcessWorker(cmd, web_dir, env)
         w.log.connect(self._log)
         w.finished.connect(lambda rc: self._log(
             "--- Affinity table generated. Now rebuild cross-disciplinary edges. ---"
