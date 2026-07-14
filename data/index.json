@@ -1,0 +1,2358 @@
+[
+  {
+    "id": "a-f-m-moniruzzaman-shipu",
+    "name": "A F M Moniruzzaman Shipu",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Short Canonical Form",
+      "Short Canonical Form",
+      "Short Canonical Form"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Moniruzzaman.jpg?itok=6LiNvSiA",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\a-f-m-moniruzzaman-shipu.jpg"
+  },
+  {
+    "id": "a-f-wazir-ahmad-phd",
+    "name": "A F Wazir Ahmad, PhD",
+    "department": "School of Business",
+    "school": "",
+    "title": "Associate Professor & Director, BBA Program",
+    "top_keywords": [
+      "Quality of Earnings and Financial Disclosures",
+      "Capital Market Development",
+      "Customer Knowledge Management"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Wazir%20A%20F.jpg?itok=vpxWjQ2B",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\a-f-wazir-ahmad-phd.jpg"
+  },
+  {
+    "id": "a-o-m-shamsuddoha",
+    "name": "A. O. M. Shamsuddoha",
+    "department": "School of Science & Engineering",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Low Power VLSI Circuit Design",
+      "Semiconductor Characterization",
+      "Novel Transistor Architecture"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Shams.png?itok=UiQVgPky",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\a-o-m-shamsuddoha.png"
+  },
+  {
+    "id": "abdullah-al-mahmud-phd",
+    "name": "Abdullah Al Mahmud, PhD",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Professor",
+    "top_keywords": [
+      "Applied Linguistics",
+      "ELT/TESOL",
+      "Comparative Linguistics"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Abdullah-Al-Mahmud-300.png?itok=2xBgsjLn",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\abdullah-al-mahmud-phd.png"
+  },
+  {
+    "id": "abdur-rahman-jidan",
+    "name": "Abdur Rahman Jidan",
+    "department": "Bangla Language & Literature (BLL)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Comparative Literature",
+      "Bangla Literature",
+      "Cultural Studies"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Abdur-Rahman-Jidan.jpg?itok=RyG50A4N",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\abdur-rahman-jidan.jpg"
+  },
+  {
+    "id": "abir-bin-yousuf",
+    "name": "Abir Bin Yousuf",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Abir-bin-yousuf.jpg?itok=_Uz7Bxl5",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\abir-bin-yousuf.jpg"
+  },
+  {
+    "id": "abu-saleh-mohammad-rafi-phd",
+    "name": "Abu Saleh Mohammad Rafi, PhD",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Associate Professor",
+    "top_keywords": [
+      "Applied Linguistics",
+      "Multilingualism",
+      "Translanguaging Pedagogies"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Rafi_jpg.png?itok=c4822bMv",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\abu-saleh-mohammad-rafi-phd.png"
+  },
+  {
+    "id": "afsana-anjum",
+    "name": "Afsana Anjum",
+    "department": "General Education Program (GED)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "History of Bangladesh",
+      "World History",
+      "South Asian History"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Afsana%20Anjum.jpg?itok=cvSREonj",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\afsana-anjum.jpg"
+  },
+  {
+    "id": "ahmed-abidur-razzaque-khan-phd",
+    "name": "Ahmed Abidur Razzaque Khan Ph.D.",
+    "department": "General Education Program (GED)",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Human Rights Education",
+      "Migration, Refugees, and Labour Trafficking",
+      "Labour Trafficking"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Abidur-2026.jpg?itok=X5zd3LF9",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\ahmed-abidur-razzaque-khan-phd.jpg"
+  },
+  {
+    "id": "ahmed-al-hasan",
+    "name": "Ahmed Al Hasan",
+    "department": "Bachelor of Science, Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Numerical Simulation of SDE",
+      "Financial Model Implementation",
+      "Operations Research"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Ahmed%20Al%20Hasan.png?itok=Wz5a-ST6",
+    "local_image_path": null
+  },
+  {
+    "id": "ahmed-sharif",
+    "name": "Ahmed Sharif",
+    "department": "General Education Program (GED)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Field Archaeology",
+      "Survey Archaeology",
+      "Archaeological Excavation"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Ahmed%20Sharif.jpg?itok=ohxmWZkm",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\ahmed-sharif.jpg"
+  },
+  {
+    "id": "al-mahmud-rumman",
+    "name": "Al Mahmud Rumman",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Sociolinguistics",
+      "Pragmatics",
+      "Critical Discourse Analysis"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Rumman-450.png?itok=XcCq_FBb",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\al-mahmud-rumman.png"
+  },
+  {
+    "id": "amiya-sadnam-chowdhury",
+    "name": "Amiya Sadnam Chowdhury",
+    "department": "Center for Language Studies (CLS)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "English Literature",
+      "Creative Writing",
+      "Literary Studies"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/06-CLS-Amiya-Sadnam_Chowdhury-300.jpg?itok=OiWTWpDK",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\amiya-sadnam-chowdhury.jpg"
+  },
+  {
+    "id": "andalib-rubayat",
+    "name": "Andalib Rubayat",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Film Studies",
+      "Film Adaptation",
+      "Auteurism and Authorship"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Andalib-Rubayat_0.jpg?itok=Aq8Gx1aQ",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\andalib-rubayat.jpg"
+  },
+  {
+    "id": "anika-shah",
+    "name": "Anika Shah",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Intersections of popular culture, gender, sexuality, and affect",
+      "Feminist cultural studies",
+      "Affect, emotion, and embodiment"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Anika-Shah-300.jpg?itok=2G2NtpTl",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\anika-shah.jpg"
+  },
+  {
+    "id": "anika-tahsin",
+    "name": "Anika Tahsin",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Psychoanalysis",
+      "Existential Nihilism",
+      "American Literature (18th Century)"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Anika%20Tahsin.png?itok=LfAAFtbP",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\anika-tahsin.png"
+  },
+  {
+    "id": "antara-ibnat-audhay",
+    "name": "Antara Ibnat Audhay",
+    "department": "Center for Language Studies (CLS)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/08-CLS-Antara-Ibnat-Audhay-300.jpg?itok=26S8m52U",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\antara-ibnat-audhay.jpg"
+  },
+  {
+    "id": "arifa-ghani-rahman",
+    "name": "Arifa Ghani Rahman",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Head & Associate Professor",
+    "top_keywords": [
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/DEH%20HoD_Page%2010%20and%2023.JPG?itok=co3plKxz",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\arifa-ghani-rahman.jpg"
+  },
+  {
+    "id": "arwin-ahmad-mitu",
+    "name": "Arwin Ahmad Mitu",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Constructive Journalism Research",
+      "Mass Communication and Journalism",
+      "Constructive Journalism"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Arwin-Mitu.jpg?itok=O2vN9C5L",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\arwin-ahmad-mitu.jpg"
+  },
+  {
+    "id": "arzoo-ismail",
+    "name": "Arzoo Ismail",
+    "department": "School of Business",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "AI in Education",
+      "Pedagogy and Learning",
+      "Higher Education"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Arzoo%20Ismail.jpg?itok=vb0zqfZl",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\arzoo-ismail.jpg"
+  },
+  {
+    "id": "ashfaque-e-alam",
+    "name": "Ashfaque E Alam",
+    "department": "Bachelor of Science in Electrical and Electronic Engineering (EEE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Thin-film solar cells",
+      "Solar cell optimization",
+      "Affordable instrumentation"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/ashfaquealam__1_-removebg-preview.png?itok=yD268xCD",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\ashfaque-e-alam.png"
+  },
+  {
+    "id": "ashraful-kadir-phd",
+    "name": "Ashraful Kadir, PhD",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Interdisciplinary Technology Strategy",
+      "Distributed and Agentic AI Systems",
+      "Applied Computational Mathematics"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Dr-Ashraful-Kadir.jpg?itok=kpRKIkDU",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\ashraful-kadir-phd.jpg"
+  },
+  {
+    "id": "asma-royhana-sarkar",
+    "name": "Asma Royhana Sarkar",
+    "department": "General Education Program (GED)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Bengal Renaissance Impact Study",
+      "History of Independent Bangladesh",
+      "Bengal Renaissance"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Asma-Royhana-Sarkar-300.jpg?itok=2AT7mD_O",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\asma-royhana-sarkar.jpg"
+  },
+  {
+    "id": "atanu-shuvam-roy",
+    "name": "Atanu Shuvam Roy",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Deep Learning, Computer Vision, IoT, Robotics",
+      "YOLOv7 defect detection",
+      "FMCW RADAR, LoRaWAN"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Atanu-Shuvam-Roy.jpg?itok=rdON0aFw",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\atanu-shuvam-roy.jpg"
+  },
+  {
+    "id": "atik-jawad",
+    "name": "Atik Jawad",
+    "department": "Bachelor of Science in Electrical and Electronic Engineering (EEE)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Power System Dynamics and Control",
+      "Frequency Stability",
+      "Renewable Energy Integration (PV)"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/atik-jawad-300.jpg?itok=ExKHYEzA",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\atik-jawad.jpg"
+  },
+  {
+    "id": "ayesha-akter-lata-phd",
+    "name": "Ayesha Akter Lata, PhD",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "WSN",
+      "Opportunistic Routing",
+      "RL-based Routing"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Dr-Ayesha-Akter-Lata.jpg?itok=Vh1AA4hE",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\ayesha-akter-lata-phd.jpg"
+  },
+  {
+    "id": "barrister-nafia-haque",
+    "name": "Barrister Nafia Haque",
+    "department": "School of Business",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Contract Law",
+      "Company Law",
+      "Trade Finance"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Nafia-Haque.jpg?itok=n00RtBiS",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\barrister-nafia-haque.jpg"
+  },
+  {
+    "id": "barrister-syed-hasib-m-rahman",
+    "name": "Barrister Syed Hasib M Rahman",
+    "department": "School of Business",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Syed-Hasib-M-Rahman-USB.jpg?itok=85Sn7b-r",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\barrister-syed-hasib-m-rahman.jpg"
+  },
+  {
+    "id": "bashirul-azam-biswas",
+    "name": "Bashirul Azam Biswas",
+    "department": "Bachelor of Science in Electrical and Electronic Engineering (EEE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Iris Recognition",
+      "non-cooperative iriscode recognition",
+      "ASIC design"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/HeadShot_Bashirul-removebg-preview.png?itok=pJalyX7d",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\bashirul-azam-biswas.png"
+  },
+  {
+    "id": "begum-sharminur-nahar",
+    "name": "Begum Sharminur Nahar",
+    "department": "Bangla Language & Literature (BLL)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Begum-Sharminur-Nahar.jpg?itok=Z2wZzWlJ",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\begum-sharminur-nahar.jpg"
+  },
+  {
+    "id": "bijan-paul",
+    "name": "Bijan Paul",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Machine Learning",
+      "VANET",
+      "HCI"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Bijan-Paul.jpg?itok=mLoPd_5r",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\bijan-paul.jpg"
+  },
+  {
+    "id": "bikash-ch-bhowmick",
+    "name": "Bikash Ch. Bhowmick",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Media Studies and Journalism",
+      "Cultural Studies",
+      "Film and Media Studies"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Bikash-C-Bhowmick.jpg?itok=ui_oWFCm",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\bikash-ch-bhowmick.jpg"
+  },
+  {
+    "id": "debolina-halder-lina",
+    "name": "Debolina Halder Lina",
+    "department": "School of Science & Engineering",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Computer Science and Engineering",
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/faculty-default-pic_1.jpg?itok=SmBZAFBe",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\debolina-halder-lina.jpg"
+  },
+  {
+    "id": "dewan-ahmed-muhtasim",
+    "name": "Dewan Ahmed Muhtasim",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Vision"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Dewan-Ahmed-Muhtasim.jpg?itok=BfRcXmgz",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\dewan-ahmed-muhtasim.jpg"
+  },
+  {
+    "id": "dewan-shahnoor-alam-sourav",
+    "name": "Dewan Shahnoor Alam Sourav",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Artificial Intelligence (AI)",
+      "Generative AI",
+      "Journalism and Broadcasting"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/001.jpg?itok=tmZRJGBh",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\dewan-shahnoor-alam-sourav.jpg"
+  },
+  {
+    "id": "dil-afroz-jahan",
+    "name": "Dil Afroz Jahan",
+    "department": "General Education Program (GED)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Gender Studies",
+      "Sustainable Development",
+      "Governance and Development"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Dil-Afroz-Jahan-500-brick.png?itok=IH2OOb1t",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\dil-afroz-jahan.png"
+  },
+  {
+    "id": "din-m-sumon-rahman-phd",
+    "name": "Din M. Sumon Rahman, PhD",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Professor & Dean",
+    "top_keywords": [
+      "Media and Cultural Studies",
+      "Popular Culture",
+      "Misinformation Studies"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Portrait-Shirt.jpg?itok=-0b9Lqfx",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\din-m-sumon-rahman-phd.jpg"
+  },
+  {
+    "id": "ekhtear-ahmed-zeesan",
+    "name": "Ekhtear Ahmed Zeesan",
+    "department": "School of Business",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Sustainable Finance",
+      "FinTech",
+      "Behavioral Finance"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Ekhtear-Ahmed-Zeesan.jpg?itok=0sGxUeD8",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\ekhtear-ahmed-zeesan.jpg"
+  },
+  {
+    "id": "faheem-hasan-shahed-phd",
+    "name": "Faheem Hasan Shahed, Ph.D.",
+    "department": "Center for Language Studies (CLS)",
+    "school": "",
+    "title": "Associate Professor & Director",
+    "top_keywords": [
+      "Bilingualism and National Identity",
+      "Bilingualism Challenges in Education",
+      "Teacher Empathy in EFL Learning"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/01-CLS-Dr.-Faheem-Hasan-Shahed-300.jpg?itok=ZvKx9Q6N",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\faheem-hasan-shahed-phd.jpg"
+  },
+  {
+    "id": "faisal-mohammad-shahriar",
+    "name": "Faisal Mohammad Shahriar",
+    "department": "School of Business",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Consumer Behavior",
+      "Data Science and Analytics",
+      "Social Media Marketing"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Faisal%20Mohammad%20.jpg?itok=42FB5kY2",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\faisal-mohammad-shahriar.jpg"
+  },
+  {
+    "id": "farabe-khan-alif",
+    "name": "Farabe Khan Alif",
+    "department": "School of Business",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Extreme Value Theory (EVT)",
+      "Generalized Pareto Distribution (GPD)",
+      "Automated Threshold Selection"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/farabe-khan.jpg?itok=s81zzwZ4",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\farabe-khan-alif.jpg"
+  },
+  {
+    "id": "farhana-zamil-tinny-phd",
+    "name": "Farhana Zamil Tinny, PhD",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Intercultural Communication",
+      "Rohingya Refugee Studies",
+      "Migration and Refugee Studies"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Farhana-Zamil.jpg?itok=QxPxUI87",
+    "local_image_path": null
+  },
+  {
+    "id": "farisa-khalid-phd",
+    "name": "Farisa Khalid, PhD",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Literary Studies",
+      "British Literature",
+      "Environmental Humanities"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Farisa-Khalid.jpg?itok=dm_ytkB_",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\farisa-khalid-phd.jpg"
+  },
+  {
+    "id": "fatema-khan",
+    "name": "Fatema Khan",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Machine Learning",
+      "NLP",
+      "Topical Clustering"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Fatema-Khan.jpg?itok=5ahx7Kg9",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\fatema-khan.jpg"
+  },
+  {
+    "id": "foysal-ahmed",
+    "name": "Foysal Ahmed",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Low-Resource NLP",
+      "Bangla NLP",
+      "Machine Learning"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Foysal-Ahmed.jpg?itok=v0TjzsrB",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\foysal-ahmed.jpg"
+  },
+  {
+    "id": "golam-kader-zilany",
+    "name": "Golam Kader Zilany",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Curriculum & Syllabus Design",
+      "Assessment Practices",
+      "Language Testing"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/golam-kader-zilany-300.jpg?itok=CYQc5ZiG",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\golam-kader-zilany.jpg"
+  },
+  {
+    "id": "habibun-nahar",
+    "name": "Habibun Nahar",
+    "department": "School of Business",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Habibun-Nahar.jpg?itok=PuslZhoN",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\habibun-nahar.jpg"
+  },
+  {
+    "id": "harunur-rashid-khan",
+    "name": "Harunur Rashid Khan",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Adjunct Faculty",
+    "top_keywords": [
+      "teacher identity",
+      "teacher narratives and pandemic response",
+      "critical pedagogy"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/harunur-rashid-khan-300.jpg?itok=ymMWtWg_",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\harunur-rashid-khan.jpg"
+  },
+  {
+    "id": "haseeb-irfanullah-phd",
+    "name": "Haseeb Irfanullah, PhD",
+    "department": "Department of Environmental Studies and Sustainability (ESS)",
+    "school": "",
+    "title": "Visiting Research Fellow",
+    "top_keywords": [
+      "Nature-Based Solutions",
+      "Environmental Governance",
+      "Climate Change Adaptation"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/haseeb-irfanullah-25-300.jpg?itok=JgOE2kl7",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\haseeb-irfanullah-phd.jpg"
+  },
+  {
+    "id": "ifat-al%C2%A0baqee-phd%C2%A0",
+    "name": "Ifat Al Baqee, PhD",
+    "department": "Department of Electrical and Electronic Engineering (EEE)",
+    "school": "",
+    "title": "Associate Professor",
+    "top_keywords": [
+      "Signal Processing",
+      "Image Optimization",
+      "Computational Image Processing"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Ifat-Al-Baqee.jpg?itok=ryNM9vxz",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\ifat-al%C2%A0baqee-phd%C2%A0.jpg"
+  },
+  {
+    "id": "iram-mehrin",
+    "name": "Iram Mehrin",
+    "department": "Center for Language Studies (CLS)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Applied Linguistics",
+      "Cultural Competence",
+      "Applied Linguistics"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/05-CLS-Iram-Mehrin-300.jpg?itok=ebESz1zo",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\iram-mehrin.jpg"
+  },
+  {
+    "id": "jahanara-tariq",
+    "name": "Jahanara Tariq",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Formalism",
+      "Genre Studies",
+      "Experimental Literature"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Jahanara-Tariq.jpg?itok=9EQOTvLo",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\jahanara-tariq.jpg"
+  },
+  {
+    "id": "jannatul-ferdous-ruma",
+    "name": "Jannatul Ferdous Ruma",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "NLP",
+      "ML",
+      "DL"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Untitled%20design%20%288%29_0.png?itok=A0g7xN21",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\jannatul-ferdous-ruma.png"
+  },
+  {
+    "id": "joy-bhowmik",
+    "name": "Joy Bhowmik",
+    "department": "",
+    "school": "",
+    "title": "Lecturer & Research Associate",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/5.%20Joy%20Bhowmik.jpg?itok=3U5eqlRl",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\joy-bhowmik.jpg"
+  },
+  {
+    "id": "kazi-md-tarique-phd",
+    "name": "Kazi Md Tarique, Phd",
+    "department": "School of Business",
+    "school": "",
+    "title": "Associate Professor",
+    "top_keywords": [
+      "Maqasid-based Performance Evaluation Index",
+      "Islamic Banking and Finance",
+      "Multicriteria Decision Making"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/kazi-md-tarique-500x500.jpg?itok=GyrMnUs6",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\kazi-md-tarique-phd.jpg"
+  },
+  {
+    "id": "khan-raqib-mahmud",
+    "name": "Khan Raqib Mahmud",
+    "department": "Bachelor of Science, Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Machine Learning",
+      "Computer Vision",
+      "Pattern Recognition"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Khan%20Raqib%20Mahmud.jpg?itok=Ld_TnyeQ",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\khan-raqib-mahmud.jpg"
+  },
+  {
+    "id": "khozaima-fatehali-ziauddin",
+    "name": "Khozaima Fatehali Ziauddin",
+    "department": "School of Business",
+    "school": "",
+    "title": "Adjunct Professor",
+    "top_keywords": [
+      "english+pronunciation",
+      "business+communication",
+      "career+planning"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Khozaima_.jpg?itok=IGvsBiJ0",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\khozaima-fatehali-ziauddin.jpg"
+  },
+  {
+    "id": "laboni-akter",
+    "name": "Laboni Akter",
+    "department": "Bangla Language & Literature (BLL)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Laboni-Akter-300.jpg?itok=EW8MmuhJ",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\laboni-akter.jpg"
+  },
+  {
+    "id": "laila-habib",
+    "name": "Laila Habib",
+    "department": "School of Business",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "organizational behaviour",
+      "employee productivity",
+      "emotional intelligence"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Laila-Habib.jpg?itok=CFfML4ZF",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\laila-habib.jpg"
+  },
+  {
+    "id": "lili-ping",
+    "name": "Lili ping",
+    "department": "School of Business",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Lili%20Ping.jpg?itok=X7nRSuii",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\lili-ping.jpg"
+  },
+  {
+    "id": "lubaba-nawar",
+    "name": "Lubaba Nawar",
+    "department": "School of Business",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Sustainable Economic Growth",
+      "Environmental Economics",
+      "Energy Economics"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Lubaba-Nawar-300.jpg?itok=imPrQed4",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\lubaba-nawar.jpg"
+  },
+  {
+    "id": "m-m-azizul-islam-rasel",
+    "name": "M. M. Azizul Islam Rasel",
+    "department": "General Education Program (GED)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "south asian history",
+      "communalism in pakistan east bengal",
+      "critical theory"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/M%20M%20Azizul%20Islam.jpg?itok=r53_Q6vp",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\m-m-azizul-islam-rasel.jpg"
+  },
+  {
+    "id": "m-shahidul-islam-khondaker",
+    "name": "M Shahidul Islam Khondaker",
+    "department": "General Education Program (GED)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Postcolonial State Formation",
+      "South Asian Political Ideologies",
+      "Postcolonial South Asian Political Ideologies"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Photo_ULAB_Website-removebg-preview.png?itok=1MYzYUsC",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\m-shahidul-islam-khondaker.png"
+  },
+  {
+    "id": "mahmud-hasan-khan-phd",
+    "name": "Mahmud Hasan Khan, PhD",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Professor",
+    "top_keywords": [
+      "Sociolinguistics",
+      "Discourse Analysis",
+      "Conversation Analysis"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Mahmud-Hasan-Khan.jpg?itok=JdTzCHcR",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\mahmud-hasan-khan-phd.jpg"
+  },
+  {
+    "id": "mahmudun-nabi-phd",
+    "name": "Mahmudun Nabi, PhD",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Objective Journalism",
+      "International Journalism",
+      "Media Studies"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Mahmudunnabi.jpg?itok=uzChvVkb",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\mahmudun-nabi-phd.jpg"
+  },
+  {
+    "id": "mainul-haque",
+    "name": "Mainul Haque",
+    "department": "School of Science & Engineering",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "AI",
+      "ML",
+      "VLSI"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Mainul-Haque-300.jpg?itok=TtEu-Nxp",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\mainul-haque.jpg"
+  },
+  {
+    "id": "md-abedullah",
+    "name": "Md. Abedullah",
+    "department": "Bangla Language & Literature (BLL)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "RFR",
+      "OBE",
+      "ISMUM"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Abedullah-Ulab-300.jpg?itok=VWm51BVD",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-abedullah.jpg"
+  },
+  {
+    "id": "md-ahsan-ullah",
+    "name": "Md. Ahsan Ullah",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Machine Learning",
+      "Deep Learning",
+      "Mathematical Modeling"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Untitled%20design%20%283%29.png?itok=_gxKwqWN",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-ahsan-ullah.png"
+  },
+  {
+    "id": "md-al-amin-sheikh-phd",
+    "name": "Md Al Amin Sheikh, PhD",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Vascular Biology",
+      "Computational Biology",
+      "Bioinformatics"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Untitled%20design%20%285%29.png?itok=vntlCDld",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-al-amin-sheikh-phd.png"
+  },
+  {
+    "id": "md-aminul-islam",
+    "name": "Md. Aminul Islam",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Social Network and Loneliness Nexus",
+      "Communication Disorder",
+      "Public Health"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Aminul-Islam.jpg?itok=46Z_UXAx",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-aminul-islam.jpg"
+  },
+  {
+    "id": "md-anowarul-abedin",
+    "name": "Md Anowarul Abedin",
+    "department": "School of Science & Engineering",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Core Networks",
+      "Software Engineering",
+      "Software Development"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Md-Anowarul-Abedin.jpg?itok=lU2ySJpK",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-anowarul-abedin.jpg"
+  },
+  {
+    "id": "md-ashraful-haque-phd",
+    "name": "Md. Ashraful Haque, PhD",
+    "department": "Department of Electrical and Electronic Engineering (EEE)",
+    "school": "",
+    "title": "Associate Professor",
+    "top_keywords": [
+      "Machine Learning in Antenna Design",
+      "THz MIMO Antenna Design",
+      "Antenna Design Optimization"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Ashraful-Haque-300.jpg?itok=1_XXaZ83",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-ashraful-haque-phd.jpg"
+  },
+  {
+    "id": "md-didarul-islam",
+    "name": "Md. Didarul Islam",
+    "department": "Bangla Language & Literature (BLL)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "The Daily Bangla Tribune",
+      "Fulbright Scholarship",
+      "Daffodil International University"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/didarul-islam.jpg?itok=nnoRIaRL",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-didarul-islam.jpg"
+  },
+  {
+    "id": "md-faisal-imran",
+    "name": "Md. Faisal Imran",
+    "department": "Center for Sustainable Development (CSD)",
+    "school": "",
+    "title": "Senior Research Associate",
+    "top_keywords": [],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Md-Faisal-Imran.jpg?itok=d7pxRW4B",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-faisal-imran.jpg"
+  },
+  {
+    "id": "md-imran-hossain-phd",
+    "name": "Md. Imran Hossain, PhD",
+    "department": "School of Business",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Dev Econ",
+      "EG",
+      "ED"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Md.%20Imran.jpg?itok=HnWS_XM8",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-imran-hossain-phd.jpg"
+  },
+  {
+    "id": "md-kamal-uddin-phd",
+    "name": "Md. Kamal Uddin, PhD",
+    "department": "School of Business",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Md-Kamal-Uddin-300.jpg?itok=8HLbM4jT",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-kamal-uddin-phd.jpg"
+  },
+  {
+    "id": "md-kaviul-hossain",
+    "name": "Md Kaviul Hossain",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Machine Learning",
+      "Ant Colony Optimization approach",
+      "Neural Networks"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/ULAB%20website%20Profile%20MDKH.jpg?itok=uKCtW7hd",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-kaviul-hossain.jpg"
+  },
+  {
+    "id": "md-mahadhi-hasan-phd",
+    "name": "Md. Mahadhi Hasan, PhD",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Education Technology",
+      "Ling Ed",
+      "AI EdTech"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Mahadhi-Hasan-300_0.jpg?itok=VPD9zSrG",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-mahadhi-hasan-phd.jpg"
+  },
+  {
+    "id": "md-muntasir-mamun",
+    "name": "Md. Muntasir Mamun",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Md.%20Muntasir%20Mamun.jpg?itok=HgV6bvQD",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-muntasir-mamun.jpg"
+  },
+  {
+    "id": "md-naimur-rahman",
+    "name": "Md. Naimur Rahman",
+    "department": "Center for Archaeological Studies (CAS)",
+    "school": "",
+    "title": "Lecturer & Research Associate",
+    "top_keywords": [
+      "Short Canonical Form",
+      "Short Canonical Form",
+      "Short Canonical Form"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Md-Naimur-Rahman-300.jpg?itok=GSNnmnda",
+    "local_image_path": null
+  },
+  {
+    "id": "md-nazmul-abdal",
+    "name": "Md. Nazmul Abdal",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Untitled%20design%20%282%29.png?itok=O4446qb_",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-nazmul-abdal.png"
+  },
+  {
+    "id": "md-sharafat-chowdhury",
+    "name": "Md. Sharafat Chowdhury",
+    "department": "School of Environmental and Life Sciences",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "GIS",
+      "LSM",
+      "RS"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Md-Sharafat-Chowdhury.jpg?itok=AIuylKw6",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-sharafat-chowdhury.jpg"
+  },
+  {
+    "id": "md-yeasir-iqbal-farabi",
+    "name": "Md Yeasir Iqbal Farabi",
+    "department": "School of Business",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Operations Research",
+      "Supply Chain Optimization",
+      "Logistics Management"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Yeasir-Iqbal.jpg?itok=WPd7haGn",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-yeasir-iqbal-farabi.jpg"
+  },
+  {
+    "id": "md-zesun-ahmed-mia",
+    "name": "Md. Zesun Ahmed Mia",
+    "department": "Bachelor of Science in Electrical and Electronic Engineering (EEE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "EEE",
+      "BUET",
+      "ULAB"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/1615697430_Md.-Zesun-Ahmed-Mia-500x500-removebg-preview_0.png?itok=EIEcQngY",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\md-zesun-ahmed-mia.png"
+  },
+  {
+    "id": "mehek-chowdhury",
+    "name": "Mehek Chowdhury",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "literary studies",
+      "current educational research",
+      "educational theory"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Mehek%20Choudhury.jpg?itok=i3fV3x6F",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\mehek-chowdhury.jpg"
+  },
+  {
+    "id": "minhaz-uddin-ahmed-phd",
+    "name": "Minhaz Uddin Ahmed, PhD",
+    "department": "School of Business",
+    "school": "",
+    "title": "Associate Professor",
+    "top_keywords": [
+      "interest rate flux",
+      "just transition",
+      "equity based adaptation"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Dr.Minhaz.png?itok=DJRAlkkW",
+    "local_image_path": null
+  },
+  {
+    "id": "mohaimenul-islam-jowarder",
+    "name": "Mohaimenul Islam Jowarder",
+    "department": "School of Business",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "AI",
+      "MIS",
+      "BDA"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Mohaimenul-Islam.jpg?itok=FiOz68Jl",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\mohaimenul-islam-jowarder.jpg"
+  },
+  {
+    "id": "mohammad-mosiur-rahman",
+    "name": "Mohammad Mosiur Rahman",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Critical Theories",
+      "Anti-Neoliberal Frameworks",
+      "Multilingual Education"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/168815211_10219728731830162_6261-removebg-preview.png?itok=wMxGj96S",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\mohammad-mosiur-rahman.png"
+  },
+  {
+    "id": "mohammad-shazzad-hossain",
+    "name": "Mohammad Shazzad Hossain, PhD",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Associate Professor",
+    "top_keywords": [
+      "E-Learning Methodology",
+      "Film Studies",
+      "Pedagogy"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Mohammad-Shazzad.jpg?itok=nSea7R8I",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\mohammad-shazzad-hossain.jpg"
+  },
+  {
+    "id": "mohammad-tawhid-reaz-phd",
+    "name": "Mohammad Tawhid Reaz, PhD",
+    "department": "School of Business",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "CVD",
+      "covid-19",
+      "product attributes"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Tawhid-Reaz.jpg?itok=ei4euzda",
+    "local_image_path": null
+  },
+  {
+    "id": "mrittika-kamal",
+    "name": "Mrittika Kamal",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Short Canonical Form",
+      "Short Canonical Form",
+      "Short Canonical Form"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/002.jpg?itok=dRNjO46Z",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\mrittika-kamal.jpg"
+  },
+  {
+    "id": "ms-rubaiya-hafiz",
+    "name": "Ms. Rubaiya Hafiz",
+    "department": "Bachelor of Science, Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "ML",
+      "CV",
+      "IP"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Untitled%20design%20%284%29%20%281%29.png?itok=L28Ukv3V",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\ms-rubaiya-hafiz.png"
+  },
+  {
+    "id": "ms-tahura-farbin",
+    "name": "Ms. Tahura Farbin",
+    "department": "Department of Environmental Studies and Sustainability (ESS)",
+    "school": "",
+    "title": "Lecturer-Cum-Research Associate",
+    "top_keywords": [
+      "L&D",
+      "CILD",
+      "CC"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Tahura-Farbin.jpg?itok=QywKaQm3",
+    "local_image_path": null
+  },
+  {
+    "id": "mst-taskia-khatun-phd",
+    "name": "Mst Taskia Khatun, PhD",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Software Project Management",
+      "Data Science",
+      "Simulation Modeling"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Untitled%20design%20%284%29.png?itok=cumsogo4",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\mst-taskia-khatun-phd.png"
+  },
+  {
+    "id": "muhammad-aminuzzaman",
+    "name": "Muhammad Aminuzzaman",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Communication and Technology",
+      "Multimedia Journalism",
+      "Documentary Film Production"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Muhammad-Aminuzzaman.jpg?itok=ScV8z4K5",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\muhammad-aminuzzaman.jpg"
+  },
+  {
+    "id": "mushira-habib-phd",
+    "name": "Mushira Habib, PhD",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Dr-Mushira-Habib_0.jpg?itok=HPremWcJ",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\mushira-habib-phd.jpg"
+  },
+  {
+    "id": "n-m-baki-billah",
+    "name": "N M Baki Billah",
+    "department": "School of Business",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "corporate finance",
+      "financial statement analysis",
+      "security analysis"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Baki_.jpg?itok=gZov7X5J",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\n-m-baki-billah.jpg"
+  },
+  {
+    "id": "nadia-rahman",
+    "name": "Nadia Rahman",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Female Anglophone writers of Bangladesh",
+      "South Asian women writers",
+      "Victorian Literature"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Nadia%20Rahman.jpg?itok=566XmZMM",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\nadia-rahman.jpg"
+  },
+  {
+    "id": "nafees-mansoor-phd",
+    "name": "Nafees Mansoor, PhD",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Professor",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Dr_Nafees_Mansoor.png?itok=004jfjQx",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\nafees-mansoor-phd.png"
+  },
+  {
+    "id": "nafees-reza",
+    "name": "Nafees Reza",
+    "department": "School of Business",
+    "school": "",
+    "title": "Adjunct Faculty",
+    "top_keywords": [
+      "Investment Efficiency",
+      "Equity Valuation",
+      "Market Volatility"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Nafees-Reza.jpg?itok=yBadfD2d",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\nafees-reza.jpg"
+  },
+  {
+    "id": "naima-khatun",
+    "name": "Naima Khatun",
+    "department": "School of Business",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "CSR",
+      "CD",
+      "CG"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Naima-khatun-300.jpg?itok=pxDWxxoM",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\naima-khatun.jpg"
+  },
+  {
+    "id": "nasir-uddin-ahmed",
+    "name": "Nasir Uddin Ahmed",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "cyberbully detection",
+      "sentiment analysis",
+      "music mood classification"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Nasir-Uddin-Ahmed.png.png?itok=rw3tS9yD",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\nasir-uddin-ahmed.png"
+  },
+  {
+    "id": "nayma-akther-jahan",
+    "name": "Nayma Akther Jahan",
+    "department": "Department of Environmental Studies and Sustainability (ESS)",
+    "school": "",
+    "title": "Lecturer-Cum-Research Associate",
+    "top_keywords": [
+      "Climate Change Mitigation",
+      "Renewable Energy",
+      "Sharing Economy"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/nayma-akhter-jahan-25-300.jpg?itok=ifpymI9G",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\nayma-akther-jahan.jpg"
+  },
+  {
+    "id": "nazmun-nur-eva",
+    "name": "Nazmun Nur Eva",
+    "department": "School of Business",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Nazmun-Nur-Eva.jpg?itok=qaRtzJc5",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\nazmun-nur-eva.jpg"
+  },
+  {
+    "id": "neha-ghose",
+    "name": "Neha Ghose",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Neha-Ghose-300.jpg?itok=qXOLG159",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\neha-ghose.jpg"
+  },
+  {
+    "id": "niaz-morshed-patwary",
+    "name": "Niaz Morshed Patwary",
+    "department": "School of Business",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Niaz%20Morshed.jpg?itok=HwZ72aq7",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\niaz-morshed-patwary.jpg"
+  },
+  {
+    "id": "nibras-bin-sayed",
+    "name": "Nibras Bin Sayed",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      "Coping strategies of ready-made garments workers in Bangladesh during the COVID-19 pandemic: a qualitative assessment"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Nibras-Bin-Sayed.jpg?itok=YGp1iGgu",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\nibras-bin-sayed.jpg"
+  },
+  {
+    "id": "nusrat-tajkia",
+    "name": "Nusrat Tajkia",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/NT.jpg?itok=qhbhyr2m",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\nusrat-tajkia.jpg"
+  },
+  {
+    "id": "oeshwik-ahmed",
+    "name": "Oeshwik Ahmed",
+    "department": "School of Business",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Financial technology",
+      "HR policy",
+      "human resources analytics"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Oeshwik-Ahmed.png?itok=3ZBfb6d7",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\oeshwik-ahmed.png"
+  },
+  {
+    "id": "oliur-rahman-sun",
+    "name": "Oliur Rahman Sun",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/IMG_3680.jpg?itok=TQXIcIwd",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\oliur-rahman-sun.jpg"
+  },
+  {
+    "id": "parvez-mahmud-phd",
+    "name": "Parvez Mahmud, PhD",
+    "department": "School of Business",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Parvez%20Mahmud.jpg?itok=wBSl6zqx",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\parvez-mahmud-phd.jpg"
+  },
+  {
+    "id": "prof-abdul-mannan",
+    "name": "Prof. Abdul Mannan",
+    "department": "School of Business",
+    "school": "",
+    "title": "Professor",
+    "top_keywords": [
+      "UGC",
+      "East-West Center",
+      "BUCG"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Abdul%20Mannan.jpg?itok=roqeLJj-",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\prof-abdul-mannan.jpg"
+  },
+  {
+    "id": "prof-carolyn-roberts",
+    "name": "Prof. Carolyn Roberts",
+    "department": "Center for Sustainable Development (CSD)",
+    "school": "",
+    "title": "Visiting Professor",
+    "top_keywords": [
+      "Sustainability",
+      "KTN",
+      "Sustainability"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/1522729203_1469431230_Carolynroberts3-removebg-preview.png?itok=yV1Nt286",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\prof-carolyn-roberts.png"
+  },
+  {
+    "id": "prof-jude-wr-genilo-phd",
+    "name": "Prof. Jude W.R. Genilo, PhD",
+    "department": "",
+    "school": "",
+    "title": "Pro Vice Chancellor",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Prof.%20Jude.jpg?itok=DAdCaNi6",
+    "local_image_path": null
+  },
+  {
+    "id": "prof-milan-kumar-bhattacharjee",
+    "name": "Prof. Milan Kumar Bhattacharjee",
+    "department": "School of Business",
+    "school": "",
+    "title": "Treasurer & Professor",
+    "top_keywords": [
+      "dean",
+      "accounting research",
+      "department chair"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Prof.%20Milan.jpg?itok=Tk_ZvKbT",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\prof-milan-kumar-bhattacharjee.jpg"
+  },
+  {
+    "id": "prof-muhammad-golam-kibria-phd-smieee",
+    "name": "Prof. Muhammad Golam Kibria, PhD, SMIEEE",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Professor & Head",
+    "top_keywords": [
+      "DL",
+      "ML",
+      "TL Model"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Golam.jpg?itok=c_iDSlhH",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\prof-muhammad-golam-kibria-phd-smieee.jpg"
+  },
+  {
+    "id": "prof-muhammad-ibrahim-phd",
+    "name": "Prof. Muhammad Ibrahim, PhD",
+    "department": "General Education Program (GED)",
+    "school": "",
+    "title": "Professor",
+    "top_keywords": [
+      "Technology and Development",
+      "Solid State Physics",
+      "History of Science"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Prof.%20Muhammad%20Ibrahim.jpg?itok=vJpt3XP7",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\prof-muhammad-ibrahim-phd.jpg"
+  },
+  {
+    "id": "prof-shahnaj-husne-jahan-phd",
+    "name": "Prof. Shahnaj Husne Jahan, PhD",
+    "department": "General Education Program (GED)",
+    "school": "",
+    "title": "Professor & Head",
+    "top_keywords": [
+      "Indian Ocean Trade",
+      "Maritime Trade",
+      "Cultural heritage management"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Shahnaj.jpg?itok=9PXtAdGK",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\prof-shahnaj-husne-jahan-phd.jpg"
+  },
+  {
+    "id": "prof-shamim-reza-phd",
+    "name": "Prof. Shamim Reza, PhD",
+    "department": "Bangla Language & Literature (BLL)",
+    "school": "",
+    "title": "Professor & Advisor",
+    "top_keywords": [],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/message_from/2022/10/30/Shamim-Reja.jpeg?itok=wEdvtDxY",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\prof-shamim-reza-phd.jpg"
+  },
+  {
+    "id": "professor-kaiser-hamidul-haq-phd",
+    "name": "Professor Kaiser Hamidul Haq, PhD",
+    "department": "",
+    "school": "",
+    "title": "Professor & Dean, School of Arts and Humanities",
+    "top_keywords": [
+      "MCL",
+      "English Lit",
+      "PL"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/KHH_site%20profile.jpg?itok=eNyTCpUy",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\professor-kaiser-hamidul-haq-phd.jpg"
+  },
+  {
+    "id": "professor-mahmood-hossain-phd",
+    "name": "Professor Mahmood Hossain, PhD",
+    "department": "Department of Environmental Studies and Sustainability (ESS)",
+    "school": "",
+    "title": "Professor & Head",
+    "top_keywords": [
+      "Short Canonical Form",
+      "Short Canonical Form",
+      "Short Canonical Form"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Professor-Mahmood-Hossain-25-300.jpg?itok=bW1YqUly",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\professor-mahmood-hossain-phd.jpg"
+  },
+  {
+    "id": "professor-shamsad-mortuza-phd",
+    "name": "Professor Shamsad Mortuza, PhD",
+    "department": "",
+    "school": "",
+    "title": "Vice Chancellor",
+    "top_keywords": [
+      "Shamanic Poetry in Contemporary Britain",
+      "Romantic Reading Category",
+      "Simon Ortiz Revisited"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/PVC%20Sir.jpg?itok=PEtxb7Kr",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\professor-shamsad-mortuza-phd.jpg"
+  },
+  {
+    "id": "rabiul-islam-jony",
+    "name": "Rabiul Islam Jony",
+    "department": "Bachelor of Science in Electrical and Electronic Engineering (EEE)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Multimodal Data Fusion",
+      "Multilingual Dataset",
+      "Big Data"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Jony-removebg-preview%20%281%29.png?itok=-PDafgr1",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\rabiul-islam-jony.png"
+  },
+  {
+    "id": "raihan-kibria",
+    "name": "Raihan Kibria",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "NLP",
+      "ML",
+      "XAI"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Raihan-Kibria.jpg?itok=McYZz_hp",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\raihan-kibria.jpg"
+  },
+  {
+    "id": "rajia-sultana",
+    "name": "Rajia Sultana",
+    "department": "Bachelor of Arts in English",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Critical Thinking",
+      "Language Teacher",
+      "Reading"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/03-CLS-Rajia-Sultana-300.jpg?itok=_0T82z5V",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\rajia-sultana.jpg"
+  },
+  {
+    "id": "rezwan-al-islam-khan-phd",
+    "name": "Rezwan Al Islam Khan, PhD",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Associate Professor",
+    "top_keywords": [
+      "Short Canonical Form",
+      "Short Canonical Form",
+      "Short Canonical Form"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/rezwan-khan.jpg?itok=gzEBATzW",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\rezwan-al-islam-khan-phd.jpg"
+  },
+  {
+    "id": "rezwana-islam",
+    "name": "Rezwana Islam",
+    "department": "Center for Language Studies (CLS)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Teaching English to Speakers of Other Languages",
+      "International English Language Testing System",
+      "Developing learner autonomy"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Rezwana.jpg?itok=tKwtFOJ3",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\rezwana-islam.jpg"
+  },
+  {
+    "id": "rianon-zaman",
+    "name": "Rianon Zaman",
+    "department": "School of Science & Engineering",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/1542106512_Rianon-Zaman-removebg-preview.png?itok=YCBO5sR5",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\rianon-zaman.png"
+  },
+  {
+    "id": "rigan-chakma",
+    "name": "Rigan Chakma",
+    "department": "General Education Program (GED)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "RMMRU",
+      "IGS",
+      "BRACU"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Rigan%20Chakma.jpg?itok=mJcKjtsC",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\rigan-chakma.jpg"
+  },
+  {
+    "id": "rubab-salehin",
+    "name": "Rubab Salehin",
+    "department": "School of Business",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "CEP",
+      "SCM",
+      "GSCM"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Rubab-Salehin-300.jpg?itok=3Fd7-gMO",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\rubab-salehin.jpg"
+  },
+  {
+    "id": "rukhsana-choudhury",
+    "name": "Rukhsana Choudhury",
+    "department": "Department of Electrical and Electronic Engineering (EEE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "EEPS",
+      "PV",
+      "PGS"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Rukhsana-Choudhury-300.jpg?itok=VAaC96zg",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\rukhsana-choudhury.jpg"
+  },
+  {
+    "id": "sabrina-luthfa-phd",
+    "name": "Sabrina Luthfa, PhD",
+    "department": "School of Business",
+    "school": "",
+    "title": "Associate Professor",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/sabrina-luthfa-300.jpg?itok=8VaxTljd",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sabrina-luthfa-phd.jpg"
+  },
+  {
+    "id": "sadia-afrin",
+    "name": "Sadia Afrin",
+    "department": "Bangla Language & Literature (BLL)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/SADIA-AFRIN.jpg?itok=TE3ynnIn",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sadia-afrin.jpg"
+  },
+  {
+    "id": "sadia-haque-phd",
+    "name": "Sadia Haque, PhD",
+    "department": "School of Business",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Original vs Counterfeit Patronage",
+      "Anti-Counterfeiting Communication",
+      "Social Power"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Sadia-Haque.jpg?itok=oA8Ys7sQ",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sadia-haque-phd.jpg"
+  },
+  {
+    "id": "sadia-lena-alfee",
+    "name": "Sadia Lena Alfee",
+    "department": "Center for Sustainable Development (CSD)",
+    "school": "",
+    "title": "Research Associate",
+    "top_keywords": [],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Sadia-Lena-Alfee.jpg?itok=PUvknQUN",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sadia-lena-alfee.jpg"
+  },
+  {
+    "id": "sajid-amit",
+    "name": "Sajid Amit",
+    "department": "School of Business",
+    "school": "",
+    "title": "Associate Professor",
+    "top_keywords": [
+      "SE",
+      "Social Enterprising",
+      "MDE"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Sajid%20sir%20web.jpg?itok=_8ZU1Xkt",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sajid-amit.jpg"
+  },
+  {
+    "id": "sakib-hasan-siddiqui",
+    "name": "Sakib Hasan Siddiqui",
+    "department": "School of Business",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Sakib-Hasan-Siddiqui.jpg?itok=TASOyt5H",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sakib-hasan-siddiqui.jpg"
+  },
+  {
+    "id": "sakib-hossain",
+    "name": "Sakib Hossain",
+    "department": "School of Business",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Sakib-Hossain-300.jpg?itok=IHJF-2TT",
+    "local_image_path": null
+  },
+  {
+    "id": "sameera-zaman",
+    "name": "Sameera Zaman",
+    "department": "Department of Environmental Studies and Sustainability (ESS)",
+    "school": "",
+    "title": "Senior Lecturer & Research Associate",
+    "top_keywords": [
+      "sustainable development",
+      "social environmental research",
+      "sustainability"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/sameera-zaman-25-300.jpg?itok=0rc5jyjJ",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sameera-zaman.jpg"
+  },
+  {
+    "id": "sarkar-barbaq-quarmal-phd",
+    "name": "Sarkar Barbaq Quarmal, PhD",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Associate Professor",
+    "top_keywords": [
+      "ICT in Comm Dev",
+      "Media Stud",
+      "New Med"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/SBQ.jpg?itok=EgJFkO4b",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sarkar-barbaq-quarmal-phd.jpg"
+  },
+  {
+    "id": "sarwar-uddin-ahmed-phd",
+    "name": "Sarwar Uddin Ahmed, PhD",
+    "department": "School of Business",
+    "school": "",
+    "title": "Professor & Dean",
+    "top_keywords": [
+      "Environmental, Social, and Governance Risk Management",
+      "Climate Change Finance",
+      "Corporate Social Responsibility and Sustainability"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/sarwar-uddin-300-brick.png?itok=NzKwA4oX",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sarwar-uddin-ahmed-phd.png"
+  },
+  {
+    "id": "satyaki-das",
+    "name": "Satyaki Das",
+    "department": "Bachelor of Science, Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/15._Satyaki_Das__1_-removebg-preview.png?itok=pZbd5Kas",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\satyaki-das.png"
+  },
+  {
+    "id": "sayeed-noman-phd",
+    "name": "Sayeed Noman, PhD",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Critical Issues of Identity, Culture, and Power",
+      "Afrocentric Locational Theory",
+      "Postcolonial Studies"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Sayeed-Noman.jpg?itok=LoTPZd90",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sayeed-noman-phd.jpg"
+  },
+  {
+    "id": "selima-quader-chowdhury",
+    "name": "Selima Quader Chowdhury",
+    "department": "General Education Program (GED)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Selima%20Quader.jpg?itok=AexFy51z",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\selima-quader-chowdhury.jpg"
+  },
+  {
+    "id": "shah-jafor-sadeek-quaderi",
+    "name": "Shah Jafor Sadeek Quaderi",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Review helpfulness prediction",
+      "NLP",
+      "ML models"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Shah-Jafor-Sadeek-Quaderi-300.jpg?itok=8h0G7DvH",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shah-jafor-sadeek-quaderi.jpg"
+  },
+  {
+    "id": "shahana-afrose-chowdhury-phd",
+    "name": "Shahana Afrose Chowdhury, PhD",
+    "department": "Department of Environmental Studies and Sustainability (ESS)",
+    "school": "",
+    "title": "Associate Professor",
+    "top_keywords": [
+      "Renewable Energy",
+      "Sustainable Development",
+      "Climate Change"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Dr-Shahana-Chowdhury-300.jpg?itok=Iqv6y4rU",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shahana-afrose-chowdhury-phd.jpg"
+  },
+  {
+    "id": "shaheen-ara",
+    "name": "Shaheen Ara",
+    "department": "Center for Language Studies (CLS)",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "EAP",
+      "TETL",
+      "TEYL"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/02-CLS-Shaheen-Ara-300.jpg?itok=tSVm-iYV",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shaheen-ara.jpg"
+  },
+  {
+    "id": "shajedul-alam",
+    "name": "Shajedul Alam",
+    "department": "School of Business",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Accounting and Math",
+      "Teaching Experience",
+      "Principles of Accounting"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Shajedul.jpg?itok=2sClUqXe",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shajedul-alam.jpg"
+  },
+  {
+    "id": "shakib-mahmud-dipto",
+    "name": "Shakib Mahmud Dipto",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Shakib-Mahmud-Dipto.jpg?itok=ltW795yi",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shakib-mahmud-dipto.jpg"
+  },
+  {
+    "id": "shamsuddin-ahamad-phd",
+    "name": "Shamsuddin Ahamad, PhD",
+    "department": "School of Business",
+    "school": "",
+    "title": "Associate Professor & Director, MBA & EMBA Program",
+    "top_keywords": [
+      "Financial Inclusion",
+      "Developmental Economics",
+      "Environmental Sustainability"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Shamsuddin-Ahamad-26.jpg?itok=KPnVerPA",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shamsuddin-ahamad-phd.jpg"
+  },
+  {
+    "id": "shatabdi-das",
+    "name": "Shatabdi Das",
+    "department": "School of Business",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Statistical Theory Applications",
+      "Machine Learning for Public Health",
+      "Cardiovascular Risk Determinants"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/shatabdi-das-300.jpg?itok=P8nADAmD",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shatabdi-das.jpg"
+  },
+  {
+    "id": "shawban-mahmud",
+    "name": "Shawban Mahmud",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Cyber Security",
+      "Computer Science",
+      "Computer Networking"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Shawban-Mahmud.jpg?itok=wWAXri5l",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shawban-mahmud.jpg"
+  },
+  {
+    "id": "shawkat-tanveer-rahman",
+    "name": "Shawkat Tanveer Rahman",
+    "department": "School of Business",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/shawkat-tanvir-rahman-500x500.jpg?itok=rAIcZ9yA",
+    "local_image_path": null
+  },
+  {
+    "id": "sheikh-nahiyan",
+    "name": "Sheikh Nahiyan",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Disciplinary Literacy and EAP in Higher Education",
+      "English for Academic Purposes",
+      "Academic Integrity and Artificial Intelligence"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/SNY-photo-ulab-removebg-preview%20%282%29.png?itok=rIrCp64x",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sheikh-nahiyan.png"
+  },
+  {
+    "id": "sheikh-tareq-ahmed",
+    "name": "Sheikh Tareq Ahmed",
+    "department": "Bachelor of Science, Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/faculty-default-pic_2.jpg?itok=MQTD6YSH",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sheikh-tareq-ahmed.jpg"
+  },
+  {
+    "id": "shirin-akter",
+    "name": "Shirin Akter",
+    "department": "Bangla Language & Literature (BLL)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "Sustainable Development Research",
+      "Ethnographic Research",
+      "Environmental Literary Analysis"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Shirin-Akter_0.jpg?itok=6aChdAWd",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shirin-akter.jpg"
+  },
+  {
+    "id": "shubhankar-shil",
+    "name": "Shubhankar Shil",
+    "department": "School of Business",
+    "school": "",
+    "title": "Assistant Professor",
+    "top_keywords": [
+      "Accounting Information System",
+      "Financial Management",
+      "Village Phone"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Shubhankar.jpg?itok=f3v2wmbU",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\shubhankar-shil.jpg"
+  },
+  {
+    "id": "sirajum-munira-joti",
+    "name": "Sirajum Munira Joti",
+    "department": "Center for Language Studies (CLS)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "ELT",
+      "Classroom Pedagogy",
+      "LTM"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/07-CLS-Sirajum-Munira-Joti-300.jpg?itok=uXvAoiQy",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sirajum-munira-joti.jpg"
+  },
+  {
+    "id": "sovon-chakraborty",
+    "name": "Sovon Chakraborty",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "BiGRU",
+      "NLP",
+      "LSTM"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Sovon-Chakraborty-CSE.jpg?itok=muDnN7Sj",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sovon-chakraborty.jpg"
+  },
+  {
+    "id": "sumia-aktary-urmie",
+    "name": "Sumia Aktary Urmie",
+    "department": "Bangla Language & Literature (BLL)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/faculty-default-pic_1.jpg?itok=SmBZAFBe",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\sumia-aktary-urmie.jpg"
+  },
+  {
+    "id": "suravi-akhter",
+    "name": "Suravi Akhter",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/image_suravi.png?itok=xjuuutMn",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\suravi-akhter.png"
+  },
+  {
+    "id": "susmita-sangeeta-mridha",
+    "name": "Susmita Sangeeta Mridha",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Academic Profile",
+      "Comparative Literature",
+      "Psychoanalytic Criticism"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/ssmridha.jpg?itok=l4wJzJCN",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\susmita-sangeeta-mridha.jpg"
+  },
+  {
+    "id": "syeda-sadia-mehjabin",
+    "name": "Syeda Sadia Mehjabin",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Syeda-Sadia-Mehjabin.jpg?itok=yODGwHPb",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\syeda-sadia-mehjabin.jpg"
+  },
+  {
+    "id": "t-m-abul-kalam-azad-phd",
+    "name": "T. M. Abul Kalam Azad, PhD",
+    "department": "Bachelor of Science, Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Associate Professor",
+    "top_keywords": [
+      "Advection Diffusion Equation",
+      "Finite Difference Scheme",
+      "Computational Fluid Dynamics"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/T.%20M.%20Abul%20Kalam%20Azad.jpg?itok=02DcT__L",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\t-m-abul-kalam-azad-phd.jpg"
+  },
+  {
+    "id": "tabassum-islam",
+    "name": "Tabassum Islam",
+    "department": "School of Business",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Marketing Education",
+      "Marketing Strategy",
+      "Conducive Learning Environment"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Tabassum-Islam-USB.png?itok=BO-93imC",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\tabassum-islam.png"
+  },
+  {
+    "id": "tahseen-nower",
+    "name": "Tahseen Nower",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "communication for development",
+      "creative communication",
+      "inclusivity and disability rights"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/003_0.jpg?itok=ESx2XhVW",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\tahseen-nower.jpg"
+  },
+  {
+    "id": "tangila-islam-tanni",
+    "name": "Tangila Islam Tanni",
+    "department": "Bachelor of Science, Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "Cloud Computing",
+      "Internet of Things",
+      "Smart City"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/tangila-removebg-preview.png?itok=IkNd7gZc",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\tangila-islam-tanni.png"
+  },
+  {
+    "id": "tazin-ahmed",
+    "name": "Tazin Ahmed",
+    "department": "Center for Language Studies (CLS)",
+    "school": "",
+    "title": "Senior Lecturer",
+    "top_keywords": [
+      "TESOL",
+      "Sociolinguistics",
+      "IATEFL Conference"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/04-CLS-Tazin-Ahmed-300.jpg?itok=PMAF2PT1",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\tazin-ahmed.jpg"
+  },
+  {
+    "id": "usama-rafid",
+    "name": "Usama Rafid",
+    "department": "School of Social Science",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/004.jpg?itok=i8M9eQBv",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\usama-rafid.jpg"
+  },
+  {
+    "id": "vincent-dip-gomes",
+    "name": "Vincent Dip Gomes",
+    "department": "Department of English & Humanities (DEH)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "phonetics+phonology",
+      "linguistics+research",
+      "morphosyntax"
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Vincent-Dip-Gomes.jpg?itok=NvKDZfzU",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\vincent-dip-gomes.jpg"
+  },
+  {
+    "id": "wahida-ferdose-urmi",
+    "name": "Wahida Ferdose Urmi",
+    "department": "Department of Computer Science and Engineering (CSE)",
+    "school": "",
+    "title": "Lecturer",
+    "top_keywords": [
+      "",
+      "",
+      ""
+    ],
+    "photo_url": "https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/5552.png?itok=gjYxVjbO",
+    "local_image_path": "C:\\Users\\atanu\\Desktop\\ULAB-DomainNetwork\\scraper\\..\\data\\images\\wahida-ferdose-urmi.png"
+  }
+]

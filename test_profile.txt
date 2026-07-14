@@ -1,0 +1,2409 @@
+<main class="l-main" role="main">
+ <!-- .l-main region -->
+ <div class="main">
+  <a id="main-content">
+  </a>
+  <div class="local-tasks">
+  </div>
+  <h1 class="hide">
+   Nafees Mansoor, PhD
+  </h1>
+  <div class="block-content content">
+   <div class="row clearfix mid-section" id="mid-section">
+    <div class="columns small-12 large-expand hide-for-print">
+     <a id="50">
+     </a>
+     <div class="panel-pane pane-faculty-left no-title block">
+      <div class="pane-content">
+       <nav class="faculty-left-sidebar" id="faculty-left-sidebar">
+        <div class="sticky-item">
+         <div class="faculty-pic media-wrap rounded margin-bottom-1 always-show m-t-25">
+          <img alt="" src="https://ulab.edu.bd/sites/default/files/styles/faculty_avatar/public/images/faculty/Dr_Nafees_Mansoor.png?itok=004jfjQx"/>
+         </div>
+         <div class="personal-info text-center">
+          <div class="name color-zest-dark h5">
+           Nafees Mansoor, PhD
+          </div>
+          <div class="designation color-blue-vio font-smaller">
+           Professor
+          </div>
+          <div class="dept color-blue-vio font-smaller">
+           Department of Computer Science and Engineering (CSE)
+          </div>
+          <div class="contact-section flex-container align-justify align-middle">
+           <div class="phone">
+            <i aria-hidden="true" class="fa fa-phone">
+            </i>
+            <div class="numbers hide">
+             <div class="strip-bg-dark-gray">
+              <a href="tel:+880-2-966-1255">
+               +880-2-966-1255
+              </a>
+              <a href="tel: +880-2-966-1301">
+               +880-2-966-1301
+              </a>
+              <a href="tel: +880-2-966-5686">
+               +880-2-966-5686
+              </a>
+             </div>
+            </div>
+           </div>
+           <div class="phone">
+            <i aria-hidden="true" class="fa fa-envelope">
+            </i>
+            <div class="numbers hide">
+             <div class="strip-bg-dark-gray">
+              <a href="/cdn-cgi/l/email-protection#ea848b8c8f8f99c4878b8499858598aa9f868b88c48f8e9fc4888e" title="">
+               <span class="__cf_email__" data-cfemail="cba5aaadaeaeb8e5a6aaa5b8a4a4b98bbea7aaa9e5aeafbee5a9af">
+                [email protected]
+               </span>
+              </a>
+             </div>
+            </div>
+           </div>
+           <div class="phone">
+            <i aria-hidden="true" class="fa fa-map-marker">
+            </i>
+            <div class="numbers contact hide">
+             <div class="strip-bg-dark-gray">
+              <p>
+               University of Liberal Arts Bangladesh
+               <br/>
+               House 56, Road 4/A,
+               <br/>
+               Dhanmondi, Dhaka-1209
+              </p>
+             </div>
+            </div>
+           </div>
+           <a href="https://www.nafees.info" target="_blank">
+            <i aria-hidden="true" class="fa fa-link">
+            </i>
+           </a>
+           <a href="https://bd.linkedin.com/in/nafeesmansoor" target="_blank">
+            <i aria-hidden="true" class="fa fa-linkedin">
+            </i>
+           </a>
+           <a href="http://ulab.academia.edu/Nafees" target="_blank">
+            <i aria-hidden="true" class="ai ai-academia">
+            </i>
+           </a>
+           <a href="https://www.researchgate.net/profile/Nafees_Mansoor" target="_blank">
+            <i aria-hidden="true" class="ai ai-researchgate">
+            </i>
+           </a>
+           <a href="https://scholar.google.com/citations?user=5dt40PYAAAAJ&amp;hl=en" target="_blank">
+            <i aria-hidden="true" class="ai ai-google-scholar">
+            </i>
+           </a>
+           <a href="https://orcid.org/0000-0002-3408-237X" target="_blank">
+            <i aria-hidden="true" class="ai ai-orcid">
+            </i>
+           </a>
+           <a href="https://www.scopus.com/authid/detail.uri?authorId=24780011400" target="_blank">
+            <i aria-hidden="true" class="ai ai-scopus">
+            </i>
+           </a>
+           <a href="https://twitter.com/nafees_mansoor" target="_blank">
+            <i aria-hidden="true" class="fa fa-twitter">
+            </i>
+           </a>
+           <a class="scholar" href="https://scholar.google.com/citations?user=5dt40PYAAAAJ&amp;hl=en" target="_blank">
+           </a>
+          </div>
+         </div>
+         <!-- personal-info -->
+         <!-- Magellan Menu -->
+         <div class="magellan-wrap text-center color-medium-gray" data-magellan="" data-margin-top="2em" data-threshold="178">
+          <div class="links">
+           <a href="#profile">
+            <span>
+            </span>
+            <text>
+             Profile
+            </text>
+           </a>
+          </div>
+          <div class="links">
+           <a href="#program-affiliation">
+            <span>
+            </span>
+            <text>
+             Program Affiliation
+            </text>
+           </a>
+          </div>
+          <div class="links">
+           <a href="#field_education">
+            <span>
+            </span>
+            <text>
+             Education
+            </text>
+           </a>
+          </div>
+          <div class="links">
+           <a href="#field_areas_of_interest">
+            <span>
+            </span>
+            <text>
+             Areas of Interest
+            </text>
+           </a>
+          </div>
+          <div class="links">
+           <a href="#field_research_scholarship">
+            <span>
+            </span>
+            <text>
+             Research &amp; Scholarship
+            </text>
+           </a>
+          </div>
+          <div class="links">
+           <a href="#field_membership">
+            <span>
+            </span>
+            <text>
+             Membership
+            </text>
+           </a>
+          </div>
+          <div class="links">
+           <a href="#fc-985">
+            <span>
+            </span>
+            <text>
+             Research Grant
+            </text>
+           </a>
+          </div>
+          <div class="links">
+           <a href="#fc-983">
+            <span>
+            </span>
+            <text>
+             Patent
+            </text>
+           </a>
+          </div>
+          <div class="links">
+           <a href="#fc-984">
+            <span>
+            </span>
+            <text>
+             Co-edited Book(s)
+            </text>
+           </a>
+          </div>
+          <div class="links">
+           <a href="#fc-284">
+            <span>
+            </span>
+            <text>
+             Journal Articles
+            </text>
+           </a>
+          </div>
+          <div class="links">
+           <a href="#fc-285">
+            <span>
+            </span>
+            <text>
+             Book Chapters
+            </text>
+           </a>
+          </div>
+          <div class="links">
+           <a href="#fc-286">
+            <span>
+            </span>
+            <text>
+             Conference Proceedings
+            </text>
+           </a>
+          </div>
+          <div class="links">
+           <a href="#course-taught">
+            <span>
+            </span>
+            <text>
+             Courses Taught
+            </text>
+           </a>
+          </div>
+         </div>
+         <!-- Magellan Menu END -->
+        </div>
+       </nav>
+      </div>
+     </div>
+    </div>
+    <div class="columns small-12 large-7 print-body">
+     <a id="49">
+     </a>
+     <div class="panel-pane pane-node-content no-title block">
+      <div class="pane-content">
+       <article class="node node-faculty odd view-mode-full" id="node-1485">
+        <div class="faculty-details-wrapper" id="faculty-details-wrapper">
+         <div class="sections margin-bottom-2 m-t-25">
+          <section data-magellan-target="profile" id="profile">
+           <div class="content-wrap">
+            <p>
+             Dr. Nafees Mansoor is a researcher, educator, and technologist, currently serving as Associate Professor in the Department of Computer Science &amp; Engineering and Director of the Office of Faculty Research at the University of Liberal Arts Bangladesh (ULAB). He holds a Ph.D. in Electrical Engineering from Universiti Teknologi Malaysia (UTM), with earlier degrees in Telecommunication Engineering (M.Sc.) and Computer Science (B.Sc.).
+            </p>
+            <p data-end="987" data-start="577">
+             Dr. Mansoor has an extensive research portfolio with numerous ISI/Scopus-indexed journal articles, conference papers, book chapters, and patents. His research interests include wireless communications, ad-hoc networks, blockchain, digital twin, graph theory. and  EdTech. He serves as an Associate Editor for
+             <em data-end="923" data-start="910">
+              IEEE Access
+             </em>
+             and regularly reviews for high-impact journals and conferences.
+            </p>
+            <p data-end="1286" data-start="989">
+             A Senior Member of IEEE, he currently serves as the Professional Activity Coordinator for the IEEE Bangladesh Section. His contributions to academia have been recognized through multiple Best Paper Awards, the Vice Chancellor’s Excellence Award, and several accolades from IEEE Bangladesh Section. Beyond research and teaching, Dr. Mansoor actively contributes to institutional quality assurance, accreditation processes, and industry collaboration—impacting both emerging technologies and the future of higher education.
+            </p>
+           </div>
+          </section>
+          <section data-magellan-target="program-affiliation" id="program-affiliation">
+           <div class="title-line-wrapper">
+            <div class="title with-line">
+             Program Affiliation
+            </div>
+           </div>
+           <div class="content-wrap">
+            Department of Computer Science and Engineering (CSE)
+            <br/>
+            Bachelor of Science, Computer Science and Engineering (CSE)
+            <br/>
+            Office of Faculty Research (OFR)
+            <br/>
+           </div>
+          </section>
+          <section data-magellan-target="field_education" id="field_education">
+           <div class="title-line-wrapper">
+            <div class="title with-line">
+             Education
+            </div>
+           </div>
+           <div class="content-wrap">
+            <p>
+             <span style="font-size:12px;">
+              <span style="font-family:verdana,geneva,sans-serif;">
+               <strong>
+                Ph.D
+               </strong>
+               . in Electrical Engineering (2016)
+               <br/>
+               <strong>
+                Thesis:
+               </strong>
+               A Spectrum Aware Cluster-based Architecture for Cognitive Radio Ad-hoc Network.
+               <br/>
+               Universiti Teknologi Malaysia (UTM).
+              </span>
+             </span>
+            </p>
+            <p>
+             <span style="font-size:12px;">
+              <span style="font-family:verdana,geneva,sans-serif;">
+               <strong>
+                M.Sc.
+               </strong>
+               in Telecommunication Engineering (2008)
+               <br/>
+               <strong>
+                Thesis:
+               </strong>
+               Multiple Description Image Coding: A Low Complexity Approach for Lossy Networks.
+               <br/>
+               CGPA- 3.91 (on a scale of 4)
+               <br/>
+               Independent University, Bangladesh (IUB), Bangladesh.
+              </span>
+             </span>
+            </p>
+            <p>
+             <span style="font-size:12px;">
+              <span style="font-family:verdana,geneva,sans-serif;">
+               <strong>
+                BSc
+               </strong>
+               in Computer Science (2005)
+               <br/>
+               cum laude
+               <br/>
+               Independent University, Bangladesh (IUB), Bangladesh
+              </span>
+             </span>
+            </p>
+           </div>
+          </section>
+          <section data-magellan-target="field_areas_of_interest" id="field_areas_of_interest">
+           <div class="title-line-wrapper">
+            <div class="title with-line">
+             Areas of Interest
+            </div>
+           </div>
+           <div class="content-wrap">
+            <style type="text/css">
+             div span:nth-child(odd) {
+    background-color: #f2f2f2; /* Light gray background for odd rows */
+  }
+            </style>
+            <div>
+             <span style="font-size:12px;">
+              <span style="font-family:verdana,geneva,sans-serif;">
+               Wireless Communications;
+              </span>
+             </span>
+             <span style="font-size:12px;">
+              <span style="font-family:verdana,geneva,sans-serif;">
+               Ad-Hoc Networks; Blockchain; Digital Twin;
+              </span>
+             </span>
+             <span style="font-size:12px;">
+              <span style="font-family:verdana,geneva,sans-serif;">
+               Graph Theory
+              </span>
+             </span>
+            </div>
+           </div>
+          </section>
+          <section data-magellan-target="field_research_scholarship" id="field_research_scholarship">
+           <div class="title-line-wrapper">
+            <div class="title with-line">
+             Research &amp; Scholarship
+            </div>
+           </div>
+           <div class="content-wrap">
+            <style type="text/css">
+             .section {
+    background-color: #f7f7f7;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+    margin: 10px auto;
+  }
+
+  .section h4 {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .section ol, .section ul {
+    padding-left: 20px;
+    font-size: 14px;
+  }
+
+  .section li {
+    background-color: #f2f2f2;
+    padding: 8px;
+    border-radius: 5px;
+    margin-bottom: 8px;
+  }
+
+  .section .highlight {
+    font-size: 12px;
+    font-weight: bold;
+  }
+            </style>
+            <div class="section">
+             <h4>
+              <strong>
+               Best Paper
+              </strong>
+             </h4>
+             <ol>
+              <li>
+               International Conference on Advances in Computing, Communication, Electrical and Smart Systems (iCACCESS 2024), March 2024, Bangladesh
+              </li>
+              <li>
+               International Conference on Bangabandhu and Digital Bangladesh (ICBBDB 2023), August 2023, Bangladesh
+              </li>
+              <li>
+               5th International Conference on Electronic Design (ICED), October 2020, Malaysia
+              </li>
+              <li>
+               International Conference on Advanced Information and Communication Technology 2016 (ICAICT 2016), May 2016, Bangladesh
+              </li>
+              <li>
+               2015 RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing, March 2015, Malaysia
+              </li>
+              <li>
+               7th AUN/SEED-Net International Conference on Electrical &amp; Electronic Engineering, October 2014, Malaysia
+              </li>
+              <li>
+               2nd Malaysia-Japan International Institute of Technology (MJIIT) – Japanese University Consortium Committee (JUC) Joint International Symposium (MJJIS 2013), November 2013, Japan
+              </li>
+             </ol>
+            </div>
+            <div class="section">
+             <h4>
+              <strong>
+               Research Fellowship
+              </strong>
+             </h4>
+             <ul>
+              <li>
+               Universiti Teknologi Malaysia (UTM), Malaysia (2012 – 2015)
+              </li>
+             </ul>
+            </div>
+            <div class="section">
+             <h4>
+              <strong>
+               Best Student
+              </strong>
+             </h4>
+             <ul>
+              <li>
+               IEEE Best Student (December 2014)
+              </li>
+             </ul>
+            </div>
+            <div class="section">
+             <h4>
+              <strong>
+               Best Proposal
+              </strong>
+             </h4>
+             <ul>
+              <li>
+               JACTIM Research Proposal Contest 2012, UTM, Malaysia
+              </li>
+             </ul>
+            </div>
+            <div class="section">
+             <h4>
+              <strong>
+               <em>
+                cum laude
+               </em>
+              </strong>
+             </h4>
+             <ul>
+              <li>
+               B.Sc. in Computer Science, 2005
+              </li>
+             </ul>
+            </div>
+           </div>
+          </section>
+          <section data-magellan-target="field_membership" id="field_membership">
+           <div class="title-line-wrapper">
+            <div class="title with-line">
+             Membership
+            </div>
+           </div>
+           <div class="content-wrap">
+            <div>
+             Senior Member IEEE
+            </div>
+           </div>
+          </section>
+          <section data-magellan-target="fc-985" id="fc-985">
+           <div class="title-line-wrapper">
+            <div class="title with-line">
+             Research Grant
+            </div>
+           </div>
+           <div class="content-wrap">
+            <style type="text/css">
+             .section {
+    background-color: #f7f7f7;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+
+  .section h4 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .section p {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .section ul {
+    margin-top: 10px;
+  }
+
+  .section li {
+    margin-bottom: 5px;
+  }
+            </style>
+            <div class="section">
+             <h4>
+              <strong>
+               Principal Investigator
+              </strong>
+              | Project: A Lightweight Encryption Scheme for Document Verification Integrated with Blockchain Technology
+             </h4>
+             <ul>
+              <li>
+               <strong>
+                Project Duration:
+               </strong>
+               Sep 2023 – Aug 2024
+              </li>
+              <li>
+               <strong>
+                Funding Body:
+               </strong>
+               Ministry of Science and Technology (MoST), Government of the People's Republic of Bangladesh
+              </li>
+              <li>
+               <strong>
+                Funding Amount:
+               </strong>
+               250,000 BDT
+              </li>
+              <li>
+               <strong>
+                Duration:
+               </strong>
+               1 Year
+              </li>
+             </ul>
+            </div>
+            <div class="section">
+             <h4>
+              <strong>
+               Co-Investigator
+              </strong>
+              | Project: Portable Video Conferencing Toolkits and Online Applications for Engaging Learning Experience Design in Higher Education Classroom (Project Acronym: EdViCon)
+             </h4>
+             <ul>
+              <li>
+               <strong>
+                Project Duration:
+               </strong>
+               Feb 2022 – Jan 2025
+              </li>
+              <li>
+               <strong>
+                Funding Agency:
+               </strong>
+               Erasmus+ Programme, European Union
+              </li>
+              <li>
+               <strong>
+                Funding Amount:
+               </strong>
+               <span class="DFlfde SwHCTb" data-precision="2" data-value="5.100791338E7">
+                51,007,913
+               </span>
+               BDT (Aprox)
+              </li>
+             </ul>
+            </div>
+            <div class="section">
+             <h4>
+              <strong>
+               Co-Investigator
+              </strong>
+              | Project: Development of an IoT Based Intelligent Vaccine Carrier Monitoring Module for the Unreached
+             </h4>
+             <ul>
+              <li>
+               <strong>
+                Project Duration:
+               </strong>
+               Jun 2019 – Jun 2020
+              </li>
+              <li>
+               <strong>
+                Funding Body:
+               </strong>
+               Information and Communication Technology (ICT) Division, Ministry of Posts, Telecommunications, and Information Technology
+              </li>
+              <li>
+               <strong>
+                Funding Amount:
+               </strong>
+               1,200,000 BDT
+              </li>
+             </ul>
+            </div>
+           </div>
+          </section>
+          <section data-magellan-target="fc-983" id="fc-983">
+           <div class="title-line-wrapper">
+            <div class="title with-line">
+             Patent
+            </div>
+           </div>
+           <div class="content-wrap">
+            <p style="margin-left:20.5pt;">
+             <span style="font-size:14px;">
+              <span style="font-family:verdana,geneva,sans-serif;">
+               <strong>
+                [1]
+               </strong>
+               M. Rasheduzzaman,
+               <strong>
+                N. Mansoor
+               </strong>
+               , N. Mohammed, S. Rahman, “A Portoble Insuloled Contoiner for Sloring ond Tronsporting Voccines”, Status: filed. Country: Bangladesh. Number: P/BD/2020/000018.
+              </span>
+             </span>
+            </p>
+           </div>
+          </section>
+          <section data-magellan-target="fc-984" id="fc-984">
+           <div class="title-line-wrapper">
+            <div class="title with-line">
+             Co-edited Book(s)
+            </div>
+           </div>
+           <div class="content-wrap">
+            <div class="gs_citr" tabindex="0">
+             [1] Islam, A. M., Uddin, J.,
+             <strong>
+              Mansoor, N.,
+             </strong>
+             Rahman, S., &amp; Al Masud, S. M. R. (Eds.). (2022).
+             <i>
+              Bangabandhu and Digital Bangladesh: First International Conference, ICBBDB 2021, Dhaka, Bangladesh, December 30, 2021, Revised Selected Papers
+             </i>
+             . Springer Nature.
+            </div>
+           </div>
+          </section>
+          <section data-magellan-target="fc-284" id="fc-284">
+           <div class="title-line-wrapper">
+            <div class="title with-line">
+             Journal Articles
+            </div>
+           </div>
+           <div class="content-wrap">
+            <style type="text/css">
+             .section {
+    background-color: #f7f7f7;
+    padding: 2px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+    margin: 15px auto;
+  }
+
+  .section h4 {
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+  .section li,
+  .section p {
+    background-color: #f2f2f2;
+    padding: 5px;
+    border-radius: 3px;
+    margin-left: 20.5pt;
+  }
+            </style>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [18]
+              </strong>
+              A. Rozario, E. Ahmed,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2024) A Robust Routing Protocol in Cognitive Unmanned Aerial Vehicular Networks. In: Sensors, vol. 24, issue: 19, 2024. (
+              <em>
+               ISI Indexed, IF 3.4
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [17]
+              </strong>
+              M.R.A. Rashid, M. Hasan, M.A. Islam, S.T. Tasnim, R.J. Taifa, S. Mahbub,
+              <strong>
+               N. Mansoor
+              </strong>
+              , M.S. Ali, T. Jabid, M. Islam, M.M. Islam, (2024). Transforming Agri-Food Value Chains in Bangladesh: A Practical Application of Blockchain for Traceability and Fair Pricing.
+              <em>
+               Heliyon
+              </em>
+              . (
+              <em>
+               ISI Indexed, IF 3.4
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [16]
+              </strong>
+              <strong>
+               N. Mansoor
+              </strong>
+              , K.F. Antora, P. Deb, T.A. Arman, A.A. Manaf, M. Zareei, (2023) A Review of Blockchain Approaches for KYC. In: IEEE Access, vol. 11, 2023, ISSN: 2169-3536. (
+              <em>
+               ISI Indexed, IF 3.367
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [15]
+              </strong>
+              <strong>
+               N. Mansoor
+              </strong>
+              , M. I. Hossain, A. Rozario, M. Zareei, R. A. Arreola, (2023) A Fresh Look at Routing Protocols in Unmanned Aerial Vehicular Networks: A Survey. In: IEEE Access, vol. 11, pp. 66289–66308, 2023, ISSN: 2169-3536. (
+              <em>
+               ISI Indexed, IF 3.367
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [14]
+              </strong>
+              H. Zahid, S. A. Syed, M. Rashid, S. Hussain, A. Umer, A. Waheed, … &amp;
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2023). A Computer Vision-Based System for Recognition and Classification of Urdu Sign Language Dataset for Differently Abled People Using Artificial Intelligence.
+              <em>
+               Mobile Information Systems
+              </em>
+              , 2023.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [13]
+              </strong>
+              K. Shahzad, M. Alam, N. Javaid, A. Waheed, S. A. Chaudhry,
+              <strong>
+               N. Mansoor
+              </strong>
+              , &amp; M. Zareei, (2022). SF-LAP: Secure M2M Communication in IIoT with a Single-Factor Lightweight Authentication Protocol.
+              <em>
+               Journal of Sensors
+              </em>
+              , 2022. (
+              <em>
+               ISI Indexed, IF 2.336
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [12]
+              </strong>
+              A. A. Omar, A. K. Jamil, A. Khandakar, A. R. Uzzal, R. Bosri,
+              <strong>
+               N. Mansoor
+              </strong>
+              , and M. S. Rahman. "A Transparent and Privacy-Preserving Healthcare Platform with Novel Smart Contract for Smart Cities."
+              <em>
+               IEEE Access
+              </em>
+              9 (2021): 90738-90749. (
+              <em>
+               ISI Indexed, IF 3.367
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [11]
+              </strong>
+              A. Chakrabarty,
+              <strong>
+               N. Mansoor
+              </strong>
+              , M. I. Uddin, M. H. Al-Adaileh, N. Alsharif, &amp; F. W. Alsaade, “Prediction Approaches for Smart Cultivation: A Comparative Study”,
+              <em>
+               Complexity
+              </em>
+              , 2021. (
+              <em>
+               ISI Indexed, IF 2.833
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [10]
+              </strong>
+              M. Rahman, N. Mohammed,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Momen, “Chittron: An Automatic Bangla Image Captioning System”,
+              <em>
+               Procedia Computer Science
+              </em>
+              , Volume 154, pp. 636-642, 2019. (
+              <em>
+               Scopus Indexed
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [9]
+              </strong>
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, C. Vargas-Rosales, and M. Zareei, “RARE: A Spectrum Aware Cross-Layer MAC Protocol for Cognitive Radio Ad-Hoc Networks”,
+              <em>
+               IEEE Access
+              </em>
+              , Volume 6, pp. 22210-22227, 2018. (
+              <em>
+               ISI Indexed, IF 3.557
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [8]
+              </strong>
+              M. Zareei, A.K.M.M. Islam, C. Vargas-Rosales,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Goudarzi, M.H. Rehmani, “Mobility-aware medium access control protocols for wireless sensor networks: A survey”,
+              <em>
+               Journal of Network and Computer Applications
+              </em>
+              , Volume 104, pp. 21-37, 2018. (
+              <em>
+               ISI Indexed, IF 3.991
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [7]
+              </strong>
+              M. Zareei, A.K.M.M. Islam, S. Baharun, C. Vargas-Rosales, L. Azpilicueta and
+              <strong>
+               N. Mansoor
+              </strong>
+              , “Medium Access Control Protocol for Cognitive Radio Ad Hoc Networks: A Survey”,
+              <em>
+               Sensors
+              </em>
+              17(9), p.2136, 2017. (
+              <em>
+               ISI Indexed, IF 2.475
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [6]
+              </strong>
+              M. Zareei, A.K.M.M. Islam,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Baharun, E. M. Mohamed, S. Sampei, “CMCS: A Cross-layer Mobility-aware MAC Protocol for Cognitive Radio Sensor Network”,
+              <em>
+               EURASIP Journal on Wireless Communications and Networking
+              </em>
+              , Volume 2016, Number 1, 2016. (
+              <em>
+               ISI Indexed, IF 2.407
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [5]
+              </strong>
+              A. Zeb, A.K.M.M. Islam, M. Zareei, I.A. Mamoon,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Baharun, Y. Katayama, S. Komaki, “Clustering Analysis in Wireless Sensor Networks: An ambit of Performance Metrics and Schemes Taxonomy”,
+              <em>
+               International Journal of Distributed Sensor Networks
+              </em>
+              , 2016. (
+              <em>
+               ISI Indexed, IF 1.787
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [4]
+              </strong>
+              A. Zeb, A.K.M.M. Islam, S. Baharun,
+              <strong>
+               N. Mansoor
+              </strong>
+              , &amp; Y. Katayama, (2015). A Survey on Self-Organized Cluster-Based Wireless Sensor Network.
+              <em>
+               Jurnal Teknologi
+              </em>
+              , 76(1). (
+              <em>
+               Scopus Indexed
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [3]
+              </strong>
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, M. Zareei, S. Baharun, T. Wakabayashi, S. Komaki, "Cognitive Radio Ad-hoc Network Architectures: A Survey",
+              <em>
+               Wireless Personal Communication
+              </em>
+              , Vol. 81, Issue 3, pp. 1117-1142, 2015. (
+              <em>
+               ISI Indexed, IF 1.2
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [2]
+              </strong>
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, M.A. Razzak, "Multiple description discrete cosine transform-based image coding using DC coefficient relocation and AC coefficient Interpolation",
+              <em>
+               Journal of Electronic Imaging
+              </em>
+              , Issue 22(2), pp. 023030(1-10), 2013. (
+              <em>
+               ISI Indexed, IF 0.78
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px; font-family: verdana, geneva, sans-serif;">
+              <strong>
+               [1]
+              </strong>
+              A.K.M.M. Islam, L. B. Jivanadham,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Baharun and S. Khanam, “A Comparative Analysis of ICT Developments in Developing and Developed countries”,
+              <em>
+               International Journal of Regional Science Inquiry
+              </em>
+              , Vol. IV, Issue 2, 2012, pp. 159-182. (
+              <em>
+               Scopus Indexed
+              </em>
+              )
+             </p>
+            </div>
+           </div>
+          </section>
+          <section data-magellan-target="fc-285" id="fc-285">
+           <div class="title-line-wrapper">
+            <div class="title with-line">
+             Book Chapters
+            </div>
+           </div>
+           <div class="content-wrap">
+            <style type="text/css">
+             .section {
+    background-color: #f7f7f7;
+    padding: 2px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+    margin: 15px auto;
+  }
+
+  .section h4 {
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+  .section li, .section p {
+    background-color: #f2f2f2;
+    padding: 5px;
+    border-radius: 3px;
+    margin-left: 20.5pt;
+  }
+            </style>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [10] T. Rahman, S.I. Mouno, A.M. Raatul, A.K. Al Azad,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2023). Verifi-Chain: A Credentials Verifier Using Blockchain and IPFS.
+              <em>
+               Lecture Notes in Networks and Systems
+              </em>
+              , chapter 24, vol 757. Springer, Singapore. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [9] M. Mahajebin, M.R.A. Rashid,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2023). Mood Classification of Bangla Songs Based on Lyrics.
+              <em>
+               Lecture Notes in Networks and Systems
+              </em>
+              , chapter 40, vol 757. Springer, Singapore. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [8] B.A.H. Onee, K.F. Antora, O.S. Rajme,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2023). Development of a Blockchain-Based On-Demand Lightweight Commodity Delivery System.
+              <em>
+               Lecture Notes in Networks and Systems
+              </em>
+              , chapter 48, vol 757. Springer, Singapore. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [7] S. Ghosh,
+              <strong>
+               N. Mansoor
+              </strong>
+              , and M. S. Rahman, (2023). Cloud Computing: An Overview of Security Risk Assessment Models and Frameworks. In: Vinod Kumar Om Pal, Rijwan Khan (Ed.): Chapter 9, pp. 125–140, CRC Press, 1st Edition. ISBN: 9781003267812. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [6] R. T. Hasanat,
+              <strong>
+               N. Mansoor
+              </strong>
+              , N. Mohammed, M. S. Rahman, &amp; M. Rasheduzzaman, (2021). “Development of a monitoring system and power management for an IoT based vaccine carrier.”
+              <em>
+               Journal of Physics
+              </em>
+              , Vol. 1755, No. 1, p. 012023. IOP Publishing. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [5] F. N. Choudhury, F. Rahman, M. R. Jamil, &amp;
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2020). Sensor Searching Techniques in Internet of Things: A Survey, Taxonomy, and Challenges. In
+              <em>
+               ICT Analysis and Applications
+              </em>
+              (pp. 755-763). Springer, Singapore. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [4] A. H. Kamal, M. O. Tusher, S. F. Ahmad, N. I. Farin, and
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2020). Development of an Expert System-Oriented Service Support Helpdesk Management System. Chapter 57,
+              <em>
+               Proceedings of International Joint Conference on Computational Intelligence
+              </em>
+              , Springer. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [3] S. Tasmim, A. H. Kamal, M. O. Tusher, and
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2020). DEB: A Delay and Energy-Based Routing Protocol for Cognitive Radio Ad Hoc Networks.
+              <em>
+               Algorithms for Intelligent Systems
+              </em>
+              , in Proc. of International Joint Conference on Computational Intelligence, pp. 643–654. Springer. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [2] S.M.A Sharif, N. Mohammed, S. Momen, and
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2016). Classification of Bangla Compound Characters Using a HOG-CNN Hybrid Model.
+              <em>
+               Lecture Notes in Networks and Systems
+              </em>
+              , Springer. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [1]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M. M. Islam, M. Zareei, S. Baharun, and S. Komaki, (2015). Construction of a Robust Clustering Algorithm for Cognitive Radio Ad-Hoc Network.
+              <em>
+               Cognitive Radio Oriented Wireless Networks
+              </em>
+              , pp. 759–766. Springer. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+           </div>
+          </section>
+          <section data-magellan-target="fc-286" id="fc-286">
+           <div class="title-line-wrapper">
+            <div class="title with-line">
+             Conference Proceedings
+            </div>
+           </div>
+           <div class="content-wrap">
+            <style type="text/css">
+             .section {
+    background-color: #f7f7f7;
+    padding: 2px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+    margin: 15px auto;
+  }
+
+  .section h4 {
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+  .section li, .section p {
+    background-color: #f2f2f2;
+    padding: 5px;
+    border-radius: 3px;
+    margin-left: 20.5pt;
+  }
+            </style>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [70] A. M. Tanim, H. Saria, M. F. Hossain and
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2025, February). Dr.FANS: A Decentralized Micro-credential Verification System Towards Higher Qualifications. In
+              <em>
+               4th International Conference on Electrical, Computer and Communication Engineering (ECCE 2025)
+              </em>
+              .
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [69] A. M. Raatul and
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2025, February). Design and Development of a Blockchain and IPFS-Based Credential Verifier with Custom Lightweight Encryption for Secure Storage. In
+              <em>
+               4th International Conference on Electrical, Computer and Communication Engineering (ECCE 2025)
+              </em>
+              .
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [68] A. Rozario, E. Ahmed,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2024, March). A Robust Routing Protocol in Cognitive Unmanned Aerial Vehicular Networks. In
+              <em>
+               2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)
+              </em>
+              (pp. 01-06). IEEE. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [67] S.I. Mouno, T. Rahman, A.M. Raatul,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2024, March). Blockchain-Enhanced Academic Certificate Verification: A Decentralized and Trustworthy Framework. In
+              <em>
+               2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)
+              </em>
+              (pp. 01-06). IEEE. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [66] S. Al Ahmed, R.A.M. Rudro, A.J. Prity, S. Saha,
+              <strong>
+               N. Mansoor
+              </strong>
+              , K. Nur, (2024, March). CredChain: Academic and Professional Certificate Verification System using Blockchain. In
+              <em>
+               2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)
+              </em>
+              (pp. 01-06). IEEE. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [65] S. Sunny, S. Pinky, S. Jalal, M. Kayser, M. Wadud,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2024, March). Bangla E-Commerce Sentiment Analysis Optimization Using Tokenization and TF-IDF. In
+              <em>
+               2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)
+              </em>
+              (pp. 01-06). IEEE. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [64] M.R.H. Shahrukh,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2024, March). Automation of Financial Aid Distribution Systems Using Consortium Blockchain. In
+              <em>
+               2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)
+              </em>
+              (pp. 01-06). IEEE. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [63]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A. Rozario, M.G. Kibria, M.S. Khalid, (2024, March). Problems in Video Conferencing-Mediated Teaching: Experiences of Three User Roles of a University in Bangladesh. In
+              <em>
+               2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)
+              </em>
+              (pp. 01-06). IEEE. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [62] S. Sunny, S. Pinky, S. Jalal, M. Kayser, M. Wadud,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2024). Soft Voting Ensemble-Based Approach for Diagnosing Diabetes Mellitus. In
+              <em>
+               2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)
+              </em>
+              (pp. 01-06). IEEE. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [61] M.H. Rifat, A.I. Ananna, T.I. Ahmed, S. Akter,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2024). Blockchain-Based Controller Recovery and SDN Packet Filtering Scheme for Softwarized UAVs. In
+              <em>
+               2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)
+              </em>
+              (pp. 01-06). IEEE. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [60] R. Gani, M.N. Isty, R.A. Rimi, W.R. Parsub, M.S. Islam, M.M. Priyanka, M.R.A. Rashid, M. Hasan,
+              <strong>
+               N. Mansoor
+              </strong>
+              , M.N. Adnan, (2024, March). Impact of AI in Healthcare Services: Analysis Using Medical Synthetic Data. In
+              <em>
+               2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)
+              </em>
+              (pp. 01-06). IEEE. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [59] S.I. Mouno, T. Rahman, A.M. Raatul,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2023, December). Certiblock: The Exemplary Utilization of Blockchain for the Rigorous Validation of Academic Certificates. In
+              <em>
+               2023 26th International Conference on Computer and Information Technology (ICCIT)
+              </em>
+              (pp. 1-6). IEEE. (
+              <em>
+               ISI Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [58] M.R.H. Shahrukh,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2023, December). A New Approach to Financial Distribution Systems Leveraging Hyperledger-Besu and Consortium Blockchain. In
+              <em>
+               2023 26th International Conference on Computer and Information Technology (ICCIT)
+              </em>
+              (pp. 1-6). IEEE. (
+              <em>
+               ISI Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [57] A.M. Raatul, T. Rahman, S.I. Mouno,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2023, November). RMT: A Lightweight Encryption Algorithm For Blockchain-Based Certificate Verification. In
+              <em>
+               2023 IEEE 9th International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE)
+              </em>
+              (pp. 232-236). IEEE. (
+              <em>
+               ISI Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [56] S.H. Farhaan, M.M. Hasan, F.M. Ghani,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2023, September). Enhancing Student Engagement and Performance Evaluation: An Integrated Approach for Quality Learning Management System. In
+              <em>
+               World Conference on Information Systems for Business Management
+              </em>
+              (pp. 221-231). Springer Nature Singapore. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [55] A.I. Ananna, M.H. Rifat, S. Akter, T.I.A. Rain,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2023, September). WildSaver: Advancing Wildlife Conservation with UAVs and Blockchain Technology. In
+              <em>
+               World Conference on Information Systems for Business Management
+              </em>
+              (pp. 475-483). Springer Nature Singapore. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [54] S.H. Rumpa, S. Ishrat, S.T. Reza, M.S.I. Suman, M.F. Ahmmed,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2023, September). InfraChain: A Sensor-Enabled Roadway Management Application Using Blockchain and Digital Twin. In
+              <em>
+               World Conference on Information Systems for Business Management
+              </em>
+              (pp. 457-463). Springer Nature Singapore. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [53] M.R.H. Shahrukh, M.T. Rahman,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2023, September). A New Paradigm in Blockchain-Based Financial Aid Distribution. In
+              <em>
+               World Conference on Information Systems for Business Management
+              </em>
+              (pp. 137-146). Springer Nature Singapore. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [52] M.S. Prodhan, N.S. Diip, S. Akter, S.H. Farhaan,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2023, September). Advancing Fish Species Identification in Bangladesh: Deep Learning Approaches for Accurate Freshwater Fish Recognition. In
+              <em>
+               World Conference on Information Systems for Business Management
+              </em>
+              (pp. 113-122). Springer Nature Singapore. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [51] D.K. Ghosh, A. Chakrabarty,
+              <strong>
+               N. Mansoor
+              </strong>
+              , D.Y. Suh, M.J. Piran, (2021, October). Learning-driven Spatio-temporal Feature Extraction for Violence Detection in IoT Environments. In
+              <em>
+               2021 International Conference on Information and Communication Technology Convergence (ICTC)
+              </em>
+              (pp. 1807-1812). IEEE. (
+              <em>
+               ISI Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [50] S. Akter, M. Amina,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2021, September). Early diagnosis and comparative analysis of different machine learning algorithms for myocardial infarction prediction. In
+              <em>
+               2021 IEEE 9th Region 10 Humanitarian Technology Conference (R10-HTC)
+              </em>
+              (pp. 01-06). IEEE. (
+              <em>
+               ISI Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [49] S. Akter, M. S. Rahman, M. Z. A. Bhuiyan,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2021). Towards Secure Communication in CR-VANETs Through a Trust-Based Routing Protocol. In
+              <em>
+               IEEE INFOCOM WKSHPS: BigSecurity 2021
+              </em>
+              . (
+              <em>
+               ISI Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [48] H. S. Shad, Z. Jamal, S. M. Ahmed, S. Momen,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2021, October). Early Prediction of Chronic Kidney Disease Using Data Mining Techniques. In
+              <em>
+               Proceedings of the Computational Methods in Systems and Software
+              </em>
+              (pp. 947-957). Springer, Cham.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [47] A. H. Kamal, M. O. Tusher, S. F. Ahmad, N. J. Farin,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2020). Development of an Expert System-Oriented Service Support Help Desk Management System. In
+              <em>
+               Proceedings of International Joint Conference on Computational Intelligence
+              </em>
+              (pp. 679-692). Springer, Singapore.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [46] S. Tasmim, A. H. Kamal, M. O. Tusher,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2020). DEB: A Delay and Energy-Based Routing Protocol for Cognitive Radio Ad Hoc Networks. In
+              <em>
+               Proceedings of International Joint Conference on Computational Intelligence
+              </em>
+              (pp. 643-654). Springer, Singapore.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [45] S. Akter,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2020, May). A spectrum aware mobility pattern based routing protocol for CR-VANETs. In
+              <em>
+               2020 IEEE Wireless Communications and Networking Conference (WCNC)
+              </em>
+              (pp. 1-6). IEEE.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [44] R. T. Hasanat, M. A. Rahman,
+              <strong>
+               N. Mansoor
+              </strong>
+              , N. Mohammed, M. S. Rahman, M. Rasheduzzaman, (2020, September). An IoT based real-time data-centric monitoring system for vaccine cold chain. In
+              <em>
+               2020 IEEE East-West Design &amp; Test Symposium (EWDTS)
+              </em>
+              (pp. 1-5). IEEE.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [43] S. Akter, M. S. Rahman,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2020, June). An Efficient Routing Protocol for Secured Communication in Cognitive Radio Sensor Networks. In
+              <em>
+               2020 IEEE Region 10 Symposium (TENSYMP)
+              </em>
+              (pp. 1713-1716). IEEE.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [42] S. Momen, S. Khan, N. Mohammed,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2018). Evolutionary search in the parameter spaces of the honeybee house-hunting model. In
+              <em>
+               International Conference on Intelligent Autonomous Systems
+              </em>
+              , Singapore. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [41] M. Biswas, R. Islam, G. K. Shom, N. Mohammed, S. Momen,
+              <strong>
+               N. Mansoor
+              </strong>
+              , A. Abedin, (2017). Application of image retrieval for aesthetic evaluation and improvement suggestion of isolated Bangla handwritten characters. In
+              <em>
+               IEEE International Conference on Signal and Image Processing Applications (ICSIPA)
+              </em>
+              , Malaysia. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [40]
+              <strong>
+               N. Mansoor
+              </strong>
+              , N.J. Farin, S. Hossain, (2017). FITSYS: A Conceptual Framework for Intelligent Transportation System Driven Smart City in Bangladesh. In
+              <em>
+               57th Annual Convention, The Institute of Engineers Bangladesh (IEB)
+              </em>
+              , Bangladesh.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [39] S.M.A Sharif, N. Mohammed, S. Momen,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2016). Classification of Bangla Compound Characters Using a HOG-CNN Hybrid Model. In
+              <em>
+               International Conference on Computing and Communication Systems
+              </em>
+              , India. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [38] N.J. Farin,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Momen, N. Mohammed, (2016). Sequence Classification: A Regression Based Generalization of Two-stage Clustering. In
+              <em>
+               International Workshop on Computational Intelligence (IWCI 2016)
+              </em>
+              , Bangladesh. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [37] S.M.N. Uddin,
+              <strong>
+               N. Mansoor
+              </strong>
+              , M. Rahman, N. Mohammed, S. Hossain, (2016). A Framework for Event Anomaly Detection in Cognitive Radio Based Smart Community. In
+              <em>
+               International Workshop on Computational Intelligence (IWCI 2016)
+              </em>
+              , Bangladesh. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [36] N.J. Farin, M.N.A.A. Rimon, S. Momen, M. Shorif Uddin,
+              <strong>
+               N. Mansoor
+              </strong>
+              , (2016). A Framework for Dynamic Vehicle Pooling and Ride-Sharing System. In
+              <em>
+               International Workshop on Computational Intelligence (IWCI 2016)
+              </em>
+              , Bangladesh. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [35] S.M.A. Sharif, N. Mohammed,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Momen, (2016). A hybrid deep model with HOG features for Bangla handwritten numeral classification. In
+              <em>
+               9th International Conference on Electrical and Computer Engineering (ICECE-2016)
+              </em>
+              , Dhaka, Bangladesh. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [34] A. Rahman, A.K.M.M. Islam,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Baharun, “State-of-the Art Cluster–Based Cooperative Spectrum Sensing", International Conference on Quality for Sustainable Development (ICQSD), November 25-27, 2016, Chittagong, Bangladesh.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [33]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, M. Zareei, S. Baharun, S. Komaki, "A Novel On-Demand Routing Protocol For Cluster-Based Cognitive Radio Ad-Hoc Network”, IEEE Region 10 Conference, 2016 (IEEE TENCON 2016), November 22-25, 2016, Singapore. (
+              <em>
+               ISI Indexed
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [32] A. Rahman, A.K.M.M. Islam,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Baharun, “State-Of-The-Art Cluster-Based Cooperative Spectrum Sensing “, 1st International Conference on Advanced Technology and Applied Sciences (ICaTAS2016), September 6-7, 2016. Malaysia.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [31] S.M.N. Uddin,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Hossain,”Cognitive Radio Enabled VANET for Multi-agent Based Intelligent Traffic Management System“, 1st International Conference on Advanced Information and Communication Technology (ICAICT 2016), May 16-17, 2016, Chittagong, Bangladesh.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [30] N.J. Farin, A. Rahman,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Hossain, ”WoTCoMS: A Novel Cross-Layered Web-of-Things Based Framework for Course Management System“, 1st International Conference on Advanced Information and Communication Technology (ICAICT 2016), May 16-17, 2016, Chittagong, Bangladesh.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [29] M. Zareei, A.K.M.M. Islam,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Baharun, ”A Routing Protocol for Cognitive Radio Ad-hoc Network”, 1st International Conference on Advanced Information and Communication Technology (ICAICT 2016), May 16-17, 2016, Chittagong, Bangladesh. Awarded as Best Paper
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [28] M. Zareei, A.K.M.M. Islam,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Baharun, ”Dynamic Spectrum Allocation for Cognitive Radio Ad hoc Network”, 3RD International Conference on Advances in Electrical Engineering (ICAEE 2015), December 17-19, 2015, Dhaka, Bangladesh. (
+              <em>
+               Scopus Indexed
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [27] M. Zareei, A.K.M.M. Islam,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Baharun, E. M. Mohamed, S. Sampei. "Cross-Layer Mobility-Aware MAC Protocol For Cognitive Radio Sensor Network." International Conference on Informatics, Electronics &amp; Vision (ICIEV 2015), pp. 1-6, 2015. (
+              <em>
+               Scopus Indexed
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [26]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, M. Zareei, S. Baharun, S. Komaki, "A Novel Node Joining Algorithm For Spectrum Aware Cluster-Based Cognitive Radio Ad-Hoc Networks", 10th Asian Control Conference (ASCC 2015), May 31 - June 3, 2015, Kota Kinabalu, Malaysia. (
+              <em>
+               Scopus Indexed
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [25]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, M. Zareei, S. Baharun, S. Komaki, "Construction of A Robust Clustering Algorithm For Cognitive Radio Ad-Hoc Network", 10th International Conference on Cognitive Radio Oriented Wireless Networks (CROWNCOM 2015), April 21 - 23, 2015, Doha, Qatar. (
+              <em>
+               Scopus Indexed
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [24]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, M. Zareei, A. Zeb, S. Baharun, S. Komaki, "Construction of An Efficient Node Joining Protocol For Cluster-based Cognitive Radio Ad-Hoc Network", 12th RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing 2015, February 28 - March 3, 2015, Kuala Lumpur, Malaysia. Awarded as Best Student Paper
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [23] A. Zeb, A.K.M.M. Islam,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Baharun, S. Komaki, "Fault Tolerance in Dynamic Cluster-based Wireless Sensor Networks", 12th International Bhurban Conference on Applied Sciences &amp; Technology 2015, January 13 - 17, 2015, Islamabad, Pakistan. (
+              <em>
+               Scopus Indexed
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [22]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, M. Zareei, S. Baharun, S. Komaki, "Construction of An Efficient Architecture For Cognitive Radio Ad-Hoc Networks", 3rd MJIIT–JUC Joint International Symposium (MJJIS 2014), November 12 -13, 2014, Kuala Lumpur, Malaysia.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [21]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, M. Zareei, S. Baharun, S. Komaki, "A Robust Clustering Scheme For Cognitive Radio Ad-hoc Network", 7th AUN SEED-Net International Conference on Electrical and Electronic Engineering, 2014, Kuala Lumpur, Malaysia. Awarded as Best Paper
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [20] A. Zeb, A.K.M.M. Islam,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Baharun, S. Komaki, "Broadcasting Protocol using Graph Coloring in Dynamic Cluster-Based Wireless Sensor Network", 7th AUN SEED-Net International Conference on Electrical and Electronic Engineering, 2014, Kuala Lumpur, Malaysia.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [19]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, M. Zareei, S. Baharun, S. Komaki, "A Stable Cluster-Based Architecture For Cognitive Radio Ad-Hoc Networks", IEEE TENCON 2014, October 22 -25, 2014, Bangkok, Thailand. (
+              <em>
+               ISI Indexed
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [18]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, M. Zareei, S. Baharun, S. Komaki, "Cluster Modeling for Cognitive Radio Ad-hoc Networks Using Graph Theory", ICAMMS2014, October 16-17, 2014, Xiamen, China. (
+              <em>
+               Scopus Indexed
+              </em>
+              )
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [17] A.K.M.M. Islam, I.A. Mamoon,
+              <strong>
+               N. Mansoor
+              </strong>
+              , M. Zareei, and M. Johari (2013). HajjNet: A Cluster-Based Haji Services Network.
+              <em>
+               International Conference on Engineering Education (ICEE2013)
+              </em>
+              , December 22-25, Madinah, KSA.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [16]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, M. Zareei, S. Baharun, and S. Komaki (2013). Spectrum Aware Cluster-Based Architecture For Cognitive Radio Ad-Hoc Networks.
+              <em>
+               2nd International Conference on Advances in Electrical Engineering (ICAEE)
+              </em>
+              , December 19-21, Dhaka, Bangladesh. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [15]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, M. Zareei, S. Baharun, and S. Komaki (2013). Spectrum Agile Cluster-Based Architecture For Cognitive Radio Ad-Hoc Networks.
+              <em>
+               Malaysia-Japan International Institute of Technology – Japanese University Consortium Committee Joint International Symposium (MJJIS 2013)
+              </em>
+              , November 6-8, Tokyo, Japan.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [14] M. Zareei, A.K.M.M. Islam,
+              <strong>
+               N. Mansoor
+              </strong>
+              , S. Baharun, and S. Komaki (2013). Simulation for Evaluation: A Study on The Performance Evaluation of WSNs MAC Protocols.
+              <em>
+               MJJIS 2013
+              </em>
+              , November 6-8, Tokyo, Japan.
+              <strong>
+               Awarded Best Paper
+              </strong>
+              .
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [13]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, S. Baharun, S. Komaki, and K. Wada (2013). CoAd: A Cluster Based Adhoc Cognitive Radio Network Architecture with Broadcasting Protocol.
+              <em>
+               International Conference on Informatics, Electronics &amp; Vision (ICIEV13)
+              </em>
+              , May 17-18, Bangladesh. (
+              <em>
+               ISI Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [12]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A.K.M.M. Islam, and A. Yudhahutama (2012). A Dynamic Cluster Based Architecture for Cognitive Radio Networks.
+              <em>
+               MJIIT – Japanese University Consortium Committee Joint Symposium (MJJS 2012)
+              </em>
+              , November 21-23, Kuala Lumpur, Malaysia.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [11] A. Yudhahutama, A.K.M.M. Islam, and
+              <strong>
+               N. Mansoor
+              </strong>
+              (2012). Simulation Environment for Dynamic Cognitive Radio Network Architecture: A Survey.
+              <em>
+               MJJS 2012
+              </em>
+              , November 21-23, Kuala Lumpur, Malaysia.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [10] L.B. Jivanadham, A.K.M.M. Islam,
+              <strong>
+               N. Mansoor
+              </strong>
+              , and S. Baharun (2012). A Secured Dynamic Cluster-based Wireless Sensor Network.
+              <em>
+               4th International Conference on Computational Intelligence, Communication Systems and Networks (CICSYN2012)
+              </em>
+              , July 24-26, Phuket, Thailand. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [9]
+              <strong>
+               N. Mansoor
+              </strong>
+              , F. Ndiaya, S.A. Chowdhury, and M.A. Razzak (2008). Multiple Description Image Coding: A Low Complexity Approach for Lossy Networks.
+              <em>
+               IEEE TENCON 2008
+              </em>
+              , November 19-21, University of Hyderabad, India. (
+              <em>
+               ISI Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [8]
+              <strong>
+               N. Mansoor
+              </strong>
+              , S.A. Chowdhury, F. Ndiaya, and M.A. Razzak (2008). Multiple Description Coding and Reconstruction of Images Using Intrinsic Correlation.
+              <em>
+               International Conference on Electronics, Computer and Communication (ICECC 2008)
+              </em>
+              , June 27-29, Rajshahi University, Bangladesh, pp. 297-300.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [7]
+              <strong>
+               N. Mansoor
+              </strong>
+              , F. Uddin, S.A. Chowdhury, and I.A. Mamoon (2008). MY SB: A Web-based Course Management System.
+              <em>
+               ICECC 2008
+              </em>
+              , June 27-29, Rajshahi University, Bangladesh, pp. 498-501.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [6]
+              <strong>
+               N. Mansoor
+              </strong>
+              , S.A. Chowdhury, and I.A. Mamoon (2008). A Study on the Speed Factors for Websites.
+              <em>
+               ICECC 2008
+              </em>
+              , June 27-29, Rajshahi University, Bangladesh, pp. 502-505.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [5] I.A. Mamoon, S. Khan, S.A. Chowdhury, and
+              <strong>
+               N. Mansoor
+              </strong>
+              (2008). Call Pattern Analysis of Telemedicine Project Healthline 789.
+              <em>
+               ICECC 2008
+              </em>
+              , June 27-29, Rajshahi University, Bangladesh, pp. 227-229.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [4] M.A. Razzak, F. Ndiaya, S.A. Chowdhury, and
+              <strong>
+               N. Mansoor
+              </strong>
+              (2007). Multiple Description Image Transmission for Diversity Systems Over Unreliable Communication Networks.
+              <em>
+               10th International Conference on Computer and Information Technology (ICCIT 2007)
+              </em>
+              , December 27-29, United International University, Bangladesh, pp. 240-244. (
+              <em>
+               Scopus Indexed
+              </em>
+              ).
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [3] A. Chakrabarty,
+              <strong>
+               N. Mansoor
+              </strong>
+              , M.A. Razzak, and M.A. Sobhan (2007). Handover Algorithm for Multiple Network Access Enable Mobile Devices.
+              <em>
+               5th International Conference on IT in Asia (CITA ‘07)
+              </em>
+              , July 11-13, Universiti Malaysia Sarawak, Malaysia, pp. 89-93.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [2]
+              <strong>
+               N. Mansoor
+              </strong>
+              , A. Chakrabarty, M.A. Razzak, and M.A. Sobhan (2007). Seamless Switching in Multiple-SIM Mobile Phone.
+              <em>
+               National Conference on Electronics, Information and Telecommunication
+              </em>
+              , June 29-30, Rajshahi University, Bangladesh, p. 131.
+             </p>
+            </div>
+            <div class="section">
+             <p style="font-size: 14px;">
+              [1] S.A. Chowdhury,
+              <strong>
+               N. Mansoor
+              </strong>
+              , A. Chakrabarty, and F. Ahmed (2007). A Study on the Applications of Nonlinear Optical Loop Mirror (NOLM) in Optical Communications.
+              <em>
+               National Conference on Electronics, Information and Telecommunication
+              </em>
+              , June 29-30, Rajshahi University, Bangladesh, p. 131.
+             </p>
+            </div>
+           </div>
+          </section>
+          <section data-magellan-target="course-taught" id="course-taught">
+           <div class="title-line-wrapper">
+            <div class="title with-line">
+             Courses Taught
+            </div>
+           </div>
+           <div class="content-wrap">
+            <div class="course">
+             <a href="/course/general-education-program/cse-101">
+              <strong>
+               CSE 101
+              </strong>
+              :Introduction to Computer Studies
+             </a>
+            </div>
+            <div class="course">
+             <a href="/course/computer-science-and-engineering/cse-103-cse-103l">
+              <strong>
+               CSE 103 / CSE 103L
+              </strong>
+              :Structured Programming
+             </a>
+            </div>
+            <div class="course">
+             <a href="/course/computer-science-and-engineering/cse-201-cse-202">
+              <strong>
+               CSE 201 / CSE 202
+              </strong>
+              :Object Oriented Programming
+             </a>
+            </div>
+            <div class="course">
+             <a href="/course/computer-science-and-engineering/cse-203">
+              <strong>
+               CSE 203
+              </strong>
+              :Computer Organization and Architecture
+             </a>
+            </div>
+            <div class="course">
+             <a href="/course/computer-science-and-engineering/cse-303">
+              <strong>
+               CSE 303
+              </strong>
+              :Database Management System
+             </a>
+            </div>
+            <div class="course">
+             <a href="/course/computer-science-and-engineering/cse-305-cse-306">
+              <strong>
+               CSE 305 / CSE 306
+              </strong>
+              :Algorithms
+             </a>
+            </div>
+            <div class="course">
+             <a href="/course/electronics-and-telecommunication-engineering/cse-309">
+              <strong>
+               CSE 309
+              </strong>
+              :Data Communication and computer Networking
+             </a>
+            </div>
+            <div class="course">
+             <a href="/course/computer-science-and-engineering/cse-402">
+              <strong>
+               CSE 402
+              </strong>
+              :Wireless and Mobile Computing
+             </a>
+            </div>
+            <div class="course">
+             <a href="/course/computer-science-and-engineering/cse-410">
+              <strong>
+               CSE 410
+              </strong>
+              :Artificial Intelligence
+             </a>
+            </div>
+            <div class="course">
+             <a href="/course/computer-science-and-engineering/cse-417">
+              <strong>
+               CSE 417
+              </strong>
+              :Automata and Theory of Computation
+             </a>
+            </div>
+            <div class="course">
+             <a href="/course/computer-science-and-engineering/cse-480">
+              <strong>
+               CSE 480
+              </strong>
+              :Web Technology
+             </a>
+            </div>
+            <div class="course">
+             <a href="/course/computer-science-and-engineering/cse-499">
+              <strong>
+               CSE 499
+              </strong>
+              :Final Year Project/Internship
+             </a>
+            </div>
+           </div>
+          </section>
+         </div>
+        </div>
+       </article>
+      </div>
+     </div>
+    </div>
+    <div class="columns small-12 large-expand hide-for-print" data-sticky-container="sidebar">
+    </div>
+   </div>
+  </div>
+ </div>
+ <!--/.l-main region -->
+</main>

@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ulab-blue: #002B5C;
+  --color-ulab-red: #D32027;
+  --color-ulab-yellow: #F0B323;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans-fallback);
+}
+
+:root {
+  --background: #f8fafc;
+  --foreground: #0f172a;
+  --font-sans-fallback: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
