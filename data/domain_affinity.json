@@ -1,0 +1,177 @@
+[
+  {
+    "a": "Agriculture",
+    "b": "machine learning",
+    "rationale": "Predictive models for crop yields and disease detection"
+  },
+  {
+    "a": "Academia and Arts",
+    "b": "Blockchain",
+    "rationale": "Secure digital certificates for academic credentials and artistic originality"
+  },
+  {
+    "a": "Data Science & Analytics",
+    "b": "Environmental Impact Assessment",
+    "rationale": "Analyzing environmental data to inform policy decisions"
+  },
+  {
+    "a": "3D Modelling and Automation",
+    "b": "Education Technology",
+    "rationale": "Virtual reality simulations for educational purposes"
+  },
+  {
+    "a": "Artificial Intelligence in Power Systems",
+    "b": "Disaster Risk Reduction",
+    "rationale": "Predictive models for disaster response and recovery"
+  },
+  {
+    "a": "Bioinformatics",
+    "b": "Forest Litter Decomposition",
+    "rationale": "Analyzing microbial communities in forest ecosystems"
+  },
+  {
+    "a": "Cognitive Development",
+    "b": "Consumer Behavior",
+    "rationale": "Understanding consumer decision-making processes through cognitive development principles"
+  },
+  {
+    "a": "Computational Biology",
+    "b": "Ecosystem and Community Based Adaptation",
+    "rationale": "Analyzing ecosystem dynamics for adaptive conservation strategies"
+  },
+  {
+    "a": "Corporate Social Responsibility",
+    "b": "Cybernetics",
+    "rationale": "Feedback mechanisms for corporate social responsibility initiatives"
+  },
+  {
+    "a": "Cultural Heritage Management",
+    "b": "Digital Humanities",
+    "rationale": "Digital preservation and analysis of cultural heritage artifacts"
+  },
+  {
+    "a": "Climate Change Mitigation",
+    "b": "Dynamical Systems",
+    "rationale": "Analyzing complex climate systems for mitigation strategies"
+  },
+  {
+    "a": "E-commerce Adoption in Bangladesh using UTAUT...",
+    "b": "Education Technology",
+    "rationale": "Online learning platforms for Bangladeshi students"
+  },
+  {
+    "a": "Customer Satisfaction",
+    "b": "Emotion",
+    "rationale": "Understanding customer emotions to improve satisfaction and loyalty"
+  },
+  {
+    "a": "Environmental risk management practice of banks",
+    "b": "Financial Technologies and Ecosystem in Bangladesh",
+    "rationale": "Risk assessment and management tools for financial institutions"
+  },
+  {
+    "a": "Rural Development",
+    "b": "machine learning",
+    "rationale": "Using machine learning to predict and prevent rural poverty"
+  },
+  {
+    "a": "Health Communication",
+    "b": "IoT-enabled",
+    "rationale": "Utilizing IoT devices to monitor health metrics and provide personalized communication"
+  },
+  {
+    "a": "Image Processing",
+    "b": "Land Use and Food Security",
+    "rationale": "Applying image processing techniques to analyze land use patterns and predict food security"
+  },
+  {
+    "a": "Agriculture",
+    "b": "Robotics",
+    "rationale": "Developing robotic systems for precision farming and crop monitoring"
+  },
+  {
+    "a": "Reinforcement Learning",
+    "b": "Security Valuation",
+    "rationale": "Using reinforcement learning to optimize security valuation models and predict potential threats"
+  },
+  {
+    "a": "Information Retrieval",
+    "b": "Scholarly communication",
+    "rationale": "Applying information retrieval techniques to improve scholarly communication and knowledge discovery"
+  },
+  {
+    "a": "Indigenous and marginalized communities",
+    "b": "Pattern Recognition",
+    "rationale": "Using pattern recognition to analyze and understand cultural patterns in indigenous and marginalized communities"
+  },
+  {
+    "a": "Language Justice",
+    "b": "natural language processing",
+    "rationale": "Using natural language processing to analyze and promote linguistic justice in marginalized communities"
+  },
+  {
+    "a": "Machine Learning Applications in Healthcare",
+    "b": "Mental Health",
+    "rationale": "Applying machine learning applications in healthcare to predict and prevent mental health disorders"
+  },
+  {
+    "a": "Language Testing and Evaluation",
+    "b": "Multilingualism",
+    "rationale": "Using multilingualism to develop language testing and evaluation methods that account for linguistic diversity"
+  },
+  {
+    "a": "Climate Change Mitigation",
+    "b": "Simulation Modeling",
+    "rationale": "Applying simulation modeling to predict and mitigate the effects of climate change on different ecosystems"
+  },
+  {
+    "a": "Sustainable Energy Generation and Management",
+    "b": "VLSI design",
+    "rationale": "Applying VLSI design principles to develop efficient and sustainable energy systems."
+  },
+  {
+    "a": "Robotics",
+    "b": "water level forecasting",
+    "rationale": "Using robotics and automation to improve water level forecasting and management for more effective flood control."
+  },
+  {
+    "a": "computer vision",
+    "b": "environmental pollution",
+    "rationale": "Developing computer vision-based systems to monitor and track environmental pollution, improving detection and response times."
+  },
+  {
+    "a": "South Asian Women Writers",
+    "b": "machine learning",
+    "rationale": "Using machine learning to analyze and understand the writing styles and themes of South Asian women writers, shedding light on underrepresented voices."
+  },
+  {
+    "a": "geospatial techniques",
+    "b": "land use dynamics",
+    "rationale": "Applying geospatial techniques to study land use dynamics, improving our understanding of environmental changes and informing sustainable development strategies."
+  },
+  {
+    "a": "Image Processing",
+    "b": "Wavelet Decomposition of Cellular Automata Images",
+    "rationale": "Applying wavelet decomposition to image processing, enabling efficient and effective image analysis and compression."
+  },
+  {
+    "a": "Sustainability and financial performance linkage",
+    "b": "markov chain cellular automata model",
+    "rationale": "Using the Markov chain cellular automata model to study sustainability and financial performance linkage, informing environmentally conscious investment decisions."
+  },
+  {
+    "a": "Sustainable Energy Generation and Management",
+    "b": "semiconductor characterization",
+    "rationale": "Applying semiconductor characterization techniques to develop sustainable energy generation and management systems, improving efficiency and reducing environmental impact."
+  },
+  {
+    "a": "Disaster Risk Reduction",
+    "b": "Vulnerability Assessment",
+    "rationale": "Applying vulnerability assessment techniques to improve disaster risk reduction strategies, reducing the impact of disasters on communities and infrastructure."
+  },
+  {
+    "a": "financial technology",
+    "b": "islamic banking and finance",
+    "rationale": "Developing financial technology solutions for Islamic banking and finance, improving efficiency and increasing access to financial services in compliance with Islamic principles."
+  }
+]

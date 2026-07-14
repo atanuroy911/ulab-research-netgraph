@@ -1,0 +1,62 @@
+[
+  {
+    "source": "abir-bin-yousuf",
+    "target": "md-naimur-rahman",
+    "matches": [
+      {
+        "keyword_a": "Computer Vision",
+        "keyword_b": "Environmental Pollution",
+        "rationale": "Developing computer vision-based systems to monitor and track environmental pollution, improving detection and response times."
+      }
+    ],
+    "weight": 0.3333333333333333
+  },
+  {
+    "source": "bashirul-azam-biswas",
+    "target": "md-naimur-rahman",
+    "matches": [
+      {
+        "keyword_a": "Computer Vision",
+        "keyword_b": "Environmental Pollution",
+        "rationale": "Developing computer vision-based systems to monitor and track environmental pollution, improving detection and response times."
+      }
+    ],
+    "weight": 0.3333333333333333
+  },
+  {
+    "source": "dewan-ahmed-muhtasim",
+    "target": "md-naimur-rahman",
+    "matches": [
+      {
+        "keyword_a": "Computer Vision",
+        "keyword_b": "Environmental Pollution",
+        "rationale": "Developing computer vision-based systems to monitor and track environmental pollution, improving detection and response times."
+      }
+    ],
+    "weight": 0.3333333333333333
+  },
+  {
+    "source": "md-naimur-rahman",
+    "target": "ms-rubaiya-hafiz",
+    "matches": [
+      {
+        "keyword_a": "Environmental Pollution",
+        "keyword_b": "Computer Vision",
+        "rationale": "Developing computer vision-based systems to monitor and track environmental pollution, improving detection and response times."
+      }
+    ],
+    "weight": 0.3333333333333333
+  },
+  {
+    "source": "md-naimur-rahman",
+    "target": "shakib-mahmud-dipto",
+    "matches": [
+      {
+        "keyword_a": "Environmental Pollution",
+        "keyword_b": "Computer Vision",
+        "rationale": "Developing computer vision-based systems to monitor and track environmental pollution, improving detection and response times."
+      }
+    ],
+    "weight": 0.3333333333333333
+  }
+]

@@ -75,8 +75,9 @@ export default function InfoPage() {
           <li><a href="#similarity" className="hover:underline">2. Cosine similarity</a></li>
           <li><a href="#canonicalization" className="hover:underline">3. Keyword canonicalization</a></li>
           <li><a href="#edges" className="hover:underline">4. Graph edge weight &amp; top-K</a></li>
-          <li><a href="#match" className="hover:underline">5. Semantic search (/match)</a></li>
-          <li><a href="#models" className="hover:underline">6. Models used</a></li>
+          <li><a href="#cross-domain" className="hover:underline">5. Cross-disciplinary map</a></li>
+          <li><a href="#match" className="hover:underline">6. Semantic search (/match)</a></li>
+          <li><a href="#models" className="hover:underline">7. Models used</a></li>
         </ul>
       </nav>
 
@@ -168,7 +169,35 @@ export default function InfoPage() {
         </p>
       </Section>
 
-      <Section id="match" title="5. Semantic search (/match)">
+      <Section id="cross-domain" title="5. Cross-disciplinary collaboration map">
+        <p>
+          The main network graph and this one answer opposite questions. The main graph rewards{' '}
+          <em>topical closeness</em> — two people whose bios read similarly — which naturally
+          clusters by department, since people in the same field use similar terminology. That&rsquo;s
+          useful for finding a near-peer, but it can&rsquo;t surface something like &ldquo;AI/ML pairs
+          well with Linguistics&rdquo; or &ldquo;IoT pairs well with flood control&rdquo; — those
+          aren&rsquo;t textually similar at all, they&rsquo;re a{' '}
+          <em>method from one field applied to a problem in another</em>.
+        </p>
+        <p>
+          So this map uses a different, deliberately non-embedding signal: a curated table of
+          method&harr;domain pairings (<code className="bg-slate-100 px-1.5 py-0.5 rounded text-sm">data/domain_affinity.json</code>),
+          generated once by an LLM reasoning over the full canonical keyword vocabulary — not by
+          measuring text similarity. Two faculty in <strong>different</strong> departments get a
+          cross-disciplinary edge when one of them has a keyword on one side of a known-good
+          pairing and the other has the matching keyword on the other side.
+        </p>
+        <Formula>{`cross_edge(i, j) exists  iff  dept(i) ≠ dept(j)
+                    and ∃ (a, b) ∈ Affinity : a ∈ keywords(i), b ∈ keywords(j)`}</Formula>
+        <p className="text-sm text-slate-500">
+          The affinity table is a plain JSON file, so it can be hand-reviewed or extended directly
+          — it&rsquo;s a starting point, not a black box. Regenerating it re-runs the LLM pass over
+          the current taxonomy; rebuilding cross-disciplinary edges after that is instant (pure
+          lookup, no embedding calls).
+        </p>
+      </Section>
+
+      <Section id="match" title="6. Semantic search (/match)">
         <p>
           Typing a research interest into <em>Find Match</em> embeds your query text with the same
           model used for faculty profiles, then ranks every faculty member by cosine similarity
@@ -179,7 +208,7 @@ export default function InfoPage() {
         <Formula>{`rank(query) = sort_desc { sim(embed(query), embed(faculty_i)) : i ∈ faculty }`}</Formula>
       </Section>
 
-      <Section id="models" title="6. Models used">
+      <Section id="models" title="7. Models used">
         <div className="overflow-x-auto">
           <table className="w-full text-sm border border-slate-200 rounded-lg overflow-hidden">
             <thead className="bg-slate-100 text-slate-700">

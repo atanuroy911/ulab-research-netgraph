@@ -618,6 +618,52 @@ class ControlPanel(QMainWindow):
 
         v.addWidget(grp3)
 
+        # Cross-disciplinary map — a separate signal from the similarity graph above.
+        # Similarity rewards topical closeness (which clusters by department); this
+        # rewards complementarity (method from one field applied to a domain in another),
+        # via a curated affinity table generated once by the LLM over the taxonomy.
+        grp_cross = QGroupBox("Cross-Disciplinary Map")
+        gv_cross = QVBoxLayout(grp_cross)
+        gv_cross.addWidget(QLabel(
+            "Generates a method↔domain pairing table (e.g. Machine Learning ↔ Linguistics,\n"
+            "IoT ↔ Flood Control) via the LLM reasoning over the full keyword vocabulary, then\n"
+            "connects faculty in DIFFERENT departments whose keywords match a pairing. Shown on\n"
+            "its own 'Cross-Disciplinary' tab on the website, separate from the similarity graph."
+        ))
+
+        cross_row1 = QHBoxLayout()
+        cross_row1.addWidget(QLabel("Target pairs:"))
+        self.affinity_pairs_spin = QSpinBox()
+        self.affinity_pairs_spin.setRange(10, 300)
+        self.affinity_pairs_spin.setValue(50)
+        cross_row1.addWidget(self.affinity_pairs_spin)
+
+        gen_affinity_btn = QPushButton("\U0001f9e0 Generate Affinity Table")
+        gen_affinity_btn.setObjectName("sky")
+        gen_affinity_btn.setToolTip(
+            "Runs pipeline/build_domain_affinity.py using the model selected above. Overwrites\n"
+            "data/domain_affinity.json — hand-edit that file afterward to curate it further."
+        )
+        gen_affinity_btn.clicked.connect(self._run_generate_affinity)
+        cross_row1.addWidget(gen_affinity_btn)
+        cross_row1.addStretch()
+        gv_cross.addLayout(cross_row1)
+
+        cross_row2 = QHBoxLayout()
+        build_cross_edges_btn = QPushButton("\U0001f517 Rebuild Cross-Disciplinary Edges")
+        build_cross_edges_btn.setObjectName("green")
+        build_cross_edges_btn.setToolTip(
+            "Runs scripts/build-cross-domain-edges.mjs — instant, pure lookup against the\n"
+            "existing affinity table (no LLM calls). Run after editing domain_affinity.json\n"
+            "by hand, or after re-extracting/re-canonicalizing keywords."
+        )
+        build_cross_edges_btn.clicked.connect(self._run_build_cross_edges)
+        cross_row2.addWidget(build_cross_edges_btn)
+        cross_row2.addStretch()
+        gv_cross.addLayout(cross_row2)
+
+        v.addWidget(grp_cross)
+
         # LLM extraction versions — switch which archived model's keywords are "active"
         # (used by the graph/search/directory) without re-calling the LLM.
         grp4 = QGroupBox("LLM Extraction Versions")
@@ -717,6 +763,47 @@ class ControlPanel(QMainWindow):
         w1.finished.connect(run_embeddings)
         w1.start()
         self._canon_worker = w1
+
+    def _run_generate_affinity(self):
+        target_pairs = self.affinity_pairs_spin.value()
+        confirm = QMessageBox.question(
+            self, "Generate affinity table",
+            f"This calls the LLM ({self.model_combo.currentText()}) over the full keyword "
+            f"vocabulary to propose ~{target_pairs} cross-disciplinary pairings, overwriting "
+            f"data/domain_affinity.json. May take a few minutes. Continue?",
+        )
+        if confirm != QMessageBox.StandardButton.Yes:
+            return
+
+        env = {
+            "OLLAMA_MODEL": self.model_combo.currentText(),
+            "OLLAMA_URL": f"{self.url_edit.text().strip()}/api/generate",
+        }
+        cmd = [
+            sys.executable, os.path.join(BASE_DIR, "pipeline", "build_domain_affinity.py"),
+            "--target-pairs", str(target_pairs),
+        ]
+        self._log(f"--- Generating domain affinity table (~{target_pairs} pairs) ---")
+        w = ProcessWorker(cmd, BASE_DIR, env)
+        w.log.connect(self._log)
+        w.finished.connect(lambda rc: self._log(
+            "--- Affinity table generated. Now rebuild cross-disciplinary edges. ---"
+            if rc == 0 else "--- Affinity generation failed ---"
+        ))
+        w.start()
+        self._affinity_worker = w
+
+    def _run_build_cross_edges(self):
+        web_dir = os.path.join(BASE_DIR, "web")
+        npm = "npm.cmd" if os.name == "nt" else "npm"
+        self._log("--- Rebuilding cross-disciplinary edges ---")
+        w = ProcessWorker([npm, "run", "build-cross-domain-edges"], web_dir)
+        w.log.connect(self._log)
+        w.finished.connect(lambda rc: self._log(
+            "--- Cross-disciplinary edges rebuilt ---" if rc == 0 else "--- Rebuild failed ---"
+        ))
+        w.start()
+        self._cross_edges_worker = w
 
     def _run_graph_builder(self):
         sources = self._selected_keyword_sources()
