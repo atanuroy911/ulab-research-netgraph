@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { pipeline } from '@xenova/transformers';
+import { getSourceFilter, filterKeywords } from './keyword-source-filter.mjs';
 
 const BASE_DIR = path.join(process.cwd(), '..');
 const FACULTY_DIR = path.join(BASE_DIR, 'data', 'faculty');
@@ -12,6 +13,9 @@ function getCanonical(k) {
 }
 
 async function main() {
+  const sourceFilter = getSourceFilter();
+  if (sourceFilter) console.log(`Filtering keywords to sources: ${[...sourceFilter].join(', ')}`);
+
   const extractor = await pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2');
   const files = fs.readdirSync(FACULTY_DIR).filter((f) => f.endsWith('.json') && f !== 'example.json');
 
@@ -21,7 +25,7 @@ async function main() {
     const fac = JSON.parse(fs.readFileSync(filePath, 'utf8'));
 
     const bio = fac.bio_raw || '';
-    const canonical = (fac.extracted_keywords || []).map(getCanonical);
+    const canonical = filterKeywords(fac.extracted_keywords, sourceFilter).map(getCanonical);
     const text = `${bio} ${canonical.join(' ')}`.trim();
 
     let vec;

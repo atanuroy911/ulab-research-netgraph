@@ -7,6 +7,7 @@ import { X, ExternalLink, Search } from 'lucide-react';
 
 export default function NetworkGraph({ data }) {
   const fgRef = useRef();
+  const containerRef = useRef();
   const [dimensions, setDimensions] = useState({ width: 800, height: 600 });
   const [highlightNodes, setHighlightNodes] = useState(new Set());
   const [highlightLinks, setHighlightLinks] = useState(new Set());
@@ -38,11 +39,16 @@ export default function NetworkGraph({ data }) {
   }, [nameQuery, data.nodes]);
 
   useEffect(() => {
-    // Make graph responsive
+    // Size the graph to whatever vertical/horizontal space is actually left below its
+    // top offset, instead of guessing a fixed navbar/header height (which drifted out of
+    // sync with the real layout and pushed the graph — and its legend — below the fold).
     const updateDimensions = () => {
+      if (!containerRef.current) return;
+      const rect = containerRef.current.getBoundingClientRect();
+      const availableHeight = window.innerHeight - rect.top - 24; // 24px bottom breathing room
       setDimensions({
-        width: window.innerWidth,
-        height: window.innerHeight - 100 // Subtract navbar and rough padding
+        width: rect.width,
+        height: Math.max(availableHeight, 400),
       });
     };
 
@@ -142,10 +148,10 @@ export default function NetworkGraph({ data }) {
   }, [highlightNodes, hoverNode, activeNodeIds, selectedNode]);
 
   return (
-    <div className="relative border border-slate-200 bg-white rounded-lg overflow-hidden shadow-sm">
+    <div ref={containerRef} className="relative border border-slate-200 bg-white rounded-lg overflow-hidden shadow-sm">
       <ForceGraph2D
         ref={fgRef}
-        width={dimensions.width - 64} // subtract container padding
+        width={dimensions.width}
         height={dimensions.height}
         graphData={data}
         nodeLabel="name"

@@ -1,48 +1,41 @@
 [
   {
     "source": "a-f-m-moniruzzaman-shipu",
-    "target": "nibras-bin-sayed",
-    "shared_keywords": [
-      "Visual Arts"
-    ],
-    "weight": 0.43455620904406256
-  },
-  {
-    "source": "a-f-m-moniruzzaman-shipu",
     "target": "muhammad-aminuzzaman",
     "shared_keywords": [],
     "weight": 0.4207014786220855
   },
   {
     "source": "a-f-m-moniruzzaman-shipu",
-    "target": "andalib-rubayat",
-    "shared_keywords": [
-      "Film Studies"
-    ],
-    "weight": 0.4143634618078741
-  },
-  {
-    "source": "a-f-m-moniruzzaman-shipu",
-    "target": "mohammad-shazzad-hossain",
-    "shared_keywords": [
-      "New Media",
-      "Film Studies"
-    ],
-    "weight": 0.40785698324023256
-  },
-  {
-    "source": "a-f-m-moniruzzaman-shipu",
     "target": "bikash-ch-bhowmick",
     "shared_keywords": [
-      "Cinema Studies"
+      "Media Studies"
     ],
     "weight": 0.3906096861134481
+  },
+  {
+    "source": "a-f-m-moniruzzaman-shipu",
+    "target": "nibras-bin-sayed",
+    "shared_keywords": [],
+    "weight": 0.37455620904406256
   },
   {
     "source": "a-f-m-moniruzzaman-shipu",
     "target": "mrittika-kamal",
     "shared_keywords": [],
     "weight": 0.3654280646433454
+  },
+  {
+    "source": "a-f-m-moniruzzaman-shipu",
+    "target": "md-didarul-islam",
+    "shared_keywords": [],
+    "weight": 0.3570038761522191
+  },
+  {
+    "source": "a-f-m-moniruzzaman-shipu",
+    "target": "andalib-rubayat",
+    "shared_keywords": [],
+    "weight": 0.3543634618078741
   },
   {
     "source": "a-f-wazir-ahmad-phd",
@@ -70,17 +63,15 @@
   },
   {
     "source": "a-f-wazir-ahmad-phd",
-    "target": "shajedul-alam",
-    "shared_keywords": [
-      "Financial Accounting"
-    ],
-    "weight": 0.4079533219158668
-  },
-  {
-    "source": "a-f-wazir-ahmad-phd",
     "target": "md-abedullah",
     "shared_keywords": [],
     "weight": 0.4061390725034995
+  },
+  {
+    "source": "a-f-wazir-ahmad-phd",
+    "target": "shamsuddin-ahamad-phd",
+    "shared_keywords": [],
+    "weight": 0.3914695535691357
   },
   {
     "source": "a-o-m-shamsuddoha",
@@ -120,6 +111,14 @@
   },
   {
     "source": "abdullah-al-mahmud-phd",
+    "target": "mahmud-hasan-khan-phd",
+    "shared_keywords": [
+      "Discourse Analysis"
+    ],
+    "weight": 0.5596573545734316
+  },
+  {
+    "source": "abdullah-al-mahmud-phd",
     "target": "iram-mehrin",
     "shared_keywords": [
       "Applied Linguistics",
@@ -149,12 +148,6 @@
   },
   {
     "source": "abdullah-al-mahmud-phd",
-    "target": "mahmud-hasan-khan-phd",
-    "shared_keywords": [],
-    "weight": 0.4996573545734316
-  },
-  {
-    "source": "abdullah-al-mahmud-phd",
     "target": "mahmudun-nabi-phd",
     "shared_keywords": [],
     "weight": 0.48166989216233885
@@ -167,6 +160,24 @@
       "Cultural Studies"
     ],
     "weight": 0.5388126106132489
+  },
+  {
+    "source": "abdur-rahman-jidan",
+    "target": "dil-afroz-jahan",
+    "shared_keywords": [
+      "Cultural Studies",
+      "South Asian Studies"
+    ],
+    "weight": 0.5199471970253604
+  },
+  {
+    "source": "abdur-rahman-jidan",
+    "target": "arifa-ghani-rahman",
+    "shared_keywords": [
+      "Comparative Literature",
+      "Cultural Studies"
+    ],
+    "weight": 0.5072710107834582
   },
   {
     "source": "abdur-rahman-jidan",
@@ -187,20 +198,6 @@
     "target": "shirin-akter",
     "shared_keywords": [],
     "weight": 0.4824588195719356
-  },
-  {
-    "source": "abdur-rahman-jidan",
-    "target": "md-didarul-islam",
-    "shared_keywords": [],
-    "weight": 0.467255189341515
-  },
-  {
-    "source": "abdur-rahman-jidan",
-    "target": "dil-afroz-jahan",
-    "shared_keywords": [
-      "Cultural Studies"
-    ],
-    "weight": 0.4599471970253604
   },
   {
     "source": "abir-bin-yousuf",
@@ -235,8 +232,8 @@
     "source": "abir-bin-yousuf",
     "target": "sovon-chakraborty",
     "shared_keywords": [
-      "CNN",
-      "NLP"
+      "NLP",
+      "CNN"
     ],
     "weight": 0.5000921599272501
   },
@@ -244,10 +241,9 @@
     "source": "abir-bin-yousuf",
     "target": "dewan-ahmed-muhtasim",
     "shared_keywords": [
-      "Machine Learning",
       "Computer Vision"
     ],
-    "weight": 0.4952025917190396
+    "weight": 0.4352025917190396
   },
   {
     "source": "abir-bin-yousuf",
@@ -261,31 +257,35 @@
   },
   {
     "source": "abu-saleh-mohammad-rafi-phd",
-    "target": "mohammad-mosiur-rahman",
-    "shared_keywords": [],
-    "weight": 0.5337527530372543
-  },
-  {
-    "source": "abu-saleh-mohammad-rafi-phd",
     "target": "iram-mehrin",
     "shared_keywords": [
-      "Applied Linguistics"
+      "Applied Linguistics",
+      "Sociolinguistics"
     ],
-    "weight": 0.5112602717162504
+    "weight": 0.5712602717162505
   },
   {
     "source": "abu-saleh-mohammad-rafi-phd",
     "target": "al-mahmud-rumman",
     "shared_keywords": [
-      "Translanguaging Pedagogies"
+      "Translanguaging Pedagogies",
+      "Sociolinguistics"
     ],
-    "weight": 0.48657368161311343
+    "weight": 0.5465736816131135
   },
   {
     "source": "abu-saleh-mohammad-rafi-phd",
     "target": "mahmud-hasan-khan-phd",
+    "shared_keywords": [
+      "Sociolinguistics"
+    ],
+    "weight": 0.5412614727553533
+  },
+  {
+    "source": "abu-saleh-mohammad-rafi-phd",
+    "target": "mohammad-mosiur-rahman",
     "shared_keywords": [],
-    "weight": 0.48126147275535325
+    "weight": 0.5337527530372543
   },
   {
     "source": "abu-saleh-mohammad-rafi-phd",
@@ -295,15 +295,34 @@
   },
   {
     "source": "afsana-anjum",
+    "target": "dil-afroz-jahan",
+    "shared_keywords": [
+      "Development Studies",
+      "History"
+    ],
+    "weight": 0.579661361619855
+  },
+  {
+    "source": "afsana-anjum",
     "target": "asma-royhana-sarkar",
     "shared_keywords": [],
     "weight": 0.4717211115130242
   },
   {
+    "source": "abdur-rahman-jidan",
+    "target": "afsana-anjum",
+    "shared_keywords": [
+      "Comparative Literature"
+    ],
+    "weight": 0.4426237989749861
+  },
+  {
     "source": "afsana-anjum",
-    "target": "dil-afroz-jahan",
-    "shared_keywords": [],
-    "weight": 0.45966136161985505
+    "target": "sadia-afrin",
+    "shared_keywords": [
+      "Comparative Literature"
+    ],
+    "weight": 0.4417694906598331
   },
   {
     "source": "afsana-anjum",
@@ -313,21 +332,11 @@
   },
   {
     "source": "afsana-anjum",
-    "target": "prof-shahnaj-husne-jahan-phd",
-    "shared_keywords": [],
-    "weight": 0.42620593694916126
-  },
-  {
-    "source": "afsana-anjum",
-    "target": "ahmed-sharif",
-    "shared_keywords": [],
-    "weight": 0.42590115017893987
-  },
-  {
-    "source": "afsana-anjum",
-    "target": "m-shahidul-islam-khondaker",
-    "shared_keywords": [],
-    "weight": 0.40357487986209944
+    "target": "arifa-ghani-rahman",
+    "shared_keywords": [
+      "Comparative Literature"
+    ],
+    "weight": 0.4286295444263371
   },
   {
     "source": "ahmed-abidur-razzaque-khan-phd",
@@ -362,16 +371,26 @@
     "weight": 0.4327536940236249
   },
   {
-    "source": "ahmed-abidur-razzaque-khan-phd",
-    "target": "prof-jude-wr-genilo-phd",
-    "shared_keywords": [],
-    "weight": 0.424184183428037
+    "source": "afsana-anjum",
+    "target": "ahmed-abidur-razzaque-khan-phd",
+    "shared_keywords": [
+      "Development Studies"
+    ],
+    "weight": 0.42796926203892705
   },
   {
     "source": "ahmed-al-hasan",
     "target": "t-m-abul-kalam-azad-phd",
     "shared_keywords": [],
     "weight": 0.44420474117107345
+  },
+  {
+    "source": "ahmed-al-hasan",
+    "target": "md-ahsan-ullah",
+    "shared_keywords": [
+      "Mathematical Modeling"
+    ],
+    "weight": 0.4137605451798299
   },
   {
     "source": "ahmed-al-hasan",
@@ -400,16 +419,16 @@
     "weight": 0.3543098579924365
   },
   {
-    "source": "ahmed-al-hasan",
-    "target": "md-ahsan-ullah",
-    "shared_keywords": [],
-    "weight": 0.3537605451798299
-  },
-  {
     "source": "ahmed-sharif",
     "target": "prof-shahnaj-husne-jahan-phd",
     "shared_keywords": [],
     "weight": 0.5187468521269945
+  },
+  {
+    "source": "afsana-anjum",
+    "target": "ahmed-sharif",
+    "shared_keywords": [],
+    "weight": 0.42590115017893987
   },
   {
     "source": "ahmed-sharif",
@@ -479,14 +498,6 @@
   },
   {
     "source": "amiya-sadnam-chowdhury",
-    "target": "rajia-sultana",
-    "shared_keywords": [
-      "Department of English"
-    ],
-    "weight": 0.467309879794819
-  },
-  {
-    "source": "amiya-sadnam-chowdhury",
     "target": "neha-ghose",
     "shared_keywords": [
       "Cultural Studies"
@@ -503,6 +514,14 @@
   },
   {
     "source": "amiya-sadnam-chowdhury",
+    "target": "arifa-ghani-rahman",
+    "shared_keywords": [
+      "Cultural Studies"
+    ],
+    "weight": 0.4325631362948472
+  },
+  {
+    "source": "amiya-sadnam-chowdhury",
     "target": "nadia-rahman",
     "shared_keywords": [],
     "weight": 0.42709784734154455
@@ -512,14 +531,6 @@
     "target": "jahanara-tariq",
     "shared_keywords": [],
     "weight": 0.4199512475527758
-  },
-  {
-    "source": "andalib-rubayat",
-    "target": "bikash-ch-bhowmick",
-    "shared_keywords": [
-      "Media Studies and Journalism"
-    ],
-    "weight": 0.4137501901645525
   },
   {
     "source": "andalib-rubayat",
@@ -540,6 +551,12 @@
     "target": "muhammad-aminuzzaman",
     "shared_keywords": [],
     "weight": 0.36640680441538775
+  },
+  {
+    "source": "andalib-rubayat",
+    "target": "bikash-ch-bhowmick",
+    "shared_keywords": [],
+    "weight": 0.3537501901645525
   },
   {
     "source": "andalib-rubayat",
@@ -610,10 +627,12 @@
     "weight": 0.37080923124539694
   },
   {
-    "source": "anika-tahsin",
-    "target": "nadia-rahman",
-    "shared_keywords": [],
-    "weight": 0.3675445026432514
+    "source": "amiya-sadnam-chowdhury",
+    "target": "anika-tahsin",
+    "shared_keywords": [
+      "English Literature"
+    ],
+    "weight": 0.3691111067105984
   },
   {
     "source": "a-f-m-moniruzzaman-shipu",
@@ -653,39 +672,43 @@
   },
   {
     "source": "arifa-ghani-rahman",
+    "target": "nusrat-tajkia",
+    "shared_keywords": [
+      "Translation Studies",
+      "Cultural Studies",
+      "Comparative Literature"
+    ],
+    "weight": 0.5118526574454199
+  },
+  {
+    "source": "arifa-ghani-rahman",
     "target": "nadia-rahman",
     "shared_keywords": [],
     "weight": 0.476779715291972
   },
   {
     "source": "arifa-ghani-rahman",
-    "target": "mahmudun-nabi-phd",
-    "shared_keywords": [],
-    "weight": 0.4483852263019692
-  },
-  {
-    "source": "abdullah-al-mahmud-phd",
-    "target": "arifa-ghani-rahman",
-    "shared_keywords": [],
-    "weight": 0.43340443578654475
+    "target": "sadia-afrin",
+    "shared_keywords": [
+      "Comparative Literature"
+    ],
+    "weight": 0.4592309965959945
   },
   {
     "source": "arifa-ghani-rahman",
-    "target": "md-mahadhi-hasan-phd",
-    "shared_keywords": [],
-    "weight": 0.4276274260205827
+    "target": "neha-ghose",
+    "shared_keywords": [
+      "Cultural Studies"
+    ],
+    "weight": 0.4591909444164565
   },
   {
     "source": "arifa-ghani-rahman",
-    "target": "harunur-rashid-khan",
-    "shared_keywords": [],
-    "weight": 0.4183953975415448
-  },
-  {
-    "source": "arifa-ghani-rahman",
-    "target": "habibun-nahar",
-    "shared_keywords": [],
-    "weight": 0.4147838793898214
+    "target": "susmita-sangeeta-mridha",
+    "shared_keywords": [
+      "Comparative Literature"
+    ],
+    "weight": 0.4505515743997338
   },
   {
     "source": "arwin-ahmad-mitu",
@@ -726,15 +749,6 @@
     "weight": 0.4388905068940758
   },
   {
-    "source": "arwin-ahmad-mitu",
-    "target": "arzoo-ismail",
-    "shared_keywords": [
-      "Gender Studies",
-      "Educational Management"
-    ],
-    "weight": 0.42705679798514407
-  },
-  {
     "source": "arzoo-ismail",
     "target": "mohammad-shazzad-hossain",
     "shared_keywords": [
@@ -744,31 +758,39 @@
   },
   {
     "source": "arzoo-ismail",
+    "target": "prof-milan-kumar-bhattacharjee",
+    "shared_keywords": [
+      "Human Resource Management"
+    ],
+    "weight": 0.39406904832458645
+  },
+  {
+    "source": "arzoo-ismail",
+    "target": "barrister-nafia-haque",
+    "shared_keywords": [
+      "Gender Studies"
+    ],
+    "weight": 0.39162193154643893
+  },
+  {
+    "source": "arzoo-ismail",
     "target": "oeshwik-ahmed",
     "shared_keywords": [],
     "weight": 0.39021397649210426
+  },
+  {
+    "source": "arwin-ahmad-mitu",
+    "target": "arzoo-ismail",
+    "shared_keywords": [
+      "Gender Studies"
+    ],
+    "weight": 0.36705679798514407
   },
   {
     "source": "arzoo-ismail",
     "target": "sheikh-nahiyan",
     "shared_keywords": [],
     "weight": 0.3614801416678961
-  },
-  {
-    "source": "arzoo-ismail",
-    "target": "asma-royhana-sarkar",
-    "shared_keywords": [
-      "Higher Education"
-    ],
-    "weight": 0.3605106471220282
-  },
-  {
-    "source": "arzoo-ismail",
-    "target": "sadia-afrin",
-    "shared_keywords": [
-      "Gender Studies"
-    ],
-    "weight": 0.3419252610804538
   },
   {
     "source": "ashfaque-e-alam",
@@ -796,15 +818,25 @@
   },
   {
     "source": "ashfaque-e-alam",
+    "target": "sabrina-luthfa-phd",
+    "shared_keywords": [
+      "Sustainability"
+    ],
+    "weight": 0.27224474046410996
+  },
+  {
+    "source": "ashfaque-e-alam",
     "target": "md-kamal-uddin-phd",
     "shared_keywords": [],
     "weight": 0.26770033121633446
   },
   {
-    "source": "ashfaque-e-alam",
-    "target": "md-kaviul-hossain",
-    "shared_keywords": [],
-    "weight": 0.25275209811940524
+    "source": "ashraful-kadir-phd",
+    "target": "mst-taskia-khatun-phd",
+    "shared_keywords": [
+      "Agentic AI Systems"
+    ],
+    "weight": 0.4581844623028674
   },
   {
     "source": "ashraful-kadir-phd",
@@ -829,12 +861,6 @@
     "target": "ifat-al%C2%A0baqee-phd%C2%A0",
     "shared_keywords": [],
     "weight": 0.40089414764653303
-  },
-  {
-    "source": "ashraful-kadir-phd",
-    "target": "mst-taskia-khatun-phd",
-    "shared_keywords": [],
-    "weight": 0.3981844623028674
   },
   {
     "source": "ashraful-kadir-phd",
@@ -874,39 +900,62 @@
   },
   {
     "source": "atanu-shuvam-roy",
-    "target": "md-kaviul-hossain",
-    "shared_keywords": [],
-    "weight": 0.40287737078684505
-  },
-  {
-    "source": "atanu-shuvam-roy",
-    "target": "md-nazmul-abdal",
-    "shared_keywords": [],
-    "weight": 0.3875260769712184
-  },
-  {
-    "source": "atanu-shuvam-roy",
     "target": "khan-raqib-mahmud",
-    "shared_keywords": [],
-    "weight": 0.3782917643818676
-  },
-  {
-    "source": "atanu-shuvam-roy",
-    "target": "dewan-ahmed-muhtasim",
-    "shared_keywords": [],
-    "weight": 0.3760980828693028
+    "shared_keywords": [
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "weight": 0.4982917643818676
   },
   {
     "source": "atanu-shuvam-roy",
     "target": "shakib-mahmud-dipto",
-    "shared_keywords": [],
-    "weight": 0.3736174417155859
+    "shared_keywords": [
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "weight": 0.4936174417155859
   },
   {
     "source": "atanu-shuvam-roy",
-    "target": "sovon-chakraborty",
-    "shared_keywords": [],
-    "weight": 0.3691023323739388
+    "target": "md-kaviul-hossain",
+    "shared_keywords": [
+      "IoT"
+    ],
+    "weight": 0.46287737078684504
+  },
+  {
+    "source": "atanu-shuvam-roy",
+    "target": "md-nazmul-abdal",
+    "shared_keywords": [
+      "Deep Learning"
+    ],
+    "weight": 0.4475260769712184
+  },
+  {
+    "source": "atanu-shuvam-roy",
+    "target": "dewan-ahmed-muhtasim",
+    "shared_keywords": [
+      "Computer Vision"
+    ],
+    "weight": 0.4360980828693028
+  },
+  {
+    "source": "abir-bin-yousuf",
+    "target": "atanu-shuvam-roy",
+    "shared_keywords": [
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "weight": 0.43236256567038245
+  },
+  {
+    "source": "atanu-shuvam-roy",
+    "target": "atik-jawad",
+    "shared_keywords": [
+      "Deep Learning"
+    ],
+    "weight": 0.3466932177782189
   },
   {
     "source": "atik-jawad",
@@ -941,12 +990,6 @@
     "weight": 0.295410075326093
   },
   {
-    "source": "atik-jawad",
-    "target": "md-zesun-ahmed-mia",
-    "shared_keywords": [],
-    "weight": 0.29472400519871617
-  },
-  {
     "source": "ayesha-akter-lata-phd",
     "target": "nafees-mansoor-phd",
     "shared_keywords": [],
@@ -966,14 +1009,6 @@
   },
   {
     "source": "ayesha-akter-lata-phd",
-    "target": "dewan-ahmed-muhtasim",
-    "shared_keywords": [
-      "Image Processing"
-    ],
-    "weight": 0.3555075475810066
-  },
-  {
-    "source": "ayesha-akter-lata-phd",
     "target": "shakib-mahmud-dipto",
     "shared_keywords": [],
     "weight": 0.34541584163424793
@@ -985,6 +1020,12 @@
       "Image Processing"
     ],
     "weight": 0.33334109515512417
+  },
+  {
+    "source": "ayesha-akter-lata-phd",
+    "target": "rabiul-islam-jony",
+    "shared_keywords": [],
+    "weight": 0.32341749058418917
   },
   {
     "source": "barrister-nafia-haque",
@@ -1012,15 +1053,11 @@
   },
   {
     "source": "barrister-nafia-haque",
-    "target": "naima-khatun",
-    "shared_keywords": [],
-    "weight": 0.3747303144922204
-  },
-  {
-    "source": "barrister-nafia-haque",
-    "target": "faisal-mohammad-shahriar",
-    "shared_keywords": [],
-    "weight": 0.3718264387623513
+    "target": "dil-afroz-jahan",
+    "shared_keywords": [
+      "Gender Studies"
+    ],
+    "weight": 0.3788481869788842
   },
   {
     "source": "a-f-m-moniruzzaman-shipu",
@@ -1173,18 +1210,29 @@
     "weight": 0.3910567658228152
   },
   {
-    "source": "bijan-paul",
-    "target": "rabiul-islam-jony",
-    "shared_keywords": [],
-    "weight": 0.37806313407351977
+    "source": "atanu-shuvam-roy",
+    "target": "bijan-paul",
+    "shared_keywords": [
+      "IoT"
+    ],
+    "weight": 0.380576943779258
   },
   {
     "source": "bikash-ch-bhowmick",
     "target": "laboni-akter",
     "shared_keywords": [
-      "Cinema Studies"
+      "South Asian Cinema"
     ],
     "weight": 0.47864394897120105
+  },
+  {
+    "source": "bikash-ch-bhowmick",
+    "target": "mahmudun-nabi-phd",
+    "shared_keywords": [
+      "Media Studies",
+      "Journalism"
+    ],
+    "weight": 0.47069572729369075
   },
   {
     "source": "bikash-ch-bhowmick",
@@ -1194,17 +1242,9 @@
   },
   {
     "source": "bikash-ch-bhowmick",
-    "target": "dil-afroz-jahan",
-    "shared_keywords": [
-      "Cultural Studies"
-    ],
-    "weight": 0.41845587609606155
-  },
-  {
-    "source": "bikash-ch-bhowmick",
     "target": "neha-ghose",
     "shared_keywords": [
-      "Cultural Studies"
+      "Audience Studies"
     ],
     "weight": 0.4181002730954144
   },
@@ -1215,97 +1255,96 @@
     "weight": 0.4111178981491707
   },
   {
+    "source": "bikash-ch-bhowmick",
+    "target": "sarkar-barbaq-quarmal-phd",
+    "shared_keywords": [],
+    "weight": 0.40319091414666763
+  },
+  {
     "source": "debolina-halder-lina",
     "target": "foysal-ahmed",
     "shared_keywords": [
       "Machine Learning",
+      "Computer Science",
       "CSE"
     ],
-    "weight": 0.4823857260152997
-  },
-  {
-    "source": "debolina-halder-lina",
-    "target": "shakib-mahmud-dipto",
-    "shared_keywords": [
-      "Artificial Intelligence",
-      "Machine Learning"
-    ],
-    "weight": 0.45853762468600945
-  },
-  {
-    "source": "debolina-halder-lina",
-    "target": "dewan-ahmed-muhtasim",
-    "shared_keywords": [
-      "Artificial Intelligence",
-      "Machine Learning"
-    ],
-    "weight": 0.4474170358884748
-  },
-  {
-    "source": "debolina-halder-lina",
-    "target": "md-nazmul-abdal",
-    "shared_keywords": [
-      "Machine Learning"
-    ],
-    "weight": 0.4200896062366094
+    "weight": 0.5423857260152998
   },
   {
     "source": "debolina-halder-lina",
     "target": "fatema-khan",
     "shared_keywords": [
-      "Machine Learning"
+      "Machine Learning",
+      "Computer Science Engineering"
     ],
-    "weight": 0.4161821289825157
+    "weight": 0.4761821289825157
   },
   {
     "source": "debolina-halder-lina",
     "target": "khan-raqib-mahmud",
     "shared_keywords": [
       "Artificial Intelligence",
-      "Machine Learning"
+      "Machine Learning",
+      "Data Science"
     ],
-    "weight": 0.41488671381178
+    "weight": 0.47488671381178
+  },
+  {
+    "source": "debolina-halder-lina",
+    "target": "md-ahsan-ullah",
+    "shared_keywords": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "weight": 0.468379390220954
+  },
+  {
+    "source": "debolina-halder-lina",
+    "target": "raihan-kibria",
+    "shared_keywords": [
+      "ML"
+    ],
+    "weight": 0.46234809749973993
+  },
+  {
+    "source": "debolina-halder-lina",
+    "target": "ms-rubaiya-hafiz",
+    "shared_keywords": [
+      "ML"
+    ],
+    "weight": 0.45882999490207355
   },
   {
     "source": "dewan-ahmed-muhtasim",
     "target": "shakib-mahmud-dipto",
     "shared_keywords": [
-      "Artificial Intelligence",
-      "Machine Learning",
       "Computer Vision"
     ],
-    "weight": 0.6523786109493661
+    "weight": 0.5323786109493662
+  },
+  {
+    "source": "dewan-ahmed-muhtasim",
+    "target": "dewan-shahnoor-alam-sourav",
+    "shared_keywords": [
+      "Artificial Intelligence (AI)"
+    ],
+    "weight": 0.4196837944513376
   },
   {
     "source": "dewan-ahmed-muhtasim",
     "target": "md-ahsan-ullah",
     "shared_keywords": [
-      "Machine Learning",
-      "Computer Vision",
-      "Image Processing",
-      "Data Science"
+      "Computer Vision"
     ],
-    "weight": 0.5909690030050071
-  },
-  {
-    "source": "dewan-ahmed-muhtasim",
-    "target": "khan-raqib-mahmud",
-    "shared_keywords": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Computer Vision",
-      "Data Science"
-    ],
-    "weight": 0.5631110746222172
+    "weight": 0.4109690030050071
   },
   {
     "source": "dewan-ahmed-muhtasim",
     "target": "md-kaviul-hossain",
     "shared_keywords": [
-      "Machine Learning",
       "Neural Networks"
     ],
-    "weight": 0.46313933396962237
+    "weight": 0.40313933396962237
   },
   {
     "source": "dewan-shahnoor-alam-sourav",
@@ -1336,12 +1375,6 @@
     "target": "mohammad-shazzad-hossain",
     "shared_keywords": [],
     "weight": 0.4048069015058469
-  },
-  {
-    "source": "dewan-shahnoor-alam-sourav",
-    "target": "din-m-sumon-rahman-phd",
-    "shared_keywords": [],
-    "weight": 0.3997432552370288
   },
   {
     "source": "dil-afroz-jahan",
@@ -1586,12 +1619,12 @@
     "weight": 0.4286872428612694
   },
   {
-    "source": "amiya-sadnam-chowdhury",
+    "source": "abdur-rahman-jidan",
     "target": "farisa-khalid-phd",
     "shared_keywords": [
       "Literary Studies"
     ],
-    "weight": 0.3773973050383287
+    "weight": 0.3910605309083609
   },
   {
     "source": "farisa-khalid-phd",
@@ -1612,10 +1645,10 @@
     "weight": 0.33994832389234897
   },
   {
-    "source": "abdur-rahman-jidan",
-    "target": "farisa-khalid-phd",
+    "source": "farisa-khalid-phd",
+    "target": "jahanara-tariq",
     "shared_keywords": [],
-    "weight": 0.3310605309083609
+    "weight": 0.32992710954513266
   },
   {
     "source": "fatema-khan",
@@ -1651,12 +1684,14 @@
     "weight": 0.43820649768150816
   },
   {
-    "source": "fatema-khan",
-    "target": "md-nazmul-abdal",
+    "source": "abir-bin-yousuf",
+    "target": "fatema-khan",
     "shared_keywords": [
-      "Machine Learning"
+      "Machine Learning",
+      "NLP",
+      "Computer Science Engineering"
     ],
-    "weight": 0.3927200995172199
+    "weight": 0.39496965635076375
   },
   {
     "source": "foysal-ahmed",
@@ -1851,6 +1886,14 @@
       "IoT"
     ],
     "weight": 0.41959313632510864
+  },
+  {
+    "source": "atanu-shuvam-roy",
+    "target": "ifat-al%C2%A0baqee-phd%C2%A0",
+    "shared_keywords": [
+      "IoT"
+    ],
+    "weight": 0.41412485065191124
   },
   {
     "source": "ifat-al%C2%A0baqee-phd%C2%A0",
@@ -2288,10 +2331,10 @@
     "weight": 0.465211704942994
   },
   {
-    "source": "mahmudun-nabi-phd",
-    "target": "md-mahadhi-hasan-phd",
+    "source": "arifa-ghani-rahman",
+    "target": "mahmudun-nabi-phd",
     "shared_keywords": [],
-    "weight": 0.44569675941541276
+    "weight": 0.4483852263019692
   },
   {
     "source": "mainul-haque",
@@ -2301,6 +2344,15 @@
       "VLSI"
     ],
     "weight": 0.43596821937808006
+  },
+  {
+    "source": "debolina-halder-lina",
+    "target": "mainul-haque",
+    "shared_keywords": [
+      "AI",
+      "ML"
+    ],
+    "weight": 0.43064057025349095
   },
   {
     "source": "mainul-haque",
@@ -2323,12 +2375,6 @@
     "target": "md-mahadhi-hasan-phd",
     "shared_keywords": [],
     "weight": 0.34601944208000646
-  },
-  {
-    "source": "mainul-haque",
-    "target": "mohammad-shazzad-hossain",
-    "shared_keywords": [],
-    "weight": 0.33308099494132276
   },
   {
     "source": "md-abedullah",
@@ -2380,14 +2426,6 @@
     "weight": 0.5152870213112148
   },
   {
-    "source": "debolina-halder-lina",
-    "target": "md-ahsan-ullah",
-    "shared_keywords": [
-      "Machine Learning"
-    ],
-    "weight": 0.408379390220954
-  },
-  {
     "source": "md-al-amin-sheikh-phd",
     "target": "shakib-mahmud-dipto",
     "shared_keywords": [
@@ -2395,15 +2433,6 @@
       "Machine Learning"
     ],
     "weight": 0.4536156121770171
-  },
-  {
-    "source": "dewan-ahmed-muhtasim",
-    "target": "md-al-amin-sheikh-phd",
-    "shared_keywords": [
-      "Artificial Intelligence",
-      "Machine Learning"
-    ],
-    "weight": 0.4315350887517437
   },
   {
     "source": "md-ahsan-ullah",
@@ -2433,6 +2462,15 @@
     "target": "md-mahadhi-hasan-phd",
     "shared_keywords": [],
     "weight": 0.3569321574675214
+  },
+  {
+    "source": "debolina-halder-lina",
+    "target": "md-al-amin-sheikh-phd",
+    "shared_keywords": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "weight": 0.34241131716568446
   },
   {
     "source": "md-aminul-islam",
@@ -2541,6 +2579,12 @@
     "target": "rabiul-islam-jony",
     "shared_keywords": [],
     "weight": 0.1569008859787121
+  },
+  {
+    "source": "abdur-rahman-jidan",
+    "target": "md-didarul-islam",
+    "shared_keywords": [],
+    "weight": 0.467255189341515
   },
   {
     "source": "md-didarul-islam",
@@ -2770,12 +2814,6 @@
     "weight": 0.4935821175664506
   },
   {
-    "source": "md-nazmul-abdal",
-    "target": "sovon-chakraborty",
-    "shared_keywords": [],
-    "weight": 0.4262606516856829
-  },
-  {
     "source": "md-sharafat-chowdhury",
     "target": "ms-tahura-farbin",
     "shared_keywords": [
@@ -2849,16 +2887,18 @@
     "weight": 0.4184150210259967
   },
   {
+    "source": "debolina-halder-lina",
+    "target": "md-zesun-ahmed-mia",
+    "shared_keywords": [
+      "ML"
+    ],
+    "weight": 0.4132755058891534
+  },
+  {
     "source": "md-zesun-ahmed-mia",
     "target": "rabiul-islam-jony",
     "shared_keywords": [],
     "weight": 0.38000233733820954
-  },
-  {
-    "source": "md-zesun-ahmed-mia",
-    "target": "rukhsana-choudhury",
-    "shared_keywords": [],
-    "weight": 0.37851366390507335
   },
   {
     "source": "mehek-chowdhury",
@@ -2929,6 +2969,14 @@
     "weight": 0.38960505008634555
   },
   {
+    "source": "debolina-halder-lina",
+    "target": "mohaimenul-islam-jowarder",
+    "shared_keywords": [
+      "AI"
+    ],
+    "weight": 0.356042445523925
+  },
+  {
     "source": "habibun-nahar",
     "target": "mohaimenul-islam-jowarder",
     "shared_keywords": [],
@@ -2959,12 +3007,6 @@
     "target": "shamsuddin-ahamad-phd",
     "shared_keywords": [],
     "weight": 0.31725217109120724
-  },
-  {
-    "source": "mohaimenul-islam-jowarder",
-    "target": "prof-muhammad-golam-kibria-phd-smieee",
-    "shared_keywords": [],
-    "weight": 0.3160538929947523
   },
   {
     "source": "mahmudun-nabi-phd",
@@ -3062,12 +3104,6 @@
     "weight": 0.3989485822326303
   },
   {
-    "source": "debolina-halder-lina",
-    "target": "ms-rubaiya-hafiz",
-    "shared_keywords": [],
-    "weight": 0.39882999490207355
-  },
-  {
     "source": "ms-rubaiya-hafiz",
     "target": "rabiul-islam-jony",
     "shared_keywords": [],
@@ -3100,16 +3136,18 @@
     "weight": 0.3920408037080771
   },
   {
+    "source": "debolina-halder-lina",
+    "target": "mst-taskia-khatun-phd",
+    "shared_keywords": [
+      "Data Science"
+    ],
+    "weight": 0.43842026965961334
+  },
+  {
     "source": "mst-taskia-khatun-phd",
     "target": "raihan-kibria",
     "shared_keywords": [],
     "weight": 0.42443865937303066
-  },
-  {
-    "source": "debolina-halder-lina",
-    "target": "mst-taskia-khatun-phd",
-    "shared_keywords": [],
-    "weight": 0.37842026965961334
   },
   {
     "source": "ifat-al%C2%A0baqee-phd%C2%A0",
@@ -3118,18 +3156,16 @@
     "weight": 0.374237774164104
   },
   {
-    "source": "dewan-ahmed-muhtasim",
-    "target": "mst-taskia-khatun-phd",
-    "shared_keywords": [
-      "Data Science"
-    ],
-    "weight": 0.37215226794045153
-  },
-  {
     "source": "mst-taskia-khatun-phd",
     "target": "prof-muhammad-golam-kibria-phd-smieee",
     "shared_keywords": [],
     "weight": 0.3713872052885185
+  },
+  {
+    "source": "md-mahadhi-hasan-phd",
+    "target": "mst-taskia-khatun-phd",
+    "shared_keywords": [],
+    "weight": 0.35991390934585255
   },
   {
     "source": "muhammad-aminuzzaman",
@@ -3476,6 +3512,12 @@
     "weight": 0.40523555814436224
   },
   {
+    "source": "neha-ghose",
+    "target": "nibras-bin-sayed",
+    "shared_keywords": [],
+    "weight": 0.3979316438197061
+  },
+  {
     "source": "nusrat-tajkia",
     "target": "sadia-afrin",
     "shared_keywords": [
@@ -3498,12 +3540,6 @@
       "Comparative Literature"
     ],
     "weight": 0.40192241315086025
-  },
-  {
-    "source": "nusrat-tajkia",
-    "target": "rajia-sultana",
-    "shared_keywords": [],
-    "weight": 0.39424960160093214
   },
   {
     "source": "habibun-nahar",
@@ -3705,6 +3741,12 @@
     "weight": 0.43531713023904084
   },
   {
+    "source": "ahmed-abidur-razzaque-khan-phd",
+    "target": "prof-jude-wr-genilo-phd",
+    "shared_keywords": [],
+    "weight": 0.424184183428037
+  },
+  {
     "source": "prof-milan-kumar-bhattacharjee",
     "target": "shubhankar-shil",
     "shared_keywords": [
@@ -3739,12 +3781,6 @@
       "University of Liberal Arts Bangladesh"
     ],
     "weight": 0.3771325872790856
-  },
-  {
-    "source": "prof-milan-kumar-bhattacharjee",
-    "target": "sakib-hasan-siddiqui",
-    "shared_keywords": [],
-    "weight": 0.3679891689801479
   },
   {
     "source": "prof-muhammad-golam-kibria-phd-smieee",
@@ -3787,6 +3823,12 @@
     "target": "prof-shahnaj-husne-jahan-phd",
     "shared_keywords": [],
     "weight": 0.4280531683622216
+  },
+  {
+    "source": "afsana-anjum",
+    "target": "prof-shahnaj-husne-jahan-phd",
+    "shared_keywords": [],
+    "weight": 0.42620593694916126
   },
   {
     "source": "prof-shahnaj-husne-jahan-phd",
@@ -4150,6 +4192,12 @@
       "EE"
     ],
     "weight": 0.38411059976136674
+  },
+  {
+    "source": "md-zesun-ahmed-mia",
+    "target": "rukhsana-choudhury",
+    "shared_keywords": [],
+    "weight": 0.37851366390507335
   },
   {
     "source": "prof-muhammad-ibrahim-phd",
@@ -4520,12 +4568,6 @@
     "weight": 0.4124550423718652
   },
   {
-    "source": "a-f-wazir-ahmad-phd",
-    "target": "shamsuddin-ahamad-phd",
-    "shared_keywords": [],
-    "weight": 0.3914695535691357
-  },
-  {
     "source": "shahana-afrose-chowdhury-phd",
     "target": "shatabdi-das",
     "shared_keywords": [],
@@ -4556,6 +4598,14 @@
     "weight": 0.30855078087874815
   },
   {
+    "source": "debolina-halder-lina",
+    "target": "shawban-mahmud",
+    "shared_keywords": [
+      "Computer Science"
+    ],
+    "weight": 0.4254359244035674
+  },
+  {
     "source": "md-kaviul-hossain",
     "target": "shawban-mahmud",
     "shared_keywords": [],
@@ -4572,12 +4622,6 @@
     "target": "shawban-mahmud",
     "shared_keywords": [],
     "weight": 0.3849894923963783
-  },
-  {
-    "source": "debolina-halder-lina",
-    "target": "shawban-mahmud",
-    "shared_keywords": [],
-    "weight": 0.3654359244035674
   },
   {
     "source": "shajedul-alam",
@@ -4724,6 +4768,20 @@
     "weight": 0.43340317760574687
   },
   {
+    "source": "atanu-shuvam-roy",
+    "target": "sovon-chakraborty",
+    "shared_keywords": [
+      "IoT"
+    ],
+    "weight": 0.4291023323739388
+  },
+  {
+    "source": "md-nazmul-abdal",
+    "target": "sovon-chakraborty",
+    "shared_keywords": [],
+    "weight": 0.4262606516856829
+  },
+  {
     "source": "shakib-mahmud-dipto",
     "target": "sovon-chakraborty",
     "shared_keywords": [],
@@ -4774,6 +4832,15 @@
     "weight": 0.4348098599544735
   },
   {
+    "source": "debolina-halder-lina",
+    "target": "suravi-akhter",
+    "shared_keywords": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "weight": 0.3976100913686438
+  },
+  {
     "source": "md-nazmul-abdal",
     "target": "suravi-akhter",
     "shared_keywords": [
@@ -4783,29 +4850,20 @@
     "weight": 0.3861735019767247
   },
   {
-    "source": "dewan-ahmed-muhtasim",
-    "target": "suravi-akhter",
-    "shared_keywords": [
-      "Machine Learning",
-      "Data Science"
-    ],
-    "weight": 0.3396750526795744
-  },
-  {
-    "source": "debolina-halder-lina",
-    "target": "suravi-akhter",
-    "shared_keywords": [
-      "Machine Learning"
-    ],
-    "weight": 0.3376100913686438
-  },
-  {
     "source": "md-kaviul-hossain",
     "target": "suravi-akhter",
     "shared_keywords": [
       "Machine Learning"
     ],
     "weight": 0.3181990172815246
+  },
+  {
+    "source": "mst-taskia-khatun-phd",
+    "target": "suravi-akhter",
+    "shared_keywords": [
+      "Data Science"
+    ],
+    "weight": 0.31618106592729317
   },
   {
     "source": "sirajum-munira-joti",
@@ -4858,6 +4916,14 @@
     "weight": 0.41105911128825307
   },
   {
+    "source": "ashraful-kadir-phd",
+    "target": "t-m-abul-kalam-azad-phd",
+    "shared_keywords": [
+      "Numerical Analysis"
+    ],
+    "weight": 0.39717253684375325
+  },
+  {
     "source": "ekhtear-ahmed-zeesan",
     "target": "t-m-abul-kalam-azad-phd",
     "shared_keywords": [],
@@ -4874,12 +4940,6 @@
     "target": "t-m-abul-kalam-azad-phd",
     "shared_keywords": [],
     "weight": 0.3839057467939773
-  },
-  {
-    "source": "rigan-chakma",
-    "target": "t-m-abul-kalam-azad-phd",
-    "shared_keywords": [],
-    "weight": 0.36538401970764867
   },
   {
     "source": "nazmun-nur-eva",
@@ -4964,6 +5024,14 @@
     "weight": 0.2952875244844391
   },
   {
+    "source": "abu-saleh-mohammad-rafi-phd",
+    "target": "tazin-ahmed",
+    "shared_keywords": [
+      "Sociolinguistics"
+    ],
+    "weight": 0.4596142530323901
+  },
+  {
     "source": "iram-mehrin",
     "target": "tazin-ahmed",
     "shared_keywords": [
@@ -4984,14 +5052,6 @@
       "Sociolinguistics"
     ],
     "weight": 0.4162716479234798
-  },
-  {
-    "source": "al-mahmud-rumman",
-    "target": "tazin-ahmed",
-    "shared_keywords": [
-      "Sociolinguistics"
-    ],
-    "weight": 0.4144857515571519
   },
   {
     "source": "abu-saleh-mohammad-rafi-phd",
@@ -5054,19 +5114,19 @@
     "weight": 0.28856387020028446
   },
   {
-    "source": "dewan-ahmed-muhtasim",
-    "target": "wahida-ferdose-urmi",
-    "shared_keywords": [
-      "Machine Learning"
-    ],
-    "weight": 0.2673636751644656
-  },
-  {
     "source": "suravi-akhter",
     "target": "wahida-ferdose-urmi",
     "shared_keywords": [
       "Machine Learning"
     ],
     "weight": 0.2598644900544075
+  },
+  {
+    "source": "md-kaviul-hossain",
+    "target": "wahida-ferdose-urmi",
+    "shared_keywords": [
+      "Machine Learning"
+    ],
+    "weight": 0.2587825587516521
   }
 ]

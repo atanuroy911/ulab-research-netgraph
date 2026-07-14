@@ -20,7 +20,7 @@ from PyQt6.QtWidgets import (
     QSplitter, QTabWidget, QLabel, QPushButton, QLineEdit, QTextEdit,
     QPlainTextEdit, QCheckBox, QComboBox, QFrame, QTreeWidget,
     QTreeWidgetItem, QHeaderView, QGroupBox, QScrollArea, QSizePolicy,
-    QStatusBar, QProgressBar, QMessageBox
+    QStatusBar, QProgressBar, QMessageBox, QSpinBox
 )
 from PyQt6.QtCore import (
     Qt, QThread, pyqtSignal, QObject, QTimer, QSize
@@ -465,6 +465,21 @@ class ControlPanel(QMainWindow):
         self.force_extract_chk = QCheckBox("Force Re-Extract (overwrite existing AI extractions)")
         gv.addWidget(self.skip_scrape_chk)
         gv.addWidget(self.force_extract_chk)
+
+        kw_row = QHBoxLayout()
+        kw_row.addWidget(QLabel("Keywords per faculty:"))
+        self.keyword_count_spin = QSpinBox()
+        self.keyword_count_spin.setRange(3, 50)
+        self.keyword_count_spin.setValue(15)
+        self.keyword_count_spin.setToolTip(
+            "How many research-domain phrases the LLM should extract per faculty member.\n"
+            "Only takes effect on profiles that are (re-)extracted — combine with\n"
+            "'Force Re-Extract' to regenerate everyone at the new count (overwrites existing keywords)."
+        )
+        kw_row.addWidget(self.keyword_count_spin)
+        kw_row.addStretch()
+        gv.addLayout(kw_row)
+
         v.addWidget(grp)
 
         # Targeted scrape
@@ -480,8 +495,131 @@ class ControlPanel(QMainWindow):
         gv2.addWidget(btn)
         v.addWidget(grp2)
 
+        # Graph builder — the actually-working embeddings/edges pipeline (Node, not the
+        # legacy pipeline/build_edges.py which falls back to mock vectors without
+        # sentence-transformers installed). Lets you pick which keyword sources feed the
+        # graph and re-generate it accordingly.
+        grp3 = QGroupBox("Graph Builder (Embeddings + Edges)")
+        gv3 = QVBoxLayout(grp3)
+
+        gv3.addWidget(QLabel("Keyword sources to include when building the graph:"))
+        src_row = QHBoxLayout()
+        self.src_bio_chk = QCheckBox("Bio")
+        self.src_pubs_chk = QCheckBox("Publications")
+        self.src_interests_chk = QCheckBox("Interests")
+        for chk in (self.src_bio_chk, self.src_pubs_chk, self.src_interests_chk):
+            chk.setChecked(True)
+            src_row.addWidget(chk)
+        src_row.addStretch()
+        gv3.addLayout(src_row)
+
+        graph_btn_row = QHBoxLayout()
+        self.build_graph_btn = QPushButton("🕸 Rebuild Embeddings + Edges")
+        self.build_graph_btn.setObjectName("sky")
+        self.build_graph_btn.setToolTip(
+            "Runs scripts/build-embeddings.mjs then scripts/build-edges.mjs (Node) using only\n"
+            "the checked keyword sources. Overwrites data/embeddings.json and data/edges.json."
+        )
+        self.build_graph_btn.clicked.connect(self._run_graph_builder)
+        graph_btn_row.addWidget(self.build_graph_btn)
+        graph_btn_row.addStretch()
+        gv3.addLayout(graph_btn_row)
+
+        v.addWidget(grp3)
+
+        # LLM extraction versions — switch which archived model's keywords are "active"
+        # (used by the graph/search/directory) without re-calling the LLM.
+        grp4 = QGroupBox("LLM Extraction Versions")
+        gv4 = QVBoxLayout(grp4)
+        gv4.addWidget(QLabel(
+            "Each faculty file can retain extractions from multiple LLMs (extract with a\n"
+            "different model selected above, without --force clearing prior history). Switch\n"
+            "which one is active below — locked/verified faculty are never touched."
+        ))
+        active_row = QHBoxLayout()
+        active_row.addWidget(QLabel("Model:"))
+        self.active_model_combo = QComboBox()
+        self.active_model_combo.setEditable(True)
+        self.active_model_combo.addItem("llama3:8b")
+        active_row.addWidget(self.active_model_combo)
+
+        set_active_btn = QPushButton("⭐ Set as Active (all faculty)")
+        set_active_btn.setObjectName("amber")
+        set_active_btn.clicked.connect(self._set_active_extraction)
+        active_row.addWidget(set_active_btn)
+        active_row.addStretch()
+        gv4.addLayout(active_row)
+
+        v.addWidget(grp4)
+
         v.addStretch()
         return tab
+
+    def _selected_keyword_sources(self):
+        sources = []
+        if self.src_bio_chk.isChecked():
+            sources.append("bio")
+        if self.src_pubs_chk.isChecked():
+            sources.append("pubs")
+        if self.src_interests_chk.isChecked():
+            sources.append("interests")
+        return sources
+
+    def _run_graph_builder(self):
+        sources = self._selected_keyword_sources()
+        if not sources:
+            QMessageBox.warning(self, "No sources selected", "Check at least one keyword source.")
+            return
+
+        web_dir = os.path.join(BASE_DIR, "web")
+        env = {"KEYWORD_SOURCE_FILTER": ",".join(sources)}
+        npm = "npm.cmd" if os.name == "nt" else "npm"
+
+        self.build_graph_btn.setEnabled(False)
+        self._log(f"--- Rebuilding graph (sources: {', '.join(sources)}) ---")
+
+        def run_edges(rc):
+            if rc != 0:
+                self._log("[Error] build-embeddings.mjs failed — skipping edges step.")
+                self.build_graph_btn.setEnabled(True)
+                return
+            w2 = ProcessWorker([npm, "run", "build-edges"], web_dir, env)
+            w2.log.connect(self._log)
+            w2.finished.connect(lambda rc2: (
+                self._log("--- Graph rebuild complete ---" if rc2 == 0 else "--- Graph rebuild failed ---"),
+                self.build_graph_btn.setEnabled(True)
+            ))
+            w2.start()
+            self._graph_edges_worker = w2
+
+        w1 = ProcessWorker([npm, "run", "build-embeddings"], web_dir, env)
+        w1.log.connect(self._log)
+        w1.finished.connect(run_edges)
+        w1.start()
+        self._graph_embeddings_worker = w1
+
+    def _set_active_extraction(self):
+        model = self.active_model_combo.currentText().strip()
+        if not model:
+            return
+        confirm = QMessageBox.question(
+            self, "Switch active extraction",
+            f"This overwrites extracted_keywords for every faculty that has a stored "
+            f"'{model}' extraction (locked/verified faculty are skipped). Continue?",
+        )
+        if confirm != QMessageBox.StandardButton.Yes:
+            return
+
+        self._log(f"--- Switching active extraction to '{model}' ---")
+        cmd = [sys.executable, os.path.join(BASE_DIR, "pipeline", "set_active_extraction.py"), "--model", model]
+        w = ProcessWorker(cmd, BASE_DIR)
+        w.log.connect(self._log)
+        w.finished.connect(lambda rc: self._log(
+            "--- Switch complete. Rebuild the graph / re-run index generation to reflect it. ---"
+            if rc == 0 else "--- Switch failed ---"
+        ))
+        w.start()
+        self._set_active_worker = w
 
     # ── Faculty Browser tab ───────────────────────────────────────────────────
     def _build_browser_tab(self):
@@ -749,6 +887,7 @@ class ControlPanel(QMainWindow):
         env = {
             "OLLAMA_MODEL": self.model_combo.currentText(),
             "OLLAMA_URL":   f"{self.url_edit.text().strip()}/api/generate",
+            "KEYWORD_COUNT": str(self.keyword_count_spin.value()),
         }
 
         STAGES = {
@@ -800,6 +939,7 @@ class ControlPanel(QMainWindow):
         env = {
             "OLLAMA_MODEL": self.model_combo.currentText(),
             "OLLAMA_URL":   f"{self.url_edit.text().strip()}/api/generate",
+            "KEYWORD_COUNT": str(self.keyword_count_spin.value()),
         }
         full_env = {**os.environ.copy(), **env}
 

@@ -50,7 +50,7 @@ export default function Home() {
                 type="text"
                 name="q"
                 placeholder="Describe a research interest, e.g. autonomous drones..."
-                className="w-full pl-10 pr-4 py-3 rounded-md text-slate-900 focus:outline-none focus:ring-2 focus:ring-ulab-yellow"
+                className="w-full pl-10 pr-4 py-3 rounded-md bg-white text-slate-900 focus:outline-none focus:ring-2 focus:ring-ulab-yellow"
               />
               <Search className="absolute left-3 top-3.5 text-slate-400" size={18} />
             </div>

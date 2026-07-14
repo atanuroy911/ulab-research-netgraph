@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { getSourceFilter, filterKeywords } from './keyword-source-filter.mjs';
 
 const BASE_DIR = path.join(process.cwd(), '..');
 const FACULTY_DIR = path.join(BASE_DIR, 'data', 'faculty');
@@ -24,6 +25,9 @@ function cosineSimilarity(a, b) {
 const TOP_K = 6;
 
 function main() {
+  const sourceFilter = getSourceFilter();
+  if (sourceFilter) console.log(`Filtering keywords to sources: ${[...sourceFilter].join(', ')}`);
+
   const files = fs.readdirSync(FACULTY_DIR).filter((f) => f.endsWith('.json') && f !== 'example.json');
   const faculty = files.map((f) => JSON.parse(fs.readFileSync(path.join(FACULTY_DIR, f), 'utf8')));
   const n = faculty.length;
@@ -32,8 +36,8 @@ function main() {
   const pair = (i, j) => {
     const fac1 = faculty[i];
     const fac2 = faculty[j];
-    const kws1 = new Set((fac1.extracted_keywords || []).map(getCanonical));
-    const kws2 = new Set((fac2.extracted_keywords || []).map(getCanonical));
+    const kws1 = new Set(filterKeywords(fac1.extracted_keywords, sourceFilter).map(getCanonical));
+    const kws2 = new Set(filterKeywords(fac2.extracted_keywords, sourceFilter).map(getCanonical));
     const shared = [...kws1].filter((k) => kws2.has(k));
     const sim = cosineSimilarity(fac1.embedding || [], fac2.embedding || []);
     const weight = sim * 0.7 + Math.min(shared.length / 5, 1.0) * 0.3;

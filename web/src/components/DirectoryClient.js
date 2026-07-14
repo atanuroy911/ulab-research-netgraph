@@ -32,7 +32,7 @@ export default function DirectoryClient({ faculty }) {
             placeholder="Search by name, department, or keyword..." 
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            className="w-full pl-10 pr-4 py-2 border border-slate-300 rounded-md focus:outline-none focus:ring-2 focus:ring-ulab-blue focus:border-ulab-blue text-slate-900"
+            className="w-full pl-10 pr-4 py-2 border border-slate-300 rounded-md bg-white focus:outline-none focus:ring-2 focus:ring-ulab-blue focus:border-ulab-blue text-slate-900"
           />
           <Search className="absolute left-3 top-2.5 text-slate-400" size={18} />
         </div>

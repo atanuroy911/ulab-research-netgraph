@@ -62,7 +62,7 @@ function MatchForm() {
           onKeyDown={(e) => {
             if (e.key === 'Enter' && (e.metaKey || e.ctrlKey)) handleSearch();
           }}
-          className="w-full p-4 border border-slate-300 rounded-md focus:ring-2 focus:ring-ulab-blue focus:border-ulab-blue outline-none resize-none text-slate-900"
+          className="w-full p-4 border border-slate-300 rounded-md bg-white focus:ring-2 focus:ring-ulab-blue focus:border-ulab-blue outline-none resize-none text-slate-900"
           placeholder="E.g., I am looking for someone to collaborate on deep learning for natural language processing..."
         ></textarea>
 
