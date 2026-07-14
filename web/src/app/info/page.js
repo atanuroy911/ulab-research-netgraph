@@ -179,33 +179,75 @@ export default function InfoPage() {
           aren&rsquo;t textually similar at all, they&rsquo;re a{' '}
           <em>method from one field applied to a problem in another</em>.
         </p>
+
+        <h3 className="font-semibold text-slate-800 mt-6 mb-2">How the matching actually works</h3>
         <p>
-          The affinity table (<code className="bg-slate-100 px-1.5 py-0.5 rounded text-sm">data/domain_affinity.json</code>)
-          is built by asking the LLM, <strong>separately for every single taxonomy term</strong>:
-          &ldquo;what are the probable applications of combining this domain with a different
-          field?&rdquo; — not by showing it the whole vocabulary at once and asking it to pick a
-          few interesting pairs, which in practice meant most terms got zero coverage (the model
-          gravitates to a handful of obvious combos). The model answers in free text — it doesn&rsquo;t
-          need to copy a term verbatim from anywhere — and each answer is then matched back to the
-          nearest <em>real</em> taxonomy term by embedding similarity, the same nearest-neighbor
-          lookup keyword canonicalization uses (see above). A match is only accepted if it&rsquo;s also{' '}
-          <em>dissimilar enough from the original domain</em> — otherwise the &ldquo;different field&rdquo;
-          the model proposed just collapses back onto a near-synonym of the term you started with,
-          which isn&rsquo;t a cross-disciplinary pairing at all.
+          Building the affinity table (<code className="bg-slate-100 px-1.5 py-0.5 rounded text-sm">data/domain_affinity.json</code>)
+          is a four-step pipeline, run once per regeneration:
         </p>
+        <ol className="list-decimal list-inside space-y-2 text-sm">
+          <li>
+            <strong>Exhaustive per-domain prompting.</strong> Every single canonical taxonomy term
+            gets asked, in small batches (~12 at a time so the model doesn&rsquo;t lose track):
+            &ldquo;what are the probable applications of combining this domain with a genuinely
+            different field?&rdquo; This replaced an earlier version that showed the model the
+            whole taxonomy at once and asked it to &ldquo;pick ~50 interesting pairs&rdquo; — which
+            in practice left most terms with zero coverage, because the model gravitates to a
+            handful of obvious combos rather than reasoning about every domain systematically.
+          </li>
+          <li>
+            <strong>Free-text answers, not verbatim matching.</strong> The model names the other
+            field in plain language — it doesn&rsquo;t have to copy an exact label from a giant
+            list, which was itself a source of rejected/hallucinated pairs in the first version.
+          </li>
+          <li>
+            <strong>Embedding nearest-neighbor lookup.</strong> Each free-text answer is embedded
+            and matched to the closest <em>real</em> taxonomy term by cosine similarity — the same
+            technique keyword canonicalization uses (see above) — so every accepted pairing is
+            anchored to a term faculty can actually have, not an invented label.
+          </li>
+          <li>
+            <strong>Distinctness safeguard.</strong> A match is rejected outright if it&rsquo;s too
+            similar to the origin domain, even if it scored well against the free-text answer.
+            Without this, a term like &ldquo;Painting&rdquo; proposing &ldquo;art history&rdquo; as
+            its cross-field would just match back to &ldquo;Art Studies&rdquo; — a near-synonym in
+            the taxonomy, not a different field at all.
+          </li>
+        </ol>
+
         <Formula>{`match(domain) = argmax_{t ∈ V, sim(embed(domain), embed(t)) < 0.55} sim(embed(field), embed(t))
                 accepted   iff  match_score ≥ 0.55
 
 cross_edge(i, j) exists  iff  dept(i) ≠ dept(j)
                     and ∃ (a, b) ∈ Affinity : a ∈ keywords(i), b ∈ keywords(j)`}</Formula>
+
+        <p className="text-sm text-slate-500">
+          Both thresholds (0.55 match score, 0.55 distinctness ceiling) and the batch size are
+          adjustable per run — from the desktop control panel or the{' '}
+          <a href="/collaborate" className="text-ulab-blue hover:underline">Cross-Disciplinary</a>{' '}
+          page&rsquo;s own regenerate button. Generation also retries once on malformed JSON, since
+          an occasional bad generation is normal and otherwise silently zeroes out that batch.
+        </p>
+
+        <div className="mt-4 grid grid-cols-3 gap-4 text-center">
+          <div className="bg-amber-50 border border-amber-200 rounded-lg p-3">
+            <div className="text-2xl font-bold text-amber-800">551</div>
+            <div className="text-xs text-slate-600">affinity pairs</div>
+          </div>
+          <div className="bg-amber-50 border border-amber-200 rounded-lg p-3">
+            <div className="text-2xl font-bold text-amber-800">3,243</div>
+            <div className="text-xs text-slate-600">cross-disciplinary edges</div>
+          </div>
+          <div className="bg-amber-50 border border-amber-200 rounded-lg p-3">
+            <div className="text-2xl font-bold text-amber-800">158 / 171</div>
+            <div className="text-xs text-slate-600">faculty with at least one match</div>
+          </div>
+        </div>
         <p className="text-sm text-slate-500">
           The affinity table is a plain JSON file, so it can be hand-reviewed or extended directly
           — it&rsquo;s a starting point, not a black box. Generating it makes one LLM call per batch
-          of ~12 terms (exhaustively, so it can take several minutes for the full vocabulary);
-          rebuilding cross-disciplinary edges from an existing table is instant (pure lookup, no
-          model calls). Both steps can be triggered from the desktop control panel or directly from
-          the <a href="/collaborate" className="text-ulab-blue hover:underline">Cross-Disciplinary</a>{' '}
-          page itself.
+          (so it can take several minutes for the full vocabulary); rebuilding cross-disciplinary
+          edges from an existing table is instant (pure lookup, no model calls).
         </p>
       </Section>
 
