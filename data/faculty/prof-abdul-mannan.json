@@ -14,44 +14,44 @@
     {
       "term": "East West Center",
       "canonical": "US Government Fellowship",
-      "weight": 0.8,
-      "source": "bio",
-      "verified": true
-    },
-    {
-      "term": "University of Hawaii",
-      "canonical": "Graduate Studies",
-      "weight": 0.6,
-      "source": "bio",
-      "verified": true
-    },
-    {
-      "term": "Ministry of Foreign Affairs",
-      "canonical": "International Business",
       "weight": 0.5,
       "source": "bio",
-      "verified": true
+      "verified": false
     },
     {
       "term": "Salzburg Seminar",
-      "canonical": "Development Economics",
+      "canonical": "International Business Training",
+      "weight": 0.8,
+      "source": "bio",
+      "verified": false
+    },
+    {
+      "term": "World Bank Fellowship",
+      "canonical": "Development Studies",
+      "weight": 0.7,
+      "source": "bio",
+      "verified": false
+    },
+    {
+      "term": "Management of Universities",
+      "canonical": "University Governance",
+      "weight": 0.9,
+      "source": "bio",
+      "verified": false
+    },
+    {
+      "term": "Bangladesh Management Education and Training Project",
+      "canonical": "Development Studies",
+      "weight": 0.6,
+      "source": "bio",
+      "verified": false
+    },
+    {
+      "term": "South Asian Quality Assurance System",
+      "canonical": "Higher Education",
       "weight": 0.4,
       "source": "bio",
-      "verified": true
-    },
-    {
-      "term": "University Grants Commission of Bangladesh",
-      "canonical": "Apex Body for Higher Education",
-      "weight": 0.3,
-      "source": "bio",
-      "verified": true
-    },
-    {
-      "term": "South Asian University",
-      "canonical": "Board of Governors",
-      "weight": 0.2,
-      "source": "bio",
-      "verified": true
+      "verified": false
     }
   ],
   "embedding": [
@@ -530,47 +530,47 @@
         {
           "term": "East West Center",
           "canonical": "US Government Fellowship",
-          "weight": 0.8,
-          "source": "bio",
-          "verified": true
-        },
-        {
-          "term": "University of Hawaii",
-          "canonical": "Graduate Studies",
-          "weight": 0.6,
-          "source": "bio",
-          "verified": true
-        },
-        {
-          "term": "Ministry of Foreign Affairs",
-          "canonical": "Short Course on International Business",
           "weight": 0.5,
           "source": "bio",
-          "verified": true
+          "verified": false
         },
         {
           "term": "Salzburg Seminar",
-          "canonical": "Managing Developing Economy",
+          "canonical": "International Business Training",
+          "weight": 0.8,
+          "source": "bio",
+          "verified": false
+        },
+        {
+          "term": "World Bank Fellowship",
+          "canonical": "Development Economics",
+          "weight": 0.7,
+          "source": "bio",
+          "verified": false
+        },
+        {
+          "term": "Management of Universities",
+          "canonical": "University Governance",
+          "weight": 0.9,
+          "source": "bio",
+          "verified": false
+        },
+        {
+          "term": "Bangladesh Management Education and Training Project",
+          "canonical": "Education Development",
+          "weight": 0.6,
+          "source": "bio",
+          "verified": false
+        },
+        {
+          "term": "South Asian Quality Assurance System",
+          "canonical": "Higher Education Accreditation",
           "weight": 0.4,
           "source": "bio",
-          "verified": true
-        },
-        {
-          "term": "University Grants Commission of Bangladesh",
-          "canonical": "Apex Body for Higher Education",
-          "weight": 0.3,
-          "source": "bio",
-          "verified": true
-        },
-        {
-          "term": "South Asian University",
-          "canonical": "Board of Governors",
-          "weight": 0.2,
-          "source": "bio",
-          "verified": true
+          "verified": false
         }
       ],
-      "extracted_at": "2026-07-14T04:01:19.854705+00:00"
+      "extracted_at": "2026-07-14T07:08:00.436991+00:00"
     }
   },
   "active_extraction_model": "llama3:8b"

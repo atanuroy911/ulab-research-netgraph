@@ -31,46 +31,46 @@
   ],
   "extracted_keywords": [
     {
-      "term": "multilingualism",
-      "canonical": "Multilingualism",
-      "weight": 0.7,
+      "term": "critical AI studies",
+      "canonical": "AI Research",
+      "weight": 0.8,
       "source": "bio+pubs",
-      "verified": false
+      "verified": true
     },
     {
       "term": "translanguaging pedagogies",
-      "canonical": "Translanguaging Pedagogies",
-      "weight": 0.6,
+      "canonical": "English Language Teaching",
+      "weight": 0.9,
       "source": "bio+pubs",
-      "verified": false
+      "verified": true
     },
     {
       "term": "language policy",
-      "canonical": "Language Policy",
-      "weight": 0.5,
+      "canonical": "Language Policy Studies",
+      "weight": 0.7,
       "source": "bio+pubs",
-      "verified": false
+      "verified": true
     },
     {
-      "term": "critical AI studies",
-      "canonical": "Critical AI Studies",
-      "weight": 0.4,
+      "term": "multilingualism",
+      "canonical": "Multilingual Education",
+      "weight": 0.8,
       "source": "bio+pubs",
-      "verified": false
+      "verified": true
     },
     {
-      "term": "multicultural education",
-      "canonical": "Multicultural Education",
-      "weight": 0.3,
+      "term": "critical race theory",
+      "canonical": "Racism Studies",
+      "weight": 0.6,
       "source": "bio+pubs",
-      "verified": false
+      "verified": true
     },
     {
       "term": "educational linguistics",
-      "canonical": "Educational Linguistics",
-      "weight": 0.2,
+      "canonical": "Multilingual Education",
+      "weight": 0.8,
       "source": "bio+pubs",
-      "verified": false
+      "verified": true
     }
   ],
   "embedding": [
@@ -575,49 +575,49 @@
     "llama3:8b": {
       "keywords": [
         {
-          "term": "multilingualism",
-          "canonical": "Multilingualism",
-          "weight": 0.7,
+          "term": "critical AI studies",
+          "canonical": "AI Research",
+          "weight": 0.8,
           "source": "bio+pubs",
-          "verified": false
+          "verified": true
         },
         {
           "term": "translanguaging pedagogies",
-          "canonical": "Translanguaging Pedagogies",
-          "weight": 0.6,
+          "canonical": "Language Education",
+          "weight": 0.9,
           "source": "bio+pubs",
-          "verified": false
+          "verified": true
         },
         {
           "term": "language policy",
-          "canonical": "Language Policy",
-          "weight": 0.5,
+          "canonical": "Language Policy Studies",
+          "weight": 0.7,
           "source": "bio+pubs",
-          "verified": false
+          "verified": true
         },
         {
-          "term": "critical AI studies",
-          "canonical": "Critical AI Studies",
-          "weight": 0.4,
+          "term": "multilingualism",
+          "canonical": "Multilingual Education",
+          "weight": 0.8,
           "source": "bio+pubs",
-          "verified": false
+          "verified": true
         },
         {
-          "term": "multicultural education",
-          "canonical": "Multicultural Education",
-          "weight": 0.3,
+          "term": "critical race theory",
+          "canonical": "Racism Studies",
+          "weight": 0.6,
           "source": "bio+pubs",
-          "verified": false
+          "verified": true
         },
         {
           "term": "educational linguistics",
-          "canonical": "Educational Linguistics",
-          "weight": 0.2,
+          "canonical": "Language in Education",
+          "weight": 0.8,
           "source": "bio+pubs",
-          "verified": false
+          "verified": true
         }
       ],
-      "extracted_at": "2026-07-14T03:53:39.531371+00:00"
+      "extracted_at": "2026-07-14T07:00:24.469481+00:00"
     }
   },
   "active_extraction_model": "llama3:8b"

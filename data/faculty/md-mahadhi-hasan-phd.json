@@ -28,45 +28,45 @@
   ],
   "extracted_keywords": [
     {
-      "term": "Artificial Intelligence in Education",
-      "canonical": "AI Ed",
-      "weight": 0.8,
+      "term": "cognitive radio networks",
+      "canonical": "Wireless Networks",
+      "weight": 0.9,
       "source": "bio+pubs",
-      "verified": true
+      "verified": false
     },
     {
       "term": "EdTech",
+      "canonical": "Teaching Material",
+      "weight": 0.8,
+      "source": "bio+pubs",
+      "verified": false
+    },
+    {
+      "term": "Artificial Intelligence in Education and Language Learning",
+      "canonical": "Artificial Intelligence in Education",
+      "weight": 0.9,
+      "source": "bio+pubs",
+      "verified": false
+    },
+    {
+      "term": "New Media use on learner motivation",
       "canonical": "EdTech",
       "weight": 0.7,
       "source": "bio+pubs",
-      "verified": true
+      "verified": false
     },
     {
-      "term": "Teacher Education",
-      "canonical": "TE",
-      "weight": 0.6,
+      "term": "Personalized language learning",
+      "canonical": "Personalized language learning",
+      "weight": 0.8,
       "source": "bio+pubs",
-      "verified": true
+      "verified": false
     },
     {
-      "term": "Technology and Ethics in Education",
-      "canonical": "TEE Ed",
-      "weight": 0.5,
+      "term": "Effects of English-medium instruction on student performance",
+      "canonical": "Applied Linguistics and TESOL",
+      "weight": 0.7,
       "source": "bio+pubs",
-      "verified": true
-    },
-    {
-      "term": "Critical AI",
-      "canonical": "Crit AI",
-      "weight": 0.4,
-      "source": "bio+pubs",
-      "verified": true
-    },
-    {
-      "term": "Personalized Learning",
-      "canonical": "PL",
-      "weight": 0.3,
-      "source": "pubs",
       "verified": false
     }
   ],
@@ -607,49 +607,49 @@
     "llama3:8b": {
       "keywords": [
         {
-          "term": "Artificial Intelligence in Education",
-          "canonical": "AI Ed",
-          "weight": 0.8,
+          "term": "cognitive radio networks",
+          "canonical": "cognitive radio networks",
+          "weight": 0.9,
           "source": "bio+pubs",
-          "verified": true
+          "verified": false
         },
         {
           "term": "EdTech",
+          "canonical": "Teacher Education",
+          "weight": 0.8,
+          "source": "bio+pubs",
+          "verified": false
+        },
+        {
+          "term": "Artificial Intelligence in Education and Language Learning",
+          "canonical": "Artificial Intelligence in Education and Language Learning",
+          "weight": 0.9,
+          "source": "bio+pubs",
+          "verified": false
+        },
+        {
+          "term": "New Media use on learner motivation",
           "canonical": "EdTech",
           "weight": 0.7,
           "source": "bio+pubs",
-          "verified": true
+          "verified": false
         },
         {
-          "term": "Teacher Education",
-          "canonical": "TE",
-          "weight": 0.6,
+          "term": "Personalized language learning",
+          "canonical": "Personalized language learning",
+          "weight": 0.8,
           "source": "bio+pubs",
-          "verified": true
+          "verified": false
         },
         {
-          "term": "Technology and Ethics in Education",
-          "canonical": "TEE Ed",
-          "weight": 0.5,
+          "term": "Effects of English-medium instruction on student performance",
+          "canonical": "Applied Linguistics and TESOL",
+          "weight": 0.7,
           "source": "bio+pubs",
-          "verified": true
-        },
-        {
-          "term": "Critical AI",
-          "canonical": "Crit AI",
-          "weight": 0.4,
-          "source": "bio+pubs",
-          "verified": true
-        },
-        {
-          "term": "Personalized Learning",
-          "canonical": "PL",
-          "weight": 0.3,
-          "source": "pubs",
           "verified": false
         }
       ],
-      "extracted_at": "2026-07-14T03:58:46.158709+00:00"
+      "extracted_at": "2026-07-14T07:05:27.118798+00:00"
     }
   },
   "active_extraction_model": "llama3:8b"
